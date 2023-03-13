@@ -1,0 +1,13 @@
+# IDE - VSCode
+.vscode/*
+!.vscode/settings.json
+!.vscode/tasks.json
+!.vscode/launch.json
+!.vscode/extensions.json
+
+
+*.ignore.*
+*.ignore
+
+/.obsidian/workspace-mobile.json
+/.obsidian/graph.json
