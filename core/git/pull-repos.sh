@@ -30,9 +30,18 @@ source ./variables.sh
 
 parallel_args=()
 
-for repo in "${important_repos[@]}"
-do 
-  parallel_args+=("./_pull-repos/pull-from-branch.sh ${important_repos_dir}/${repo} main")
+for i in "${!important_repos[@]}"
+do
+  repo="${important_repos[$i]}"
+    
+  if [ "$i" == "0" ]
+  then
+    # Ask for Git credentials first if SSH key is locked
+
+    ./_pull-repos/pull-from-branch.sh "${important_repos_dir}/${repo}" main
+  else
+    parallel_args+=("./_pull-repos/pull-from-branch.sh ${important_repos_dir}/${repo} main")
+  fi
 done
 
 printf '%s\n' "${parallel_args[@]}" | parallel --jobs 2 --halt soon,fail=1 --keep-order
