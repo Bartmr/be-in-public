@@ -1,0 +1,26 @@
+@import 'variables';
+@import 'contrasting-colors-mixins';
+
+.bg-selected {
+  background-color: $selected-bg !important;
+}
+
+.bg-hovered {
+  background-color: $hovered-bg !important;
+}
+
+@each $color, $value in $theme-colors {
+  .bg-#{$color}-muted {
+    background-color: set-contrasting-color-alpha(
+      $color,
+      $opacity-muted
+    ) !important;
+  }
+
+  .bg-#{$color}-subtle {
+    background-color: set-contrasting-color-alpha(
+      $color,
+      $opacity-subtle
+    ) !important;
+  }
+}

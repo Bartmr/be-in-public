@@ -1,0 +1,26 @@
+@import 'variables';
+@import 'setup-bootstrap';
+
+.text-link {
+  color: $link-color;
+  text-decoration: $link-decoration;
+  cursor: pointer;
+
+  &:hover,
+  &:focus {
+    color: $link-hover-color;
+    text-decoration: $link-hover-decoration;
+  }
+}
+
+.text-highlight {
+  text-decoration: underline !important;
+}
+
+pre.pre-reset {
+  overflow: initial;
+  white-space: break-spaces;
+
+  font-family: $font-family-base;
+  @include font-size($font-size-base);
+}

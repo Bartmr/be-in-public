@@ -1,0 +1,77 @@
+@import 'variables';
+@import 'setup-bootstrap';
+
+.spinner-border {
+  @each $breakpoint in map-keys($grid-breakpoints) {
+    @include media-breakpoint-up($breakpoint) {
+      $infix: breakpoint-infix($breakpoint, $grid-breakpoints);
+
+      &.spinner-border#{$infix}-sm {
+        width: $spinner-width-sm;
+        height: $spinner-height-sm;
+      }
+      &.spinner-border#{$infix}-md {
+        width: $spinner-width;
+        height: $spinner-height;
+      }
+      &.spinner-border#{$infix}-lg {
+        width: $spinner-width-lg;
+        height: $spinner-height-lg;
+      }
+      &.spinner-border-inherit {
+        width: 1em;
+        height: 1em;
+      }
+    }
+  }
+}
+
+.spinner-grow {
+  @each $breakpoint in map-keys($grid-breakpoints) {
+    @include media-breakpoint-up($breakpoint) {
+      $infix: breakpoint-infix($breakpoint, $grid-breakpoints);
+
+      &.spinner-grow#{$infix}-sm {
+        width: $spinner-width-sm;
+        height: $spinner-height-sm;
+      }
+      &.spinner-grow#{$infix}-md {
+        width: $spinner-width;
+        height: $spinner-height;
+      }
+      &.spinner-grow#{$infix}-lg {
+        width: $spinner-width-lg;
+        height: $spinner-height-lg;
+      }
+      &.spinner-grow-inherit {
+        width: 1em;
+        height: 1em;
+      }
+    }
+  }
+}
+
+/*
+  Set spinner-border border width depending on its size
+*/
+.spinner-border {
+  @each $breakpoint in map-keys($grid-breakpoints) {
+    @include media-breakpoint-up($breakpoint) {
+      $infix: breakpoint-infix($breakpoint, $grid-breakpoints);
+
+      &.spinner-border#{$infix}-sm {
+        border-width: $spinner-border-width-sm;
+      }
+      &.spinner-border#{$infix}-md {
+        border-width: $spinner-border-width;
+      }
+      &.spinner-border#{$infix}-lg {
+        border-width: $spinner-border-width-lg;
+      }
+      &.spinner-border-inherit {
+        border-width: 0.2em;
+      }
+    }
+  }
+}
+/* --- */

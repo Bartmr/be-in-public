@@ -1,0 +1,290 @@
+@import 'src/components/ui-kit/global-styles/additional-functions/color-info-functions';
+
+$primary: #8133ff;
+$secondary: #ff6b00;
+$success: #28a745;
+$info: #007bff;
+$warning: #ffc107;
+$danger: #dc3545;
+$light: darken(#ffffff, 3);
+$lightest: #ffffff;
+$dark: #4d4d4d;
+$darkest: #262626;
+
+$body-bg: $lightest;
+
+$body-bg-inverted: $darkest;
+
+$inverted-is-dark-mode: true;
+
+$default: null;
+$default-inverted: null;
+
+@if ($inverted-is-dark-mode) {
+  $default: $light;
+  $default-inverted: $dark;
+} @else {
+  $default: $dark;
+  $default-inverted: $light;
+}
+
+$theme-colors: (
+  'default': $default,
+  'primary': $primary,
+  'secondary': $secondary,
+  'success': $success,
+  'info': $info,
+  'warning': $warning,
+  'danger': $danger,
+  'light': $light,
+  'lightest': $lightest,
+  'dark': $dark,
+  'darkest': $darkest,
+);
+
+$inverted-theme-colors: (
+  'default': $default-inverted,
+  'primary': $primary,
+  'secondary': $secondary,
+  'success': $success,
+  'info': $info,
+  'warning': $warning,
+  'danger': $danger,
+  'lightest': $lightest,
+  'light': $light,
+  'dark': $dark,
+  'darkest': $darkest,
+);
+
+@function get-theme-color($color-name) {
+  $value: map-get($theme-colors, $color-name);
+
+  @if ($value) {
+    @return $value;
+  } @else {
+    @error "-> #{$color-name} does not exist in $theme-colors";
+  }
+}
+
+@function get-inverted-theme-color($color-name) {
+  $value: map-get($inverted-theme-colors, $color-name);
+
+  @if ($value) {
+    @return $value;
+  } @else {
+    @error "-> #{$color-name} does not exist in $inverted-theme-colors";
+  }
+}
+
+/*
+---
+--- CSS Custom Properties initial values and functions
+---
+*/
+
+$contrasting-colors-names: ('body', 'body-hover');
+
+@each $color-name in map-keys($theme-colors) {
+  $contrasting-colors-names: join(
+    $contrasting-colors-names,
+    ($color-name, #{$color-name}-hover),
+    $separator: comma
+  );
+}
+
+$contrasting-color-css-custom-properties: ();
+
+@each $color in $contrasting-colors-names {
+  $contrasting-color-css-custom-properties: map-merge(
+    $contrasting-color-css-custom-properties,
+    (--#{$color}-contrasting-color: --#{$color}-contrasting-color)
+  );
+
+  $subpixels: (h, s, l);
+
+  @each $subpixel in $subpixels {
+    $contrasting-color-css-custom-properties: map-merge(
+      $contrasting-color-css-custom-properties,
+      (
+        --#{$color}-contrasting-color-#{$subpixel}:
+          --#{$color}-contrasting-color-#{$subpixel}
+      )
+    );
+  }
+}
+
+/* --- Initial Values --- */
+
+/* Dark text colors to use in light background colors */
+
+$dark-contrasting-colors: (
+  'default': $dark,
+  'primary': $primary,
+  'secondary': $secondary,
+  'success': $success,
+  'info': $info,
+  'warning': $warning,
+  'danger': $danger,
+  'light': $light,
+  'lightest': $lightest,
+  'dark': $dark,
+  'darkest': $darkest,
+  'body': $darkest,
+);
+
+@each $color, $value in $dark-contrasting-colors {
+  $dark-contrasting-colors: map-merge(
+    $dark-contrasting-colors,
+    (#{$color}-hover: lighten($value, 20%))
+  );
+}
+
+/* Light text colors to use in dark background colors */
+
+$light-contrasting-colors: (
+  'default': $light,
+  'primary': change-color($primary, $lightness: 70%),
+  'secondary': change-color($secondary, $lightness: 70%),
+  'success': change-color($success, $lightness: 70%),
+  'info': change-color($info, $lightness: 70%),
+  'warning': change-color($warning, $lightness: 70%),
+  'danger': change-color($danger, $lightness: 70%),
+  'light': $light,
+  'lightest': $lightest,
+  'dark': $dark,
+  'darkest': $darkest,
+  'body': $lightest,
+);
+
+@each $color, $value in $light-contrasting-colors {
+  $light-contrasting-colors: map-merge(
+    $light-contrasting-colors,
+    (#{$color}-hover: lighten($value, 20%))
+  );
+}
+
+/* --- Functions --- */
+
+@import 'src/components/ui-kit/global-styles/additional-functions/contrasting-colors-functions';
+
+/*
+---
+--- End of CSS Custom Properties initial values and functions
+---
+*/
+
+$hovered-bg: set-contrasting-color-alpha('body', 0.1);
+$selected-bg: set-contrasting-color-alpha('primary', 0.2);
+$disabled-bg: set-contrasting-color-alpha('body', 0.15);
+
+$component-active-bg: $primary;
+
+$spacer: 1rem;
+$spacers: (
+  0: 0,
+  1: $spacer * 0.25,
+  2: $spacer * 0.5,
+  3: $spacer,
+  4: $spacer * 2,
+  5: $spacer * 3,
+  6: $spacer * 4,
+  7: $spacer * 6,
+  8: $spacer * 8,
+  9: $spacer * 10,
+);
+
+$grid-breakpoints: (
+  xs: 0,
+  sm: 576px,
+  md: 768px,
+  lg: 992px,
+  xl: 1200px,
+  xxl: 1400px,
+);
+
+$font-1: 'Open Sans', sans-serif;
+
+// Note: Use `inspect` for lists so that quoted items keep the quotes.
+// See https://github.com/sass/sass/issues/2383#issuecomment-336349172
+$font-family-base: inspect($font-1);
+
+$font-size-base: 1rem;
+
+$link-color: get-contrasting-color('primary');
+$link-hover-color: get-contrasting-color('primary-hover');
+$link-decoration: underline;
+
+$code-color: get-contrasting-color('secondary');
+
+$text-muted-opacity: 0.5;
+$text-muted: set-contrasting-color-alpha('body', $text-muted-opacity);
+
+$text-subtle-opacity: 0.15;
+
+$opacity-muted: 0.4;
+$opacity-subtle: 0.1;
+
+$border-color: set-contrasting-color-alpha('body', 0.3);
+
+$border-radius: 0.7rem;
+$border-radius-lg: 1rem;
+$border-radius-sm: 0.4rem;
+
+$box-shadow-inset: inset 0 1px 2px rgba($darkest, 0.5);
+
+$box-shadow-sm-dimensions: 0 0.125rem 0.25rem;
+$box-shadow-sm-opacity: 0.2;
+
+$box-shadow-dimensions: 0 0.5rem 1rem;
+$box-shadow-opacity: 0.2;
+
+$box-shadow-lg-dimensions: 0 1rem 3rem;
+$box-shadow-lg-opacity: 0.3;
+
+/*
+  DO NOT SET IT TO CONTRASTING COLORS,
+  or else, the shadow will be the same color as the contrasting colors inside the
+  shadowed container.
+
+  Example:
+  <div className="bg-darkest>
+    <button className="btn btn-lightest shadow"></button>
+  </div>
+
+  Here, the shadow color will be dark, and will not contrast with bg-darkest,
+  because the contrasting colors are being set by btn-lightest,
+  and its contrasting colors are dark.
+*/
+$box-shadow-sm: #{$box-shadow-sm-dimensions} rgba(0, 0, 0, $box-shadow-sm-opacity);
+$box-shadow: #{$box-shadow-dimensions} rgba(0, 0, 0, $box-shadow-opacity);
+$box-shadow-lg: #{$box-shadow-lg-dimensions} rgba(0, 0, 0, $box-shadow-lg-opacity);
+/* ---*/
+
+$text-shadow-sm-dimensions: 0 0.05rem 0.2rem;
+$text-shadow-sm-opacity: 1;
+
+$text-shadow-dimensions: 0 0.1rem 0.5rem;
+$text-shadow-opacity: 1;
+
+$text-shadow-lg-dimensions: 0 0.5rem 1rem;
+$text-shadow-lg-opacity: 1;
+
+// Copied from node_modules/bootstrap/scss/_variables.scss
+//
+// Z-index master list
+//
+// Warning: Avoid customizing these values. They're used for a bird's eye view
+// of components dependent on the z-axis and are designed to all work together.
+
+$zindex-dropdown: 1000;
+$zindex-sticky: 1020;
+$zindex-fixed: 1030;
+$zindex-offcanvas-backdrop: 1040;
+$zindex-offcanvas: 1045;
+$zindex-modal-backdrop: 1050;
+$zindex-modal: 1055;
+$zindex-popover: 1070;
+$zindex-tooltip: 1080;
+
+//
+//
