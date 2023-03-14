@@ -1,0 +1,20 @@
+{
+  "window.titleBarStyle": "custom",
+  "typescript.updateImportsOnFileMove.enabled": "always",
+  "javascript.updateImportsOnFileMove.enabled": "always",
+  "editor.tabSize": 2,
+  "diffEditor.ignoreTrimWhitespace": true,
+  "editor.minimap.enabled": false,
+  "terminal.integrated.defaultLocation": "editor",
+  "workbench.sideBar.location": "right",
+  "sundial.daySettings": {
+    "workbench.colorTheme": "Default Light+"
+  },
+  "sundial.nightSettings": {
+    "workbench.colorTheme": "Default Dark+"
+  },
+  "dev.containers.defaultExtensions": [
+    "github.copilot",
+    "muuvmuuv.vscode-sundial"
+  ]
+}

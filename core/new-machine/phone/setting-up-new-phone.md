@@ -1,0 +1,31 @@
+- Revoke all SSH keys used in your previous phone
+  - Github
+
+- Login to the Google accounts specified in `core/primary-assets.md`
+- Install and setup Firefox
+  - setup browser data sync
+- Install and setup F-Droid
+- Install Termux from F-Droid
+  - https://f-droid.org/en/packages/com.termux
+  - setup Git in Termux
+    - `apt update`
+    - `apt upgrade -y -o Dpkg::Options::="--force-confold"`
+    - `apt install -y -o Dpkg::Options::="--force-confold" git openssh`
+    - `termux-setup-storage`
+    - `mkdir -p ~/storage/shared/Documents/repositories`
+    - `touch ~/storage/shared/Documents/repositories/.nomedia`
+    - `echo "cd ~/storage/shared/Documents" >> ~/.bashrc`
+    - `ssh-keygen -t ed25519 -C "pbartmr@gmail.com"`
+    - `git config --global user.email "pbartmr@gmail.com"`
+    - `git config --global user.name "Bartolomeu"`
+    - `git config --global pager.diff false`
+    - `cd ~/storage/shared/Documents`
+    - `git clone git@github.com:Bartmr/my-notes.git`
+    - `/data/data/com.termux/files/home/storage/shared/Documents/repositories/core/git/mobile/clone-repos.sh`
+    - `git config --global --add safe.directory '*'`
+    - `git config --global pull.rebase false`
+- Install Obsidian
+- Install Google Play Books
+- Install Kindle
+- Install Feedly
+- Install Pocket
