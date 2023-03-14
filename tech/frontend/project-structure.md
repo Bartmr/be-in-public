@@ -1,0 +1,34 @@
+- components
+  - protons
+    - router-link.tsx
+    - external-link.tsx
+  - routing
+  - shared
+  - ui-kit
+    - core
+    - components
+    - global-styles (in case CSS is used)
+- logic
+  - internals
+    - apis
+      - firebase
+      - main
+        - use-main-api.tsx
+    - logging
+      - logger.tsx
+    - navigation
+    - runtime
+      - environment-variables.tsx
+    - storage
+    - transports
+    - utils
+    - i18n
+  - analytics
+  - auth
+- templates / screens
+  > contains the app's pages / screens
+
+  - products
+    - templates / screens
+      - single-product-template.tsx
+    - products-template.tsx
