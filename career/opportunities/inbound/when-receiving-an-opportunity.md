@@ -1,0 +1,18 @@
+- Ask the following questions
+  - More details
+  - What are they looking for in a collaborator?
+    - Soft skills they appreciate
+  - Why did the team decided that they needed another collaborator
+  - Remote / B2B?
+  - Salary Range
+  - Did you ever recruited someone for this company?
+    - Are they happy?
+  - Do they have any website or public project I can check?
+    - Check the project's sourcemaps and do an `nmap` to identify their backend technologies
+    - Check their social media
+    - Check job review websites
+    - Google `"company name"`, followed by common discussion places like Twitter or Reddit
+- If I reject a recruiter's opportunity, but I feel satisfied with the interaction, I should recommend his skills on LinkedIn, to establish a relationship where the recruiter will send me his future opportunities
+  - To think about after many interactions
+    - What are recruiters looking for during their day?
+    - What can help or catalyze their work? 
