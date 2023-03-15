@@ -1,6 +1,6 @@
 ## Where
 - This repository
-- Browser bookmarks in gmkbartolomeu@gmail.com and pbartmr@gmail.com
+- Browser bookmarks
 
 ## OSINT
 - https://sourcing.games/

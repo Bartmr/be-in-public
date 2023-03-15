@@ -15,13 +15,16 @@
     - `mkdir -p ~/storage/shared/Documents/repositories`
     - `touch ~/storage/shared/Documents/repositories/.nomedia`
     - `echo "cd ~/storage/shared/Documents" >> ~/.bashrc`
-    - `ssh-keygen -t ed25519 -C "pbartmr@gmail.com"`
-    - `git config --global user.email "pbartmr@gmail.com"`
+    - `export MY_EMAIL=`
+    - `export MY_GITHUB_USERNAME=`
+    - `ssh-keygen -t ed25519 -C "$MY_EMAIL"`
+    - `git config --global user.email "$MY_EMAIL"`
     - `git config --global user.name "Bartolomeu"`
     - `git config --global pager.diff false`
     - `cd ~/storage/shared/Documents`
-    - `git clone git@github.com:Bartmr/my-notes.git`
-    - `/data/data/com.termux/files/home/storage/shared/Documents/repositories/core/git/mobile/clone-repos.sh`
+    - `git clone "git@github.com:$MY_GITHUB_USERNAME/my-notes.git"`
+    - `git clone "git@github.com:$MY_GITHUB_USERNAME/be-in-public.git"`
+    - `/data/data/com.termux/files/home/storage/shared/Documents/repositories/be-in-public/core/git/mobile/clone-repos.sh`
     - `git config --global --add safe.directory '*'`
     - `git config --global pull.rebase false`
 - Install Obsidian

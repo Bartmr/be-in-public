@@ -231,8 +231,6 @@
 
 ## Resources
 - Browser bookmarks
-  - pbartmr@gmail.com
-  - gmkbartolomeu@gmail.com
 - https://github.com/Hack-with-Github/Awesome-Hacking
 
 ## IAM
