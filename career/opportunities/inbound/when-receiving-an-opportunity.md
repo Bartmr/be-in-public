@@ -12,6 +12,7 @@
     - Check their social media
     - Check job review websites
     - Google `"company name"`, followed by common discussion places like Twitter or Reddit
+- Recruiters usually need a CV because they print them and highlight parts or take notes with a pen to hundreds of CVs.
 - If I reject a recruiter's opportunity, but I feel satisfied with the interaction, I should recommend his skills on LinkedIn, to establish a relationship where the recruiter will send me his future opportunities
   - To think about after many interactions
     - What are recruiters looking for during their day?

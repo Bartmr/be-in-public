@@ -1,0 +1,5 @@
+- A mix of sarcastic but good-intentioned humour, laid-back environment and german organization.
+- They are honest people with a calm view of their surroundings. Unconfortable truths are well accepted and discussed easily.
+- Mix of many nationalities
+- Center of European law and services. Good for starting government or public-serving businesses
+- A lot of food served is based on carbs

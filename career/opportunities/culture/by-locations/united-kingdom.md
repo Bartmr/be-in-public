@@ -1,0 +1,11 @@
+- The NHS is a big open-source contributor. They clearly display whatever tech they use, and have a design kit with all the accessibility practices explained. They also have a public API.
+  - Developer Portal and public API documentation
+    - https://digital.nhs.uk/developer
+  - https://github.com/NHSDigital
+    - https://github.com/NHSDigital/software-engineering-quality-framework
+    - https://github.com/NHSDigital/nhsuk-react-components
+    - Community collaboration
+      - Anyone can contribute to the community backlog. Be it a question or feature request.
+      - https://github.com/nhsuk/nhsuk-service-manual-community-backlog
+  - Design system
+    - https://service-manual.nhs.uk/design-system/components

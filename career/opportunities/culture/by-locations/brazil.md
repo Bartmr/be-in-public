@@ -1,0 +1,5 @@
+- Brazil merges the marketing and sales environment of the USA, with the friendliness and culture of Portugal. They usually adopt new technologies, methodologies and products earlier than Portugal. 
+- A large population that mainly speaks Portuguese makes Brazil a good place to start spin-offs of popular tech companies, but designed to the Portuguese language and traditions.
+- Food and well-being are very important sectors in Brazil
+- large population means more different demographics and target markets
+- environment sector is growing and being more important day by day (partly due to the Amazon forest)

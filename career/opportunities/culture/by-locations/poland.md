@@ -1,0 +1,9 @@
+- Country focused on families
+- Hard to gain trust as a foreigner
+- Friendly and supportive once you gain their trust
+- Been investing in technology, and their becoming a major player in IT services
+- Dedicated to their jobs
+- Punctuality is taken seriously
+- Shave daily. Clean look is very valued.
+- Be silent on the trams and other public transportation
+- Best country for family and traditional values, while exposed to new technology and work methodologies.
