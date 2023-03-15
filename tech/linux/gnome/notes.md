@@ -1,0 +1,2 @@
+- [Gnome Desktop Entry Format extensions - bootlegged documentation](https://gist.github.com/najamelan/b44e943145b03e018229)
+- [Desktop Entry specs](https://developer-old.gnome.org/desktop-entry-spec/)

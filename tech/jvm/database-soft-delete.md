@@ -1,0 +1,1 @@
+- https://www.baeldung.com/spring-jpa-soft-delete

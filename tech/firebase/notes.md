@@ -1,0 +1,12 @@
+- https://www.fullstackfirebase.com/
+- Monitor and Limit usage
+  - https://firebase.google.com/docs/firestore/monitor-usage
+- Avoid abusive traffic
+  - https://firebase.google.com/support/guides/security-checklist#avoid_abusive_traffic
+  - Cloud Functions
+    - https://cloud.google.com/functions/docs/configuring/max-instances
+- Security checklist
+  - https://firebase.google.com/support/guides/security-checklist
+- Launch checklist
+  - https://firebase.google.com/support/guides/launch-checklist
+  

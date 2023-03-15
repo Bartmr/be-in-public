@@ -1,0 +1,12 @@
+FROM node:16-buster
+
+RUN apt-get update \
+  && apt-get install -y nano
+
+ENV DEBIAN_FRONTEND=noninteractive
+
+RUN apt-get update && \
+  apt-get install -y --no-install-recommends \
+    openjdk-11-jre
+
+USER node

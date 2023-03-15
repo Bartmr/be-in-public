@@ -1,0 +1,37 @@
+FROM ubuntu:22.04
+
+ENV DEBIAN_FRONTEND=noninteractive
+
+RUN apt-get update && apt-get install -y --no-install-recommends ubuntu-desktop
+
+RUN apt-get update && apt-get install -y unzip git jq wget
+
+RUN apt-get -y install \
+  ca-certificates \
+  software-properties-common \
+  gnupg
+
+RUN wget -O- https://apt.corretto.aws/corretto.key | apt-key add -
+RUN add-apt-repository 'deb https://apt.corretto.aws stable main'
+RUN apt-get update && apt-get install -y java-18-amazon-corretto-jdk
+
+RUN groupadd --gid 1000 java && useradd --shell /bin/bash --uid 1000 --gid 1000 --create-home java
+
+USER java
+
+WORKDIR /home/java
+
+ENV JAVA_HOME=/usr/lib/jvm/java-18-amazon-corretto
+
+RUN wget  https://services.gradle.org/distributions/gradle-7.6-bin.zip
+RUN unzip -d . gradle-7.6-bin.zip
+ENV GRADLE_HOME=/home/java/gradle-7.6
+ENV PATH=$PATH:$GRADLE_HOME/bin
+
+COPY ./scripts-dev/install-eclipse.sh /home/java/
+RUN /home/java/install-eclipse.sh
+ENV PATH=$PATH:/home/java/eclipse
+COPY ./scripts-dev/install-eclipse-plugins.sh /home/java/
+RUN /home/java/install-eclipse-plugins.sh
+
+ENTRYPOINT [ "eclipse" ]
