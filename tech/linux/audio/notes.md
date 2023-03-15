@@ -1,0 +1,1 @@
+- https://www.kernel.org/doc/html/v5.0/sound/hd-audio/notes.html

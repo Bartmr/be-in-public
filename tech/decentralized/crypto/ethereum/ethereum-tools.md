@@ -1,0 +1,5 @@
+- Ganache: <https://www.trufflesuite.com/ganache>
+- <https://metamask.io/>
+- <https://web3js.readthedocs.io/>
+- <https://www.trufflesuite.com/>
+- Hardhat
