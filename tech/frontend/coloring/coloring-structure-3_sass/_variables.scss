@@ -1,0 +1,177 @@
+$primary: hsl(263deg, 100%, 60%);
+$primary-1: hsl(263deg, 100%, 20%);
+$secondary: #ff6b00;
+$success: #28a745;
+$info: #007bff;
+$warning: #ffc107;
+$danger: #dc3545;
+$light: darken(#ffffff, 3);
+$lightest: #ffffff;
+$dark: #4d4d4d;
+$darkest: #262626;
+
+$body-bg: $lightest;
+
+$body-bg-inverted: $darkest;
+
+$inverted-is-dark-mode: true;
+
+$default: null;
+$default-inverted: null;
+
+@if ($inverted-is-dark-mode) {
+  $default: $light;
+  $default-inverted: $dark;
+} @else {
+  $default: $dark;
+  $default-inverted: $light;
+}
+
+$theme-colors: (
+  'default': $default,
+  'primary': $primary,
+  'primary-1': $primary-1,
+  'secondary': $secondary,
+  'success': $success,
+  'info': $info,
+  'warning': $warning,
+  'danger': $danger,
+  'light': $light,
+  'lightest': $lightest,
+  'dark': $dark,
+  'darkest': $darkest,
+);
+
+$inverted-theme-colors: (
+  'default': $default-inverted,
+  'primary': $primary,
+  'primary-1': $primary-1,
+  'secondary': $secondary,
+  'success': $success,
+  'info': $info,
+  'warning': $warning,
+  'danger': $danger,
+  'lightest': $lightest,
+  'light': $light,
+  'dark': $dark,
+  'darkest': $darkest,
+);
+
+@function get-theme-color($color-name) {
+  $value: map-get($theme-colors, $color-name);
+
+  @if ($value) {
+    @return $value;
+  } @else {
+    @error "-> #{$color-name} does not exist in $theme-colors";
+  }
+}
+
+@function get-inverted-theme-color($color-name) {
+  $value: map-get($inverted-theme-colors, $color-name);
+
+  @if ($value) {
+    @return $value;
+  } @else {
+    @error "-> #{$color-name} does not exist in $inverted-theme-colors";
+  }
+}
+
+/*
+---
+--- CSS Custom Properties initial values and functions
+---
+*/
+
+$contrasting-colors-names: ('body', 'body-hover');
+
+@each $color-name in map-keys($theme-colors) {
+  $contrasting-colors-names: join(
+    $contrasting-colors-names,
+    ($color-name, #{$color-name}-hover),
+    $separator: comma
+  );
+}
+
+$contrasting-color-css-custom-properties: ();
+
+@each $color in $contrasting-colors-names {
+  $contrasting-color-css-custom-properties: map-merge(
+    $contrasting-color-css-custom-properties,
+    (--#{$color}-contrasting-color: --#{$color}-contrasting-color)
+  );
+
+  $subpixels: (h, s, l);
+
+  @each $subpixel in $subpixels {
+    $contrasting-color-css-custom-properties: map-merge(
+      $contrasting-color-css-custom-properties,
+      (
+        --#{$color}-contrasting-color-#{$subpixel}:
+          --#{$color}-contrasting-color-#{$subpixel}
+      )
+    );
+  }
+}
+
+/* --- Initial Values --- */
+
+/* Dark text colors to use in light background colors */
+
+$dark-contrasting-colors: (
+  'default': $dark,
+  'primary': $primary,
+  'primary-1': $primary-1,
+  'secondary': $secondary,
+  'success': $success,
+  'info': $info,
+  'warning': $warning,
+  'danger': $danger,
+  'light': $light,
+  'lightest': $lightest,
+  'dark': $dark,
+  'darkest': $darkest,
+  'body': $darkest,
+);
+
+@each $color, $value in $dark-contrasting-colors {
+  $dark-contrasting-colors: map-merge(
+    $dark-contrasting-colors,
+    (#{$color}-hover: lighten($value, 20%))
+  );
+}
+
+/* Light text colors to use in dark background colors */
+
+$light-contrasting-colors: (
+  'default': $light,
+  'primary': change-color($primary, $lightness: 70%),
+  'primary-1': change-color($primary, $lightness: 70%),
+  'secondary': change-color($secondary, $lightness: 70%),
+  'success': change-color($success, $lightness: 70%),
+  'info': change-color($info, $lightness: 70%),
+  'warning': change-color($warning, $lightness: 70%),
+  'danger': change-color($danger, $lightness: 70%),
+  'light': $light,
+  'lightest': $lightest,
+  'dark': $dark,
+  'darkest': $darkest,
+  'body': $lightest,
+);
+
+@each $color, $value in $light-contrasting-colors {
+  $light-contrasting-colors: map-merge(
+    $light-contrasting-colors,
+    (#{$color}-hover: lighten($value, 20%))
+  );
+}
+
+/* --- Functions --- */
+
+@import 'components/ui-kit/global-styles/additional-functions/contrasting-colors-functions';
+
+/*
+---
+--- End of CSS Custom Properties initial values and functions
+---
+*/

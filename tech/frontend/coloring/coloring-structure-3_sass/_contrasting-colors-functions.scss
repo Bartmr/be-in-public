@@ -1,0 +1,56 @@
+@function get-contrasting-color-css-custom-property($name, $subpixel: null) {
+  $map-key: null;
+
+  @if ($subpixel) {
+    $map-key: --#{$name}-contrasting-color-#{$subpixel};
+  } @else {
+    $map-key: --#{$name}-contrasting-color;
+  }
+
+  /*
+    Although this looks like duplicated logic to return the color css custom property,
+    this logic below double checks if such color exists
+    from the list of generated CSS custom properties
+  */
+  $custom-property: map-get($contrasting-color-css-custom-properties, $map-key);
+
+  @if ($custom-property) {
+    @return $custom-property;
+  } @else {
+    @error "-> #{$name} (#{$map-key}) does not exist in contrasting-color-css-custom-properties map";
+  }
+}
+
+@function set-contrasting-color-alpha($name, $opacity) {
+  $h: get-contrasting-color-css-custom-property('#{$name}', h);
+  $s: get-contrasting-color-css-custom-property('#{$name}', s);
+  $l: get-contrasting-color-css-custom-property('#{$name}', l);
+
+  @return hsla(var($h), var($s), var($l), $opacity);
+}
+
+@function get-contrasting-color($name) {
+  @return var(#{get-contrasting-color-css-custom-property($name)});
+}
+
+@function get-contrasting-color-absolute-value($fill, $name) {
+  $fill-is-dark: is-color-dark($fill);
+
+  @if ($fill-is-dark) {
+    $value: map-get($light-contrasting-colors, $name);
+
+    @if ($value) {
+      @return $value;
+    } @else {
+      @error "-> #{$name} does not exist in light-contrasting-colors";
+    }
+  } @else {
+    $value: map-get($dark-contrasting-colors, $name);
+
+    @if ($value) {
+      @return $value;
+    } @else {
+      @error "-> #{$name} does not exist in dark-contrasting-colors";
+    }
+  }
+}
