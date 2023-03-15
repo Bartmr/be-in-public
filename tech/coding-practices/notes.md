@@ -1,0 +1,48 @@
+- Rules and stability should be checked by machines. If it cannot be scanned by a script, don't bother enforcing it, as chaos will erode it
+  - Typechecking
+    - Take note of all the parts that cannot be type-checked: if you have a backend that cannot provide frontend typings, or a Decentralized app that does not provide typings for its smart contracts, add a comment reminding future developers to check the other parts of the code in order not to leave code with broken data contracts
+  - Linting of code quality
+  - Code formatting style
+  - Accessibility checks
+  - Services should check the data structures exchanged between themselves, through validation, or shared types (like in Typescript)
+  - Configuration / environment variables should be validated
+  - Rules that cannot be verified by machines create mental overhead on your team, and more room for forgetfulness. Before applying a rule, think if it is strictly necessary and not an aesthetic / code style thing
+- Changes should be seen and tested fast
+  - Hot Reload everything (frontend, backend, unit and integration tests, migrations for databases and other infrastructure)
+  - Selectively load only the parts needed to try out a specific feature, or for an unit or integration test to run. This is order to avoid a long start-up times on big/complex applications
+  - Tests should run in parallel and be stateless
+  - You should be able to clone and start working in a repository immediatly, without much setup besides installing the project's local dependencies using the language's package manager
+- You should be able to do everything locally
+  - Try to emulate all external services
+  - Create seed data for common operations
+- All dependencies should be replacable, for testing and development purposes
+  - Dependency injection
+  - React Hooks
+  - Avoid singletons
+- Program as if you had amnesia or went for a 2 month vacation after every end of the day. You should program as if you couldn't remember anything the next day. This will make the software you write easy to set up and to come back to
+- Human concepts / operations as the only truth, technology as a translation. Sort code by feature / operational concept (`auth`, `users`, `videos`, `ratings`, etc.), NOT by technological layer (`models`, `views`, `controllers`, `helpers`, etc.). In software, the only thing you have defined are operations and its features, that will be translated in whatever tool or technical practive. The only thing that is constant and known are the business concepts and its operations. The technology is volatile: too many tools, too many patterns, too many teammates with varied knowledge of a certain technology. Sometimes you only want to get stuff done without learning intricate new patterns and technologies. The only solution for this chaos is to sort code in the one true thing that it's defined: the features and its operational concepts. This way, the project is sorted for its features, and everything else is just a translation in whatever language/framework. This can also ease you in when coming back to the project, or onboarding a new project, since you are more focused on how its features work, and not on the tech stack quirks and layers.
+  - The only true thing in a project are its features and operations
+  - By sorting by feature/operation, you don't need to think about best practices as much.
+  - Everything becomes more easy to locate
+  - Best practices come and go, and some of them are subjective to each person
+  - less space for subjectivity: features and requirements are set, but technology decisions are too volatile to opinions. if you sort by business operations / features, there's less time spent debating where things should be
+- Program with chaos in mind: everything changes, everything perishes. Everyone forgets, everyone get's distracted or tired. Everyone let's things slide (and that's why it's no use enforcing stuff that cannot be verified by machines) and everyone in your team has different degrees of expertise and different opinions.
+- Make it easy to update dependencies and to check if they didn't break anything.
+- Do not take yourself, your work or some "best-practice" too seriously, or else you will create roots in a soil that changes too quickly. You will accidently create technical debt trying to protect yourself from a scenario that will never happen. The world is too broad to ever take something seriously.
+- Try to work with the shortest attention span and for people with shortest attention spans. Your app should allow new developments and fixes without having too much inside in your head while doing so. This will also allow you to reset your brain faster and start over again when you're blocked on a difficult problem. The more space occupied in your head, the more prone to making mistakes you are
+- Don't go against the framework / library / language. Most of the time, it's better to find a way to comply with it. If you have to do it, make sure its easily revertable
+- Our world is always evolving torwards less code, specially less technical related code. Do not go for writing low-level stuff, like writing libraries
+- You cannot control anything. Don't spend time trying to cleanup or optimize before getting enough the business requirements to do so.
+- The world is always moving towards less code. Do not implement custom solutions for technical issues. Always try to use third party stuff the most,so that you don't need to become an expert on the topic
+- Always prefer description over instructions. What instead of how. Declarative over imperative
+- Accept chaos. There's no way to counter it
+- Program as if past does not exist
+- Do not resist. Do not try to fight back or take control over something. That will only make it worst . It is what it is.
+- Your teammates should not have to remember specific steps in order to do or change something
+- Will the contract (server, websockets, etc.) break between frontend and backend?
+  - Use API versioning in URLs ('v1', 'v2' prefixes in the URLs)
+    - Only increment the version on the endpoints that have breaking changes, and NOT an app wide version
+- Will the changes break the contract between backend and the database (or any other internal services)
+  - Write migrations
+- Amazon API Memo / Bezos API Memo; 2002
+  - https://nordicapis.com/the-bezos-api-mandate-amazons-manifesto-for-externalization/

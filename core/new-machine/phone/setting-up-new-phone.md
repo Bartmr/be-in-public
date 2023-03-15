@@ -29,3 +29,4 @@
 - Install Kindle
 - Install Feedly
 - Install Pocket
+- `tech/social-media`
