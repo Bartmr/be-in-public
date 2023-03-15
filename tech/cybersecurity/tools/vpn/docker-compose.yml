@@ -1,0 +1,40 @@
+version: "3"
+
+services:
+
+  vpn-client:
+    container_name: bartmr-cybersec-vpn-client
+    build:
+      context: .
+      dockerfile: Dockerfile.vpn-client
+    cap_add:
+      - net_admin
+    volumes:
+      - /dev/net/tun:/dev/net/tun
+      - ../../:/home/vscode/cybersec
+    # security_opt:
+    #   - label:disable
+    ports:
+      - 8001:8001
+      - 8002:8002
+      - 8003:8003
+    networks:
+      - bridge_vpn
+    command: /home/vscode/cybersec/tools/vpn/docker-container-command.sh
+
+  vpn-protected:
+    build:
+      context: .
+      dockerfile: Dockerfile.vpn-protected
+    container_name: bartmr-cybersec-vpn-protected
+    network_mode: service:vpn-client
+    volumes:
+      - ../../:/home/vscode/cybersec
+      - /tmp/.X11-unix:/tmp/.X11-unix
+    environment:
+      - DISPLAY=${DISPLAY}
+    command: /home/vscode/cybersec/tools/vpn/docker-container-command.sh
+
+
+networks:
+  bridge_vpn:

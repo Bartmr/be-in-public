@@ -1,0 +1,2 @@
+- resolv.conf files are usually where you place the DNS you want to use. They can be place diretly into `/etc/resolv.conf` or a namespace like `/etc/netns/$VPN_NAMESPACE/resolv.conf`
+- `ip route` see which interfaces are used first in order to resolve the host of a request. The highest priority one is in a line starting with `default`

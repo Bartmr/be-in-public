@@ -1,0 +1,18 @@
+- Port scan
+  - `nmap`
+    - `nmap -n 10.0.0.0/24` to see the machines in the network
+    - include versions of software managing the ports `nmap -sV <host>`
+    - scan whole network `nmap -sV 10.0.0.0/24`
+    - `nmap -sS -sV -sC 10.0.1.18`
+
+  - netstat
+    - See which processes are using which ports: `sudo netstat -tlp`
+  - telnet
+- Aircrack
+  - Monitor Mode
+    - List network interfaces: `ifconfig`
+    - Get access points info: `iwlist wlp3s0 scan`
+    - Kill conflicting processes: `sudo airmon-ng check kill`
+    - Start monitor mode: `sudo airmon-ng start wlp3s0`
+    - Inspect packets: `sudo airodump-ng -c 1 -w psk wlp3s0mon`
+    - Go back to normal: `sudo airmon-ng stop wlp3s0mon`

@@ -1,0 +1,41 @@
+- Use VPN only inside Docker container
+  - run container with its own network, in order to have its own IP address assigned to it
+  - run `ifconfig` to see what is the docker container's IP address
+  - Bind openvpn to that IP address
+    - `sudo openvpn --config config-file.ovpn --local <container's IP address>`
+  - DOESNT WORK! something is missing
+
+- `vpnns`
+  - https://manpages.debian.org/testing/ocproxy/vpnns.1
+  - https://github.com/cernekee/ocproxy/blob/master/vpnns.1
+  - https://github.com/cernekee/ocproxy
+  - https://github.com/cernekee/ocproxy#vpnns-experimental
+- https://github.com/Intika-Linux-Firewall/App-Route-Jail
+
+- https://superuser.com/questions/1543987/openvpn-connect-restricted-to-only-a-specific-user-in-a-linux-debian-based-os
+
+- Create a new network namespace to run your vpn in
+  - https://superuser.com/questions/983727/route-only-specific-traffic-through-vpn
+    - newns NAMESPACE_NAME start
+    - newns NAMESPACE_NAME stop
+  
+  - https://superuser.com/questions/294008/use-vpn-connection-only-for-selected-applications/1262250#1262250
+  - https://github.com/crasm/vpnshift.sh
+  - https://github.com/jamesmcm/vopono
+  - https://unix.stackexchange.com/questions/270883/trying-to-run-openvpn-in-network-namespace
+  - https://github.com/pekman/openvpn-netns
+  - https://itnext.io/create-your-own-network-namespace-90aaebc745d
+  - https://www.toptal.com/linux/separation-anxiety-isolating-your-system-with-linux-namespaces
+  - https://man7.org/linux/man-pages/man8/ip-netns.8.html
+  - https://www.redhat.com/sysadmin/net-namespaces
+  - List namespaces: `lsns`
+  - https://linuxhint.com/use-linux-network-namespace/
+  - https://www.redhat.com/sysadmin/use-net-namespace-vpn
+  - https://gist.github.com/EnigmaCurry/2a199eb35f2bbf23d55ff50dbcc57959
+  - https://schnouki.net/post/2014/openvpn-for-a-single-application-on-linux/
+  - https://unix.stackexchange.com/questions/149293/feed-all-traffic-through-openvpn-for-a-specific-network-namespace-only
+  - http://www.naju.se/articles/openvpn-netns.html
+  - https://github.com/nolar/vpn-in-docker-compose
+  - https://github.com/slingamn/namespaced-openvpn
+    - how would i start a docker container in the protected namespace?
+    - https://github.com/slingamn/namespaced-openvpn/issues/9

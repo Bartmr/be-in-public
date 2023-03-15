@@ -1,0 +1,18 @@
+FROM kalilinux/kali-rolling
+
+RUN apt-get update
+
+RUN apt-get install -y sudo
+
+RUN apt-get install -y openvpn
+
+RUN apt install -y net-tools
+
+RUN groupadd vscode && useradd --shell /bin/bash --create-home --gid vscode --groups sudo vscode
+RUN echo "vscode:Mb921" | chpasswd
+
+USER vscode
+
+WORKDIR /home/vscode/cybersec
+
+CMD [ "/bin/bash" ]

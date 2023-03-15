@@ -1,0 +1,5 @@
+- Scan all ports `nmap -p0-65535 <host>
+- `nmap -n 10.0.0.0/24` to see the machines in the network
+    - include versions of software managing the ports `nmap -sV <host>`
+    - scan whole network `nmap -sV 10.0.0.0/24`
+    - `nmap -sS -sV -sC 10.0.1.18``
