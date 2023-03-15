@@ -1,0 +1,7 @@
+{
+  "python.linting.mypyEnabled": true,
+  "editor.tabSize": 2,
+  "python.pylanceLspNotebooksEnabled": true,
+  "python.analysis.autoImportCompletions": true,
+  "python.analysis.autoImportUserSymbols": true
+}

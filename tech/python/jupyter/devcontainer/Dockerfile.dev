@@ -1,0 +1,11 @@
+FROM python:3.8-buster
+
+RUN apt-get update \
+  && apt-get install -y nano sudo
+
+RUN groupadd vscode && useradd --shell /bin/bash --create-home --gid vscode --groups sudo vscode
+RUN echo "vscode:Mb921" | chpasswd
+
+USER vscode
+
+ENV PATH="${PATH}:/home/vscode/.local/bin"

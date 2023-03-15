@@ -1,0 +1,3 @@
+set -e
+
+nbqa mypy .
