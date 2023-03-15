@@ -1,0 +1,2 @@
+- Controller Lag
+  - If your controller looks like it has a slight delay, it's probably the TV. TV's show pictures with a slight delay in order to process them. You need to switch the TV to "Gaming" picture mode in order to not have lag between controller actions and them appearing on the screen.

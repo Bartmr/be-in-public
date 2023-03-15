@@ -1,0 +1,1 @@
+- https://github.com/cbovis/awesome-digital-nomads
