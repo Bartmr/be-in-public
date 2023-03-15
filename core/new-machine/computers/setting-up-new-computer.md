@@ -4,7 +4,6 @@
   - Github
 
 - During OS installation
-  - user name must be `bartmr`
   - Enable disk encryption (LUKS)
     - Use LVM with encryption
     - Use a long password that would take someone years of CPU time to decrypt your hard-drive if it's in their possession
