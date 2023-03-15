@@ -1,0 +1,53 @@
+- Search for `OpenCourseWare`
+- See `tech/math/learning.md`
+- https://paperswithcode.com/
+- https://pytorch.org/tutorials/beginner/basics/tensor_tutorial.html
+- DataCamp
+- Dataquest
+- https://github.com/ossu/computer-science
+- https://www.kdnuggets.com/2022/09/free-python-data-science-course.html
+- https://www.fast.ai/
+  - https://course.fast.ai/
+  - https://www.fast.ai/posts/part2-2022-preview.html
+- Freecodecamp
+  - https://youtube.com/playlist?list=PLWKjhJtqVAblQe2CCWqV4Zy3LY01Z8aF1
+  - https://www.freecodecamp.org/news/python-data-science-course-matplotlib-pandas-numpy/
+  - https://www.freecodecamp.org/news/learn-data-analysis-with-python-course/
+  - https://www.youtube.com/watch?v=N6BghzuFLIg
+- https://www.coursera.org/instructor/andrewng
+  - https://www.coursera.org/learn/machine-learning
+- https://www.datacamp.com/tracks/data-scientist-with-python
+- https://news.ycombinator.com/item?id=32480009
+- https://www.youtube.com/watch?v=vmEHCJofslg
+- https://pythonnumericalmethods.berkeley.edu/notebooks/Index.html
+- https://github.com/ayush714/data-science-roadmap
+- Search for "Data Science Roadmap"
+- https://www.udacity.com/course/natural-language-processing-nanodegree--nd892
+- https://realpython.com/
+- https://developers.google.com/
+  - https://developers.google.com/machine-learning
+  - https://developers.google.com/machine-learning/crash-course/prereqs-and-prework
+    - https://developers.google.com/machine-learning/problem-framing
+    - https://colab.research.google.com/github/google/eng-edu/blob/main/ml/cc/exercises/numpy_ultraquick_tutorial.ipynb?utm_source=mlcc&utm_campaign=colab-external&utm_medium=referral&utm_content=mlcc-prework&hl=en
+    - https://colab.research.google.com/github/google/eng-edu/blob/main/ml/cc/exercises/pandas_dataframe_ultraquick_tutorial.ipynb?utm_source=mlcc&utm_campaign=colab-external&utm_medium=referral&utm_content=mlcc-prework&hl=en
+- https://www.kdnuggets.com/courses/index.html
+- https://www.tensorflow.org/resources/learn-ml
+- [MIT OpenCourseWare | Free Online Course Materials](https://ocw.mit.edu/) / <https://openlearning.mit.edu/courses-programs/open-learning-library>
+  - https://ocw.mit.edu/search/?q=Machine%20learning
+  - Machine Learning <https://ocw.mit.edu/courses/6-867-machine-learning-fall-2006/>
+  - Topics in Statistics: Statistical Learning Theory <https://ocw.mit.edu/courses/18-465-topics-in-statistics-statistical-learning-theory-spring-2007/>
+  - Statistical Learning Theory and Applications <https://ocw.mit.edu/courses/9-520-statistical-learning-theory-and-applications-spring-2006/>
+  - Networks for Learning: Regression and Classification <https://ocw.mit.edu/courses/9-520-a-networks-for-learning-regression-and-classification-spring-2001/>
+  - Matrix Methods in Data Analysis, Signal Processing, and Machine Learning <https://ocw.mit.edu/courses/18-065-matrix-methods-in-data-analysis-signal-processing-and-machine-learning-spring-2018/>
+  - Statistical Learning Theory and Applications <https://ocw.mit.edu/courses/9-520-statistical-learning-theory-and-applications-spring-2003/>
+  - Matrix Calculus for Machine Learning and Beyond <https://ocw.mit.edu/courses/18-s096-matrix-calculus-for-machine-learning-and-beyond-january-iap-2022/>
+  - Introduction to Machine Learning <https://ocw.mit.edu/courses/6-036-introduction-to-machine-learning-fall-2020/>
+  - Mathematics of Big Data and Machine Learning <https://ocw.mit.edu/courses/res-ll-005-mathematics-of-big-data-and-machine-learning-january-iap-2020/>
+  - Prediction: Machine Learning and Statistics <https://ocw.mit.edu/courses/15-097-prediction-machine-learning-and-statistics-spring-2012/>
+  - Mathematics of Machine Learning <https://ocw.mit.edu/courses/18-657-mathematics-of-machine-learning-fall-2015/>
+- https://www.kdnuggets.com/2022/08/free-ai-beginners-course.html
+- https://lablab.ai/
+- https://explore.skillbuilder.aws/learn
+- https://thrasher995.github.io/
+- Google Drive `gmkbartolomeu@gmail.com/Tech`
+- https://twitter.com/abacusai/status/1633497832681529344?t=xTZd71REM3QghOqVSYBxQw&s=19

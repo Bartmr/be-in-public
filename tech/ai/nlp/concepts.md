@@ -1,0 +1,2 @@
+- Vector / Embeddings Search
+- RAKE (Rapid Keyword Extraction Algorithm)

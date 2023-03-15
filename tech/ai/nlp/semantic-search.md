@@ -1,0 +1,1 @@
+- https://github.com/mharrvic/semantic-search-openai-pinecone

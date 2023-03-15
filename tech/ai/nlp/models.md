@@ -1,0 +1,5 @@
+- GPT-3
+- https://huggingface.co/google/flan-t5-xxl
+- https://huggingface.co/bigscience/bloom
+- https://opt.alpa.ai/
+  - https://github.com/alpa-projects/alpa
