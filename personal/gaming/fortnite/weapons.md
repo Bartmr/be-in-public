@@ -4,6 +4,10 @@
 
 ## Combinations for seasons
 
+Twin Mag SMG
+Havoc supressed assault rifle
+Cobra DMR
+
 Combat shotgun / Maven Autoshotgun / Twin mag SMG
 Havoc supressed assault rifle
 Cobra DMR
