@@ -1,0 +1,12 @@
+node_modules
+/build
+
+.env*
+
+# doctl
+
+.nimbella
+.deployed
+__deployer__.zip
+__pycache__/
+.DS_Store

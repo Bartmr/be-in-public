@@ -1,0 +1,4 @@
+{
+  "name": "check-branch-protection",
+  "main": "check-branch-protection.js"
+}

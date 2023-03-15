@@ -1,0 +1,26 @@
+parameters: {}
+environment: {}
+packages:
+  - name: git
+    shared: false
+    environment: {}
+    parameters: {}
+    annotations: {}
+    functions:
+      - name: check-branch-protection
+        binary: false
+        main: ""
+        runtime: nodejs:18
+        web: true
+        webSecure: zFLf4aQ5vV$6N$2ND4TEK6F6TM3EVhsM0cyQ
+        parameters: {}
+        environment: {}
+        annotations: {}
+        limits:
+          # Timeout time in milliseconds
+          timeout: 30000
+          # Memory allocation in megabytes
+          # The maximum memory setting is currently 1024MB (1GB).
+          memory: 128
+          # Total log size in kilobytes
+          logs: 4096

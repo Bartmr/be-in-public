@@ -1,0 +1,19 @@
+{
+  "scripts": {
+    "dev": "scripts-dev/start-dev.sh",
+    "build": "webpack build --config webpack.config.js --mode production",
+    "clean": "rm -rf build",
+    "typecheck": "tsc --noEmit",
+    "integrity-check": "npm run typecheck",
+    "deploy": "scripts/deploy.sh"
+  },
+  "dependencies": {
+    "@octokit/core": "^4.1.0",
+    "copy-webpack-plugin": "^11.0.0",
+    "source-map-support": "^0.5.21",
+    "ts-loader": "^9.4.2",
+    "typescript": "^4.9.4",
+    "webpack": "^5.75.0",
+    "webpack-cli": "^5.0.1"
+  }
+}
