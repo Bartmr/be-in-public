@@ -46,3 +46,4 @@
   - Write migrations
 - Amazon API Memo / Bezos API Memo; 2002
   - https://nordicapis.com/the-bezos-api-mandate-amazons-manifesto-for-externalization/
+- Avoid exceptions. Use union types to handle success and error outcomes. Exceptions are for unpredictable machine errors. Human errors and possible outcomes are visible enough to be handled with the usual flow of code. Also, exceptions are untyped and circulate freely between functions. Some compilers don't force you to catch and react to certain exceptions, making it hard for a developer to remember that he has to deal with certain exceptions in his code
