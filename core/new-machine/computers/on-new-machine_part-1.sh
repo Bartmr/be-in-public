@@ -26,6 +26,10 @@ export MOZ_ENABLE_WAYLAND=1
 export MUTTER_DEBUG_ENABLE_ATOMIC_KMS=0
 export CLUTTER_PAINT=disable-dynamic-max-render-time" >> ~/.profile
 
+# Enable backup of Firefox bookmarks
+
+# echo "user_pref('browser.bookmarks.autoExportHTML', true)" >> "$(find ~/snap/firefox/common/.mozilla/firefox/ -name *.default)/user.js"
+
 # Git
 
 sudo add-apt-repository ppa:git-core/ppa
