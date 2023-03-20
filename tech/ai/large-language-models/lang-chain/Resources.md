@@ -1,0 +1,1 @@
+- https://jonathansoma.com/words/multi-language-qa-gpt.html?utm_source=pocket_mylist
