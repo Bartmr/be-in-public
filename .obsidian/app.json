@@ -1,3 +1,5 @@
 {
-  "trashOption": "none"
+  "trashOption": "none",
+  "useTab": false,
+  "tabSize": 2
 }

@@ -1,0 +1,1 @@
+- Click on skills in your LinkedIn profile to search for jobs that need that specific skill. The more specific the skill (`Ant Design` is a more specific and a narrower skill than `Front-end Development` or `React`),  the more jobs with less candidates will appear. 
