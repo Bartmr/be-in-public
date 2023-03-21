@@ -57,7 +57,8 @@
 - Dribbble
 - YouTube
 - My own portfolio
-- DALL-E
+- DALL-E and other image generators
+- `my-notes/art/illustration/vector/techniques`
 
 ## Articles
 

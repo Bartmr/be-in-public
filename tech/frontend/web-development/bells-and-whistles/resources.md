@@ -1,0 +1,3 @@
+- View Transitions API
+  - https://developer.chrome.com/docs/web-platform/view-transitions/
+- CSS Scroll Snap

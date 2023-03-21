@@ -1,0 +1,2 @@
+- https://pessimistsarchive.org/list/computer/clippings
+- Tristan Harris
