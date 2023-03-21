@@ -1,0 +1,2 @@
+- ⌥+\ cycles through suggestions
+- ^+Enter shows 10 possible suggestions in a new editor
