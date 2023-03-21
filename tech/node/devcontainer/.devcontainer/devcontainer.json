@@ -10,7 +10,11 @@
 	"dockerFile": "../Dockerfile.dev",
 
 	// Set *default* container specific settings.json values on container create.
-	"settings": {},
+	"settings": {
+		"editor.codeActionsOnSave": {
+			"source.organizeImports": true
+		}
+	},
 	
 	// Add the IDs of extensions you want installed when the container is created.
 	"extensions": [
