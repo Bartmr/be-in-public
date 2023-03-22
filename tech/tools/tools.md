@@ -4662,6 +4662,7 @@ TanStack Table
 
 - Sentry
 - LogRocket
+- Microsoft Clarity
 - PaperTrail
 - Datadog
 - Logstash
