@@ -1,0 +1,1 @@
+- https://bartolomeu-rodrigues.com/stuff/mvp-development-lifecycle/
