@@ -14,7 +14,14 @@
     - `termux-setup-storage`
     - `mkdir -p ~/storage/shared/Documents/repositories`
     - `touch ~/storage/shared/Documents/repositories/.nomedia`
-    - `echo "cd ~/storage/shared/Documents" >> ~/.bashrc`
+    - `pkg install nano`
+    - 
+      ```bash
+      echo "
+      export EDITOR=\"nano\"
+
+      cd ~/storage/shared/Documents" >> ~/.bashrc
+      ```
     - `export MY_EMAIL=`
     - `export MY_GITHUB_USERNAME=`
     - `ssh-keygen -t ed25519 -C "$MY_EMAIL"`
