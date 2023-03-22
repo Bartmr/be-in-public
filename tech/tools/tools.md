@@ -1,7 +1,6 @@
 
 ## Getting more tools
 
-- Browser bookmarks (`Tech/Low-code No-code`)
 - See integrations and APIs in [Automation and Backend](#automation-and-backend).
 - See integrations and APIs in [Data or API Aggregators](#data-and-api-aggregators).
 - https://saasblocks.io/
