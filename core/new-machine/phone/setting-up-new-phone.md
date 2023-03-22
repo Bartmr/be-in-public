@@ -20,7 +20,7 @@
       echo "
       export EDITOR=\"nano\"
 
-      cd ~/storage/shared/Documents" >> ~/.bashrc
+      cd ~/storage/shared/Documents/repositories" >> ~/.bashrc
       ```
     - `export MY_EMAIL=`
     - `export MY_GITHUB_USERNAME=`
@@ -28,12 +28,12 @@
     - `git config --global user.email "$MY_EMAIL"`
     - `git config --global user.name "Bartolomeu"`
     - `git config --global pager.diff false`
-    - `cd ~/storage/shared/Documents`
+    - `git config --global --add safe.directory '*'`
+    - `git config --global pull.rebase false`
+    - `cd ~/storage/shared/Documents/repositories`
     - `git clone "git@github.com:$MY_GITHUB_USERNAME/my-notes.git"`
     - `git clone "git@github.com:$MY_GITHUB_USERNAME/be-in-public.git"`
     - `/data/data/com.termux/files/home/storage/shared/Documents/repositories/be-in-public/core/git/mobile/clone-repos.sh`
-    - `git config --global --add safe.directory '*'`
-    - `git config --global pull.rebase false`
 - Install Obsidian
 - Install Google Play Books
 - Install Kindle
