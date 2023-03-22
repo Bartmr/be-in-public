@@ -1,0 +1,1 @@
+Cats spend a lot of time sleeping and scanning their territory, and spend only a few hours hunting. They're hunting success rate is bigger than any other species, and they are also a calm being with high self esteem
