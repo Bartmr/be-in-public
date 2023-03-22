@@ -1,0 +1,3 @@
+- https://github.com/JohnBra/vite-web-extension
+- https://github.com/rago4/dev-articles-extension
+- https://github.com/sinanbekar/browser-extension-react-typescript-starter
