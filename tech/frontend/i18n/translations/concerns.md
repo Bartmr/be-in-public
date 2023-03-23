@@ -1,0 +1,9 @@
+- Code-splitting
+  - avoid loading all translations on first page open
+- Server-side rendering
+  - Translations must be ready when components are rendered in the server
+  - If it's a client-side app, at least build the translations in a way that they can be changed in order to work with server-side rendering
+- Translations must be easy and accessible to edit with i18n services like Lokalise by non-tech departments
+- Type-safe
+  - translation and their arguments should be typesafe, in order to avoid spelling mistakes in the arguments or translation key
+  - if type-safety is not available, missing translation keys and arguments should be logged as an error
