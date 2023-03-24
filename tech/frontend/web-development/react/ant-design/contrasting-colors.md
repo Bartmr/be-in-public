@@ -26,6 +26,9 @@ export function useContrastingColors() {
       error: token.colorError,
     };
 
+    /*
+      or _dominantColor.getLuminance() < 0.5
+    */
     return _dominantColor.isDark() ? lightColors : darkColors;
   };
 
