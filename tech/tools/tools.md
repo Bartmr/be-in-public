@@ -62,6 +62,7 @@
 - https://www.productledstack.co/#list3
 - https://tinywow.com/
 - https://trends.nocodedevs.com/dl/home
+- https://boardofinnovation.notion.site/boardofinnovation/AI-Tools-for-Innovators-7a80ab30bcfd4a15846436aa347d5af2
 
 ### Awesome lists
 
@@ -3263,6 +3264,8 @@ TanStack Table
 - <div id="chatgpt3">ChatGPT3</div>
 
   - https://chat.openai.com/chat
+- https://github.com/tatsu-lab/stanford_alpaca
+  - Stanford Alpaca: An Instruction-following LLaMA Model
   
 ## Regex and text patterns
 
@@ -3699,6 +3702,7 @@ TanStack Table
   - https://www.brandbird.app/tools
 - https://www.fontbrief.com/
 - <div id="lensa">Lensa</div>
+- https://www.vizcom.ai/
 
 ### Image Generators
 
@@ -5214,6 +5218,7 @@ TanStack Table
 - [Gamesparks](#gamesparks)
 - [Atlas Device Sync](#atlas-device-sync)
 - [Realm](#realm)
+- https://getstream.io/
 
 ## Observability
 
