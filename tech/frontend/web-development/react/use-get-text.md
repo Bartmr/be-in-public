@@ -9,7 +9,7 @@ const TEXT = {
 
 export function useGetText() {
   return useCallback(
-    <K extends keyof typeof TEXT>(key: K, args: { [key: string]: string }) => {
+    <K extends keyof typeof TEXT>(key: K, args?: { [key: string]: string }) => {
       const text = TEXT[key];
 
       if (typeof text === "string") {

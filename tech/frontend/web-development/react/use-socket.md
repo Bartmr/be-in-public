@@ -30,6 +30,30 @@ export function MainApiSocketProvider(props: { children: ReactNode }) {
     []
   );
 
+  const subscribeToOnEvent = useCallback(({
+    ioInstance,
+    eventSpec
+  }: {
+    ioInstance: Socket,
+    eventSpec: OnEventSpec<S>
+  }) => {
+    ioInstance.on(eventSpec.event, (data) => {
+      const validationResult = eventSpec.schema.safeParse(data);
+
+      if (!validationResult.success) {
+        Logger.logError("main-api-socket", new Error(), {
+          event: eventSpec.event,
+          validationResult: validationResult.error,
+        });
+      } else {
+        eventSpec.callback(
+          // eslint-disable-next-line @typescript-eslint/no-unsafe-argument, @typescript-eslint/no-explicit-any
+          validationResult.data as any
+        );
+      }
+    });
+  }, [eventSpec])
+
   /* --- */
   /* --- */
   /* --- */
@@ -56,21 +80,10 @@ export function MainApiSocketProvider(props: { children: ReactNode }) {
       });
 
       onEventSpecs.forEach((eventSpec) => {
-        ioInstance.on(eventSpec.event, (data) => {
-          const validationResult = eventSpec.schema.safeParse(data);
-
-          if (!validationResult.success) {
-            Logger.logError("main-api-socket", new Error(), {
-              event: eventSpec.event,
-              validationResult: validationResult.error,
-            });
-          } else {
-            eventSpec.callback(
-              // eslint-disable-next-line @typescript-eslint/no-unsafe-argument, @typescript-eslint/no-explicit-any
-              validationResult.data as any
-            );
-          }
-        });
+        subscribeToOnEvent({
+          ioInstance,
+          eventSpec
+        })
       });
 
       setClient({
@@ -90,7 +103,10 @@ export function MainApiSocketProvider(props: { children: ReactNode }) {
       onEventSpecs.add(eventSpec as any);
 
       if (client.instance) {
-        client.instance.on(eventSpec.event, eventSpec.callback);
+        subscribeToOnEvent({
+          ioInstance: client.instance,
+          eventSpec
+        })
       }
 
       return () => {

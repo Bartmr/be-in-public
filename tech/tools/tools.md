@@ -4268,6 +4268,17 @@ TanStack Table
 - https://components.studio/
 - [Framer Developers](#framer-developers)
 - https://www.einblick.ai/
+- https://codemagic.io/
+
+### Mac as a service
+
+- https://codemagic.io/
+- Amazon EC2 Mac Instances
+  - https://aws.amazon.com/ec2/instance-types/mac/
+- https://www.oakhost.net/mac-mini-hosting
+- https://www.macincloud.com/
+- https://www.scaleway.com/en/hello-m1/
+- https://www.macstadium.com/
 
 #### Smart-contracts
 

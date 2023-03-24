@@ -118,3 +118,61 @@ export function AuthProvider(props: { children: ReactNode }) {
   return <>{props.children}</>;
 }
 ```
+```tsx
+export type AuthenticatedGateRules = {
+  access: "allow" | "block";
+  hrefToRedirectTo?: string;
+};
+
+type Props = {
+  rule: AuthenticatedGateRules;
+  children: ReactNode;
+};
+
+export function AuthenticationGate(props: Props) {
+  const { session } = useAuthState()
+
+  if (!session.data) {
+    return (
+      <></>
+    );
+  } else {
+    if (props.rule.access === "allow") {
+      if (session.data) {
+        return <>{props.children}</>;
+      } else {
+        return (
+          <Redirect
+            href={
+              props.rule.hrefToRedirectTo ||
+              LOGIN_ROUTE.getHref({ next: getCurrentLocalHref() })
+            }
+          />
+        );
+      }
+    } else if (props.rule.access === "block") {
+      if (session.data) {
+        const searchParams = new URLSearchParams(window.location.search);
+
+        const next = searchParams.get('next');
+
+        return (
+          <Redirect
+            href={
+              props.rule.hrefToRedirectTo ||
+              (next && !next.startsWith(window.location.pathname)
+                ? next
+                : undefined) ||
+              INDEX_ROUTE.getHref()
+            }
+          />
+        );
+      } else {
+        return <>{props.children}</>;
+      }
+    } else {
+      throw new Error()
+    }
+  }
+}
+```
