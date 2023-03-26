@@ -4,4 +4,5 @@ important_repos_dir="$HOME/Documents/repositories"
 
 # important_repos=()
 
+# CASE-SENSITIVE !!!
 # github_username=
