@@ -68,4 +68,4 @@ done
 
 echo -e "
 
-${success_colors}Everything is ok.${reset_colors}"
+${success_colors}OK.${reset_colors}"
