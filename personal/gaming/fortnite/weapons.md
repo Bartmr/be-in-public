@@ -4,6 +4,11 @@
 
 ## Combinations for seasons
 
+- maven auto shotgun 
+- Cobra DMR
+- Combat shotgun 
+---
+
 - Nintendo Switch is terrible for long-range aiming. Gear up with short and medium range weapons that you can empty whole clips and have another weapon ready, specially for when the storm circle is small and shields are up
   - 
     - P90 / Twin Mag SMG

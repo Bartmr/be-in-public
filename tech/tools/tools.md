@@ -63,6 +63,8 @@
 - https://tinywow.com/
 - https://trends.nocodedevs.com/dl/home
 - https://boardofinnovation.notion.site/boardofinnovation/AI-Tools-for-Innovators-7a80ab30bcfd4a15846436aa347d5af2
+- https://www.therundown.ai/
+  - https://supertools.therundown.ai/ 
 
 ### Awesome lists
 
@@ -1486,6 +1488,8 @@ TanStack Table
 - [formaloo](#formaloo)
 - [Optimove](#optimove)
 - https://seen.io/
+- https://dittofeed.com/
+  - https://github.com/dittofeed/dittofeed
 
 ### Launch
 - https://productlift.ai/
@@ -3583,6 +3587,7 @@ TanStack Table
 - https://www.btw.so/
 - [DoubleLoop](https://doubleloop.app/) - Node-based dashboard builder to monitor business metrics
 - [openreplay](#openreplay)
+- Twillio Segment
 
 ## Data Governance
   
