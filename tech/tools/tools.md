@@ -98,6 +98,11 @@
 - https://replicate.com/explore
 - Huggingface
 - Search for Vector Databases / Vector Search
+- Cloud providers like
+  - AWS
+  - Azure
+  - Google Cloud Platform (GCP)
+  - Firebase
 
 ### Supabase
 
@@ -987,6 +992,10 @@ TanStack Table
   - https://github.com/camunda/camunda-platform
 - https://github.com/serverless-stack/sst
   - https://sst.dev/
+- https://www.inngest.com/
+  - https://github.com/inngest/inngest
+  - Ship Background Jobs, Crons, Webhooks, and Reliable Workflows in record time
+  - Use TypeScript to build, test, and deploy serverless functions driven by events or a schedule to any platform in seconds, with zero infrastructure.
 
 ### Validation
 
@@ -1285,6 +1294,10 @@ TanStack Table
   - Unlimited open source products, no ops required. Instantly run as many products as you want in your AWS account. Built for teams without DevOps.
 - https://releasehub.com/
   - On-demand environments for development, staging & production
+- https://garden.io/
+  - https://github.com/garden-io/garden
+- Nginx
+- Kong API Gateway
 
 ### Kubernetes
 
@@ -1419,6 +1432,7 @@ TanStack Table
 - [TweetHunter](#tweethunter)
 - https://sparktoro.com/
   - https://twitter.com/sparktoro
+- https://tweetniche.com/
 
 ### Pricing
 
@@ -1600,6 +1614,7 @@ TanStack Table
 - https://whenthen.com/
   - Payments orchestration
 - https://flurly.com/
+- https://www.lemonsqueezy.com/
 
 ### Promotions / Coupons / Vouchers
 
@@ -1961,6 +1976,8 @@ TanStack Table
 - https://www.clicksend.com/
 - https://topol.io/
 - [novu](#novu)
+- https://react.email/
+  - https://github.com/zenorocha/react-email
 
 ### Telephone / Cell-phone services
 
@@ -3270,6 +3287,9 @@ TanStack Table
   - https://chat.openai.com/chat
 - https://github.com/tatsu-lab/stanford_alpaca
   - Stanford Alpaca: An Instruction-following LLaMA Model
+- Databricks Dolly
+  - https://www.databricks.com/blog/2023/03/24/hello-dolly-democratizing-magic-chatgpt-open-models.html 
+  - https://github.com/databrickslabs/dolly
   
 ## Regex and text patterns
 
@@ -3758,6 +3778,8 @@ TanStack Table
   - Create beautiful 3D models in no time
 - https://morflax.com/
 - Sandbox VoxEdit
+- https://github.com/gd3kr/BlenderGPT
+  -  Use commands in English to control Blender with OpenAI's GPT-4
   
 ### APIs
     
