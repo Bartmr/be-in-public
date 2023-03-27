@@ -11,5 +11,5 @@
     - with the ability to read and check branch protection rules
     - has all the important repositories
   - One mobile phone
-    - has all the important repos
+    - has all the important repositories
   - Github Branch Protection enabled
