@@ -30,29 +30,32 @@ export function MainApiSocketProvider(props: { children: ReactNode }) {
     []
   );
 
-  const subscribeToOnEvent = useCallback(({
-    ioInstance,
-    eventSpec
-  }: {
-    ioInstance: Socket,
-    eventSpec: OnEventSpec<S>
-  }) => {
-    ioInstance.on(eventSpec.event, (data) => {
-      const validationResult = eventSpec.schema.safeParse(data);
+  const subscribeToOnEvent = useCallback(
+    <S extends z.ZodType<unknown>>({
+      ioInstance,
+      eventSpec,
+    }: {
+      ioInstance: Socket;
+      eventSpec: OnEventSpec<S>;
+    }) => {
+      ioInstance.on(eventSpec.event, (data) => {
+        const validationResult = eventSpec.schema.safeParse(data);
 
-      if (!validationResult.success) {
-        Logger.logError("main-api-socket", new Error(), {
-          event: eventSpec.event,
-          validationResult: validationResult.error,
-        });
-      } else {
-        eventSpec.callback(
-          // eslint-disable-next-line @typescript-eslint/no-unsafe-argument, @typescript-eslint/no-explicit-any
-          validationResult.data as any
-        );
-      }
-    });
-  }, [eventSpec])
+        if (!validationResult.success) {
+          Logger.logError("main-api-socket", new Error(), {
+            event: eventSpec.event,
+            validationResult: validationResult.error,
+          });
+        } else {
+          eventSpec.callback(
+            // eslint-disable-next-line @typescript-eslint/no-unsafe-argument, @typescript-eslint/no-explicit-any
+            validationResult.data as any
+          );
+        }
+      });
+    },
+    []
+  );
 
   /* --- */
   /* --- */
@@ -82,8 +85,8 @@ export function MainApiSocketProvider(props: { children: ReactNode }) {
       onEventSpecs.forEach((eventSpec) => {
         subscribeToOnEvent({
           ioInstance,
-          eventSpec
-        })
+          eventSpec,
+        });
       });
 
       setClient({
@@ -91,7 +94,13 @@ export function MainApiSocketProvider(props: { children: ReactNode }) {
         instance: ioInstance,
       });
     }
-  }, [authState.session, client.userId, client.instance, onEventSpecs]);
+  }, [
+    authState.session,
+    client.userId,
+    client.instance,
+    onEventSpecs,
+    subscribeToOnEvent,
+  ]);
 
   /* --- */
   /* --- */
@@ -105,8 +114,8 @@ export function MainApiSocketProvider(props: { children: ReactNode }) {
       if (client.instance) {
         subscribeToOnEvent({
           ioInstance: client.instance,
-          eventSpec
-        })
+          eventSpec,
+        });
       }
 
       return () => {
@@ -118,7 +127,7 @@ export function MainApiSocketProvider(props: { children: ReactNode }) {
         }
       };
     },
-    [client.instance, onEventSpecs]
+    [client.instance, onEventSpecs, subscribeToOnEvent]
   );
 
   /* --- */
@@ -141,4 +150,5 @@ export function MainApiSocketProvider(props: { children: ReactNode }) {
 export function useMainApiSocket() {
   return useContext(Context) ?? throwError();
 }
+
 ```
