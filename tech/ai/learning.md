@@ -1,5 +1,7 @@
 - Search for `OpenCourseWare`
 - See `tech/math/learning.md`
+- See `my-notes/personal/internet/backup/archive/bookmarks-27-03-2023.html`
+- Google Drive `gmkbartolomeu@gmail.com/Tech`
 - https://paperswithcode.com/
 - https://pytorch.org/tutorials/beginner/basics/tensor_tutorial.html
 - DataCamp
@@ -49,5 +51,4 @@
 - https://lablab.ai/
 - https://explore.skillbuilder.aws/learn
 - https://thrasher995.github.io/
-- Google Drive `gmkbartolomeu@gmail.com/Tech`
 - https://twitter.com/abacusai/status/1633497832681529344?t=xTZd71REM3QghOqVSYBxQw&s=19
