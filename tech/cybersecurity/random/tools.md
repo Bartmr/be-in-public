@@ -96,7 +96,7 @@
   - @sapo.pt ext:pdf site:app.parlamento.pt
   - "hacked by" site:pt
   - "cheapviagra" site:pt
-    - certas empresas usam exploits de sites normais para redireccionar trafego para o seu site e ganhar mais visibilidade no google
+    - certain companies use normal website exploits to redirect traffic to their website and gain more visibility on google
   - inurl:/wp-admin/install.php
   - 2captcha.com
   - "BEGIN PGP PRIVATE KEY BLOCK"
@@ -171,6 +171,8 @@
 - https://github.com/qeeqbox/social-analyzer
 - https://osint.link/
 - https://start.me/p/DPYPMz/the-ultimate-osint-collection
+- Twitter Advanced Search
+  - https://twitter.com/search-advanced?lang=en
 
 ### Telegram OSINT
 
