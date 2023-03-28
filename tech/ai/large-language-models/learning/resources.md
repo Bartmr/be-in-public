@@ -1,0 +1,4 @@
+- See `my-notes/personal/internet/backup/archive/bookmarks-27-03-2023.html`
+- https://www.linkedin.com/learning/introducing-semantic-kernel-building-ai-based-apps/introducing-semantic-kernel?autoplay=true
+- https://www.linkedin.com/learning/introduction-to-prompt-engineering-for-generative-ai/joining-the-nlp-revolution?autoplay=true
+- https://www.linkedin.com/learning/ai-pair-programming-with-github-copilot/human-ai-collaboration?autoplay=true

@@ -3365,6 +3365,7 @@ TanStack Table
   - https://github.com/Chevrotain/chevrotain
 - https://github.com/jneen/parsimmon
 - https://github.com/benjamn/recast
+- https://codeql.github.com/
 
 ### Refactoring
 

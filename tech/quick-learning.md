@@ -3,3 +3,4 @@
 - https://github.com/practical-tutorials/project-based-learning
 - search for `awesome` lists
 - https://hyperskill.org/tracks
+- https://www.linkedin.com/learning/
