@@ -176,6 +176,12 @@
 - Tampermonkey
   - https://www.tampermonkey.net/scripts.php?ext=dhdg
 
+### Apps
+
+#### React Native
+
+- https://reactnative.directory/
+
 ## References
 
 - https://pronocoders.com/
@@ -4313,9 +4319,20 @@ TanStack Table
 - https://www.macincloud.com/
 - https://www.scaleway.com/en/hello-m1/
 - https://www.macstadium.com/
+- https://flow.swiss/
+- https://hostmyapple.com/
+- https://macminivault.com/
+- https://macweb.com/
+- https://virtualmacosx.com/
+- https://xcloud.me/
+- https://zeromac.com/
+
+### Mac virtualization
+
 - sosumi
   - https://github.com/popey/sosumi-snap
 - https://github.com/foxlet/macOS-Simple-KVM
+- https://github.com/CloverHackyColor/CloverBootloader
 
 #### Smart-contracts
 
