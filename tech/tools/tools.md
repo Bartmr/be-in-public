@@ -65,6 +65,7 @@
 - https://boardofinnovation.notion.site/boardofinnovation/AI-Tools-for-Innovators-7a80ab30bcfd4a15846436aa347d5af2
 - https://www.therundown.ai/
   - https://supertools.therundown.ai/ 
+- https://theresanaiforthat.com/
 
 ### Awesome lists
 
@@ -3782,7 +3783,7 @@ TanStack Table
 - https://github.com/gd3kr/BlenderGPT
   -  Use commands in English to control Blender with OpenAI's GPT-4
   
-### APIs
+### APIs and compression
     
 - Cloudflare Images
   - https://www.cloudflare.com/products/cloudflare-images/
@@ -3794,6 +3795,7 @@ TanStack Table
 - Firebase Extensions: Resize Images
 - [Bannerbear](#bannerbear)
 - https://imgproxy.net/
+- https://tinypng.com/
 
 ### Stock
 
@@ -4311,6 +4313,9 @@ TanStack Table
 - https://www.macincloud.com/
 - https://www.scaleway.com/en/hello-m1/
 - https://www.macstadium.com/
+- sosumi
+  - https://github.com/popey/sosumi-snap
+- https://github.com/foxlet/macOS-Simple-KVM
 
 #### Smart-contracts
 
