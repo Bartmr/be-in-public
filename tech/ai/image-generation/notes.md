@@ -2,6 +2,7 @@
 
 - Outpaint
 - Upscaling
+- ControlNet + StableDiffusion
 
 ## Links
 

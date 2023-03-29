@@ -65,6 +65,7 @@
 - https://boardofinnovation.notion.site/boardofinnovation/AI-Tools-for-Innovators-7a80ab30bcfd4a15846436aa347d5af2
 - https://www.therundown.ai/
   - https://supertools.therundown.ai/ 
+- https://theresanaiforthat.com/
 
 ### Awesome lists
 
@@ -174,6 +175,12 @@
 - https://greasyfork.org/en
 - Tampermonkey
   - https://www.tampermonkey.net/scripts.php?ext=dhdg
+
+### Apps
+
+#### React Native
+
+- https://reactnative.directory/
 
 ## References
 
@@ -3795,7 +3802,7 @@ TanStack Table
 - https://github.com/gd3kr/BlenderGPT
   -  Use commands in English to control Blender with OpenAI's GPT-4
   
-### APIs
+### APIs and compression
     
 - Cloudflare Images
   - https://www.cloudflare.com/products/cloudflare-images/
@@ -3807,6 +3814,7 @@ TanStack Table
 - Firebase Extensions: Resize Images
 - [Bannerbear](#bannerbear)
 - https://imgproxy.net/
+- https://tinypng.com/
 
 ### Stock
 
@@ -4324,6 +4332,20 @@ TanStack Table
 - https://www.macincloud.com/
 - https://www.scaleway.com/en/hello-m1/
 - https://www.macstadium.com/
+- https://flow.swiss/
+- https://hostmyapple.com/
+- https://macminivault.com/
+- https://macweb.com/
+- https://virtualmacosx.com/
+- https://xcloud.me/
+- https://zeromac.com/
+
+### Mac virtualization
+
+- sosumi
+  - https://github.com/popey/sosumi-snap
+- https://github.com/foxlet/macOS-Simple-KVM
+- https://github.com/CloverHackyColor/CloverBootloader
 
 #### Smart-contracts
 
