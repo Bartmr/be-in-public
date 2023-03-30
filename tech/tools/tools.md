@@ -146,9 +146,11 @@
 
 - https://jamstack.org/generators/
 
-### Marketing
+### Marketing and Sales
 
 - Search for `MarTech stack`
+- https://www.coldiq.com/tools
+- https://www.coldiq.com/ai-sales-tools
 
 ### Accessibility / a11y
 
@@ -553,6 +555,11 @@
   - https://github.com/angular/components
 - https://vuetifyjs.com/en/
   - https://github.com/vuetifyjs/vuetify
+- Storefront UI
+  - Supports React and Vue
+  - https://docs.storefrontui.io/v2/ 
+  - https://vuestorefront.io/storefront-ui
+  - https://github.com/vuestorefront/storefront-ui
 
 #### UI FX
 
@@ -3292,11 +3299,24 @@ TanStack Table
 - <div id="chatgpt3">ChatGPT3</div>
 
   - https://chat.openai.com/chat
+- LLaMA
+  - https://github.com/ZrrSkywalker/LLaMA-Adapter
+  - https://github.com/facebookresearch/llama
+  - https://github.com/ggerganov/llama.cpp
 - https://github.com/tatsu-lab/stanford_alpaca
   - Stanford Alpaca: An Instruction-following LLaMA Model
 - Databricks Dolly
   - https://www.databricks.com/blog/2023/03/24/hello-dolly-democratizing-magic-chatgpt-open-models.html 
   - https://github.com/databrickslabs/dolly
+- https://laion.ai/
+  - https://laion.ai/blog/open-flamingo/
+  - https://github.com/mlfoundations/open_flamingo
+  - https://github.com/lucidrains/flamingo-pytorch
+  - https://github.com/dhansmair/flamingo-mini
+  - Flamingo: a Visual Language Model for Few-Shot Learning
+    - https://arxiv.org/abs/2204.14198
+  - https://github.com/mlfoundations/open_flamingo
+- https://github.com/nomic-ai/gpt4all
   
 ## Regex and text patterns
 
