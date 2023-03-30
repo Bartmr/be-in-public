@@ -651,6 +651,13 @@ TanStack Table
   - https://github.com/shipshapecode/tether
 - https://github.com/alienzhou/web-highlighter
   - A no-runtime dependency lib for text highlighting & persistence on any website 
+-   [tldraw](https://github.com/tldraw/tldraw) - a tiny little drawing app
+-   [perfect-freehand](https://github.com/steveruizok/perfect-freehand) - a utility for variable-width lines
+-   [perfect-arrows](https://github.com/steveruizok/perfect-arrows) - a utility for drawing arrows
+-   [globs.design](https://globs.design) - an app for designing with globs
+-   [state-designer](https://state-designer.com) - a "design phase" state management library
+- react-beautiful-dnd
+- react-draggable 
 
 #### UI Forms
 
@@ -2519,6 +2526,7 @@ TanStack Table
   - https://www.google.com/alerts
 - https://phantombuster.com/
 - https://dust.tt/
+- https://apify.com/
 
 ### Spreadsheets
 
@@ -2601,6 +2609,8 @@ TanStack Table
   - for Python
   - https://www.crummy.com/software/BeautifulSoup/bs4/doc/
 - https://serpapi.com/
+- https://apify.com/
+- https://scrape.do/
 
 ### PDF
 
