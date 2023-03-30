@@ -146,9 +146,11 @@
 
 - https://jamstack.org/generators/
 
-### Marketing
+### Marketing and Sales
 
 - Search for `MarTech stack`
+- https://www.coldiq.com/tools
+- https://www.coldiq.com/ai-sales-tools
 
 ### Accessibility / a11y
 
@@ -3297,6 +3299,10 @@ TanStack Table
 - <div id="chatgpt3">ChatGPT3</div>
 
   - https://chat.openai.com/chat
+- LLaMA
+  - https://github.com/ZrrSkywalker/LLaMA-Adapter
+  - https://github.com/facebookresearch/llama
+  - https://github.com/ggerganov/llama.cpp
 - https://github.com/tatsu-lab/stanford_alpaca
   - Stanford Alpaca: An Instruction-following LLaMA Model
 - Databricks Dolly
@@ -3310,6 +3316,7 @@ TanStack Table
   - Flamingo: a Visual Language Model for Few-Shot Learning
     - https://arxiv.org/abs/2204.14198
   - https://github.com/mlfoundations/open_flamingo
+- https://github.com/nomic-ai/gpt4all
   
 ## Regex and text patterns
 
