@@ -81,6 +81,10 @@ newgrp docker
 
 sudo usermod -aG docker $USER
 
+# Python
+
+pip install --user pipenv
+
 # VSCode
 
 sudo apt-get install wget gpg
@@ -97,6 +101,7 @@ code --install-extension ms-azuretools.vscode-docker
 code --install-extension ms-vscode-remote.remote-containers
 code --install-extension muuvmuuv.vscode-sundial
 code --install-extension github.copilot
+code --install-extension ms-python.python
 
 mkdir -p ~/.config/Code/User/settings.json
 cat vscode-settings.json > "$HOME/.config/Code/User/settings.json"
