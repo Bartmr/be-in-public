@@ -851,6 +851,13 @@ TanStack Table
 - [Teta](#teta)
 - https://getstream.io/
   - Stream allows developers to seamlessly integrate real-time messaging or activity feeds into their applications
+  - Provides components and UI Kits for chat and activity feed interfaces
+    - React
+    - React Native
+    - Android
+    - iOS
+    - Unity
+    - Unreal
 - https://cheatlayer.com/
   - Generate business automations using powerful no-code tools and OpenAI Codex-powered machine learning—no experience required
   - Turn any automations into branded Chrome Extensions to resell to clients super quickly
@@ -2522,6 +2529,7 @@ TanStack Table
 ## Data import / Moving Data / Scrappers / Crawlers
 
 - See [RPA](#rpa-robotic-process-automation)
+- See [Testing & QA](#testing--qa)
 - Google Alerts
   - https://www.google.com/alerts
 - https://phantombuster.com/
@@ -2542,6 +2550,8 @@ TanStack Table
 
 ### Web
 
+- See [RPA](#rpa-robotic-process-automation)
+- See [Testing & QA](#testing--qa)
 - https://www.browse.ai/
   - https://www.browse.ai/website-to-api
     - Convert any website to an API
@@ -2609,6 +2619,8 @@ TanStack Table
   - for Python
   - https://www.crummy.com/software/BeautifulSoup/bs4/doc/
 - https://serpapi.com/
+- https://scrapy.org/
+  - For Python
 - https://apify.com/
 - https://scrape.do/
 

@@ -1,1 +1,2 @@
 - https://www.jailbreakchat.com/?utm_source=pocket_mylist
+- https://github.com/openai/evals
