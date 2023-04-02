@@ -1,4 +1,4 @@
-# My drafts and my notes, PUBLIC.
+# My drafts and my notes IN PUBLIC.
 
 ## Contributions and advice to whatever you see here are more than welcome.
 
