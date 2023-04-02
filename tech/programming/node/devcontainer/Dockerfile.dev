@@ -5,4 +5,7 @@ RUN apt-get update \
 
 ENV DEBIAN_FRONTEND=noninteractive
 
+ENV NPM_CONFIG_PREFIX=/home/node/.npm-global
+ENV PATH="/home/node/.npm-global/bin:$PATH"
+
 USER node
