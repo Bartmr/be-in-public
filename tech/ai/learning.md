@@ -52,3 +52,4 @@
 - https://explore.skillbuilder.aws/learn
 - https://thrasher995.github.io/
 - https://twitter.com/abacusai/status/1633497832681529344?t=xTZd71REM3QghOqVSYBxQw&s=19
+- https://github.com/SkalskiP/courses

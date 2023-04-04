@@ -19,6 +19,8 @@
       - layouts
         - variation-n
           - variation-n-layout.tsx
+    - authentication-gate
+      - authentication-gate.tsx
   - shared
   - ui-kit
     - core

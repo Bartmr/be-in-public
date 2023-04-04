@@ -9,18 +9,20 @@
 	// Update the 'dockerFile' property if you aren't using the standard 'Dockerfile' filename.
 	"dockerFile": "../Dockerfile.dev",
 
-	// Set *default* container specific settings.json values on container create.
-	"settings": {
-		"editor.codeActionsOnSave": {
-			"source.organizeImports": true
+	// Add the IDs of extensions you want installed when the container is created.
+	"customizations": {
+		"vscode": {
+			"extensions": [
+				"esbenp.prettier-vscode",
+				"dbaeumer.vscode-eslint"
+			]
+		},
+		"settings": {
+			"editor.codeActionsOnSave": {
+				"source.organizeImports": true
+			}
 		}
 	},
-	
-	// Add the IDs of extensions you want installed when the container is created.
-	"extensions": [
-		"esbenp.prettier-vscode",
-		"dbaeumer.vscode-eslint"
-	],
 
 	// Use 'forwardPorts' to make a list of ports inside the container available locally.
 	// "forwardPorts": [],

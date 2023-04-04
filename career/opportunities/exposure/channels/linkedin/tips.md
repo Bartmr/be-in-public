@@ -8,7 +8,10 @@ Write down specific technologies you worked with. Only jobs that specifically ne
 
 Example: `Frontend development` will get you inbound traffic for all things related to frontend. But `Bootstrap` will show you all positions that specifically need Bootstrap. Could be a company that just bought a template, or has a legacy codebase, and, without a doubt, need that specific knowledge. Same thing for something like `WebRTC`. It won't get you a lot of Inbound traffic, but you will be able to target companies that definetly need that skill. 
 
-## Title template
+## Title
 
-Title | Sector / Company size I'm targeting | Cool tech | Boring but needed tech
+### Template 1
 
+(adjective about you or your work) Title | Sector / Company size I'm targeting | Cool tech | Boring but needed tech
+
+Example: Practical Full-stack developer | Building for startups | Building with GPT-3 before ChatGPT | Cybersecurity

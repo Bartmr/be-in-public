@@ -1,0 +1,6 @@
+{
+  "dev:firebase:login": "firebase login",
+  "dev:firebase:setup": "firebase init emulators",
+  "dev:firebase": "firebase emulators:start --export-on-exit=./.firebase-data --import=./.firebase-data",
+  "dev:run-migrations": "tsc -p tsconfig.migrations.json && NODE_ENV=development node ./dist-migrations/migrations/run-migrations.js"
+}
