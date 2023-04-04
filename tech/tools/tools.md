@@ -985,6 +985,7 @@ TanStack Table
   - Benthos Studio
     - https://studio.benthos.dev/
     - https://github.com/benthosdev/benthos
+- Microsoft Power Automate
 
 ### Serverless
 
@@ -1183,6 +1184,7 @@ TanStack Table
 - <div id="papercups">https://papercups.io/</div>
 
   - https://github.com/papercups-io/papercups
+- Microsoft Power Virtual Agents
 
 ## Firebase-like / SaaS stacks / Authentication
 
@@ -4227,6 +4229,7 @@ TanStack Table
 - https://levity.ai/
 - https://github.com/adieuadieu/serverless-chrome
 - https://github.com/alixaxel/chrome-aws-lambda
+- Microsoft Power Automate
 
 ## Internationalization / i18n
 

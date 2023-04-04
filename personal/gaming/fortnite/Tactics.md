@@ -1,0 +1,1 @@
+- When in engaging face to face, instead of jumping, walk sideways. This way your gun will always be ready to shoot and it's still hard to hit you
