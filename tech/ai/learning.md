@@ -53,3 +53,5 @@
 - https://thrasher995.github.io/
 - https://twitter.com/abacusai/status/1633497832681529344?t=xTZd71REM3QghOqVSYBxQw&s=19
 - https://github.com/SkalskiP/courses
+- https://www.amazon.com/Deep-Learning-Coders-fastai-PyTorch-ebook-dp-B08C2KM7NR/dp/B08C2KM7NR
+- https://karpathy.ai/zero-to-hero.html

@@ -2110,6 +2110,9 @@ TanStack Table
   - https://observablehq.com/
 - https://www.paperspace.com/
   - Lends GPUs and offers an online notebook IDE
+  - #infrastructure
+- https://www.kaggle.com/
+  - #infrastructure
 - Scale AI
   - https://scale.com/
 - <div id="decipad">Decipad</div>
@@ -2270,6 +2273,10 @@ TanStack Table
 - https://www.einblick.ai/
 - https://jina.ai/
   - https://github.com/jina-ai/
+- https://segment-anything.com/
+  - a new AI model from Meta AI that can "cut out" any object, in any image, with a single click
+  - https://github.com/facebookresearch/segment-anything
+- https://github.com/tesseract-ocr/tesseract
 
 ### NLP / Vector / Embeddings Search
 
@@ -2632,6 +2639,28 @@ TanStack Table
   - For Python
 - https://apify.com/
 - https://scrape.do/
+- https://www.anypicker.com/
+  - https://app.anypicker.com/
+  - https://chrome.google.com/webstore/detail/anypicker-ai-powered-no-c/bjkpgfhekfmdffdphnniobddhkjlmmlj
+- https://automatio.co/
+- https://brightdata.com
+- https://www.scrapestorm.com
+- https://webautomation.io/
+- https://www.listly.io/
+- https://agenty.com/
+- https://www.diffbot.com/
+- https://axiom.ai/
+- https://prowebscraper.com/
+- https://simplescraper.io/
+- https://parsers.me/
+- https://www.browse.ai/
+- https://rtila.com/
+- https://scrape.do/
+- https://www.sequentum.com/
+- https://datagrab.io/
+- https://scrapex.ai/
+- https://www.getscrapio.com/
+- https://monitoro.co/
 
 ### PDF
 
@@ -2651,6 +2680,7 @@ TanStack Table
 - https://levity.ai/
 - https://mathpix.com/
   - Convert images and PDFs to LaTeX, DOCX, Overleaf, Markdown, Excel, ChemDraw and more, with our AI powered document conversion technology.
+- https://docparser.com/
 
 ### LinkedIn
 
@@ -2752,6 +2782,8 @@ TanStack Table
 - https://www.mozartdata.com/
 - [prismatic](#prismatic)
 - [cenit](#cenit)
+- https://webautomation.io/
+- https://scrape.do/
 
 ### Social Media
 
@@ -3348,6 +3380,7 @@ TanStack Table
     - https://arxiv.org/abs/2204.14198
   - https://github.com/mlfoundations/open_flamingo
 - https://github.com/nomic-ai/gpt4all
+- Anthropic Claude
 
 ### Derivates
 
@@ -3588,6 +3621,12 @@ TanStack Table
   - Otter has you covered with real-time voice transcription and features to empower more productive interactions.
 - https://noty.ai/
   - Bye-Bye notepads! We've got Noty.ai, an AI-powered meeting assistant - transforming meetings into Transcriptions, Action Items, Summaries, and Follow-ups in seconds.
+- tldv.io
+  - Record, Transcribe & ChatGPT for Google Meet
+  - https://tldv.io/
+  - https://chrome.google.com/webstore/detail/record-transcribe-chatgpt/lknmjhcajhfbbglglccadlfdjbaiifig
+- https://tactiq.io/
+  - https://chrome.google.com/webstore/detail/tactiq-chatgpt-meeting-su/fggkaccpbmombhnjkjokndojfgagejfb
 
 ### File sharing and conversion
 
@@ -3977,6 +4016,14 @@ TanStack Table
   - https://www.arangodb.com/community-server/
   - https://github.com/arangodb/arangodb
 
+### Scaling
+
+- pgbouncer
+- pgcat
+- pgpool
+- Vitesse
+  - ACID transactions for PlanetScale
+
 ### Serverless databases
 
 - https://planetscale.com/
@@ -4176,6 +4223,7 @@ TanStack Table
 - Notion AI  
     - https://www.notion.so/ai
 - https://lek.ai/
+- https://cohesive.so
 
 ### Editing
 
@@ -4242,6 +4290,7 @@ TanStack Table
 - https://github.com/adieuadieu/serverless-chrome
 - https://github.com/alixaxel/chrome-aws-lambda
 - Microsoft Power Automate
+- https://rtila.com/
 
 ## Internationalization / i18n
 
@@ -4784,6 +4833,10 @@ TanStack Table
       - https://drei.pmnd.rs/
       - https://github.com/pmndrs/drei
 - [Polygonjs](https://github.com/polygonjs/polygonjs) - WebGL design tool [OSS]
+- https://github.com/gfx-rs/wgpu
+  - #webgpu
+- https://dawn.googlesource.com/dawn
+  - #webgpu
 
 ## Reliability and Product Health / Logging
 
@@ -5419,6 +5472,7 @@ TanStack Table
   - https://www.stencyl.com/
 - Sandbox Game Maker
   - https://www.sandbox.game/en/create/game-maker/
+- https://playcanvas.com/
 
 ### Game Assets
 
