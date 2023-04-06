@@ -1,0 +1,2 @@
+- `Antifragile software`
+- chaos engineering

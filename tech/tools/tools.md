@@ -1021,10 +1021,6 @@ TanStack Table
   - https://github.com/camunda/camunda-platform
 - https://github.com/serverless-stack/sst
   - https://sst.dev/
-- https://www.inngest.com/
-  - https://github.com/inngest/inngest
-  - Ship Background Jobs, Crons, Webhooks, and Reliable Workflows in record time
-  - Use TypeScript to build, test, and deploy serverless functions driven by events or a schedule to any platform in seconds, with zero infrastructure.
 
 ### Validation
 
@@ -1138,10 +1134,19 @@ TanStack Table
 - https://www.jsdelivr.com/
 - https://www.skypack.dev/
 
-### Queues / Event streaming
+### Queues / Event streaming / Cron / Background Jobs
 
 - RabbitMQ
 - Apache Kafka
+- [Upstash's QStash](https://docs.upstash.com/qstash)
+- [Pipedream](https://pipedream.com/)
+- [Cronhub](https://cronhub.io/)
+- [Zeplo](https://zeplo.io/)
+- [Mergent](https://mergent.co/)
+- https://www.inngest.com/
+  - https://github.com/inngest/inngest
+  - Ship Background Jobs, Crons, Webhooks, and Reliable Workflows in record time
+  - Use TypeScript to build, test, and deploy serverless functions driven by events or a schedule to any platform in seconds, with zero infrastructure.
 
 ## Chatbots and Voice Assistants
  
@@ -2266,7 +2271,7 @@ TanStack Table
 - https://jina.ai/
   - https://github.com/jina-ai/
 
-### NLP / Vector Search
+### NLP / Vector / Embeddings Search
 
 - https://www.deepset.ai/
 - https://www.pinecone.io/
@@ -2286,6 +2291,8 @@ TanStack Table
   - Vector search database
   - https://github.com/vdaas/vald
 - https://relevance.ai/
+- Supabase 
+  - pgvector
 
 ### Synthetic Data / Seeding
 
@@ -3341,7 +3348,12 @@ TanStack Table
     - https://arxiv.org/abs/2204.14198
   - https://github.com/mlfoundations/open_flamingo
 - https://github.com/nomic-ai/gpt4all
-  
+
+### Derivates
+
+- https://mottle.com/ 
+  - Write down your bot's personality and some documents for it's knowledge and query it
+
 ## Regex and text patterns
 
 - https://regex101.com/
@@ -5277,6 +5289,10 @@ TanStack Table
   - A modern load testing tool, using Go and JavaScript
   - By Grafana Labs
   - https://github.com/grafana/k6
+
+### Failure-as-a-service (FaaS) / Failure Injection Testing (FIT)
+
+- https://www.gremlin.com/
 
 ## Interactivity / Real-time / Gamification / Collaboration
 

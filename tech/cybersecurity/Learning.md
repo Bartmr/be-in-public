@@ -1,0 +1,3 @@
+- How to learn hacking: The (step-by-step) beginner's bible for 2023: [https://lnkd.in/d_-_HXC3](https://lnkd.in/d_-_HXC3?trk=public_post-text)
+- So You Want to Be a Hacker: 2023 Edition: https://lnkd.in/dGjdv-yD 
+- Even more resources to make you a better hacker: https://lnkd.in/dewwZPjP
