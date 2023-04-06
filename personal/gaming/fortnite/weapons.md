@@ -4,6 +4,11 @@
 
 ## Combinations for seasons
 
+- Combat Shotgun
+- Maven Auto Shotgun 
+- Cobra DMR
+---
+
 - Kinetic Sword
 - Tactical Pistol
 - Cobra DMR
