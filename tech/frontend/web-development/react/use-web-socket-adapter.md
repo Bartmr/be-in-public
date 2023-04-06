@@ -6,7 +6,12 @@ import { z } from "zod";
 
 type WasClosed = { by: "error" } | { by: "participant" };
 
-export function useMainApiWebSockerAdapter() {
+export type MainApiWebSocketAdapter = {
+  sendMessage: () => never;
+  close: () => void;
+};
+
+export function useMainApiWebSocketAdapter() {
   return useMemo(() => {
     return {
       createAdapter: async <S extends z.ZodType<unknown>>(args: {
@@ -15,7 +20,7 @@ export function useMainApiWebSockerAdapter() {
         onClose: (wasClosed: WasClosed) => void;
         onMessage: (message: z.TypeOf<S>) => void;
         onInvalidMessageReceived: () => void;
-      }) => {
+      }): Promise<MainApiWebSocketAdapter> => {
         const webSocket = new WebSocket(
           `${EnvironmentVariables.MAIN_API_SOCKET_URL}${args.path}`
         );
@@ -27,7 +32,7 @@ export function useMainApiWebSockerAdapter() {
             unknownMessage = JSON.parse(e.data as string) as unknown;
           } catch (err) {
             Logger.logError(
-              "use-main-api-web-socket:receive-message:invalid-json",
+              "use-main-api-web-socket-adapter:receive-message:invalid-json",
               err
             );
 
@@ -40,7 +45,7 @@ export function useMainApiWebSockerAdapter() {
 
           if (!messageValidation.success) {
             Logger.logError(
-              "use-main-api-web-socket:receive-message:invalid-data",
+              "use-main-api-web-socket-adapter:receive-message:invalid-data",
               messageValidation.error
             );
 
@@ -55,6 +60,10 @@ export function useMainApiWebSockerAdapter() {
         webSocket.addEventListener("message", messageListener);
 
         const errorListener = () => {
+          Logger.logError(
+            "use-main-api-web-socket-adapter:error-listener",
+            new Error()
+          );
           args.onClose({ by: "error" });
         };
 
@@ -67,11 +76,32 @@ export function useMainApiWebSockerAdapter() {
         webSocket.addEventListener("close", closeListener);
 
         await new Promise((resolve) => {
+          /*
+            SUCCESSFUL CONNECTION
+          */
           const openListener = () => {
             window.removeEventListener("open", openListener);
+            window.addEventListener("error", errorListener);
+
             resolve(undefined);
           };
           webSocket.addEventListener("open", openListener);
+
+          /*
+            FAILED CONNECTION
+          */
+          const errorOnStartListener = () => {
+            Logger.logError(
+              "use-main-api-web-socket-adapter:error-listener",
+              new Error()
+            );
+
+            window.removeEventListener("error", errorOnStartListener);
+            args.onClose({ by: "error" });
+
+            resolve(undefined);
+          };
+          webSocket.addEventListener("error", errorOnStartListener);
         });
 
         return {
