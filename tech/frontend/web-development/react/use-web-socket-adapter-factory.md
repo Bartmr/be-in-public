@@ -4,14 +4,14 @@ import { EnvironmentVariables } from "logic/internals/runtime/environment-variab
 import { useMemo } from "react";
 import { z } from "zod";
 
-type WasClosed = { by: "error" } | { by: "participant" };
+type WasClosed = { by: "error" } | { by: "server" };
 
 export type MainApiWebSocketAdapter = {
   sendMessage: () => never;
   close: () => void;
 };
 
-export function useMainApiWebSocketAdapter() {
+export function useMainApiWebSocketAdapterFactory() {
   return useMemo(() => {
     return {
       createAdapter: async <S extends z.ZodType<unknown>>(args: {
@@ -60,6 +60,8 @@ export function useMainApiWebSocketAdapter() {
         webSocket.addEventListener("message", messageListener);
 
         const errorListener = () => {
+          removeListeners();
+
           Logger.logError(
             "use-main-api-web-socket-adapter:error-listener",
             new Error()
@@ -70,10 +72,18 @@ export function useMainApiWebSocketAdapter() {
         webSocket.addEventListener("error", errorListener);
 
         const closeListener = () => {
-          args.onClose({ by: "participant" });
+          removeListeners();
+
+          args.onClose({ by: "server" });
         };
 
         webSocket.addEventListener("close", closeListener);
+
+        const removeListeners = () => {
+          webSocket.removeEventListener("message", messageListener);
+          webSocket.removeEventListener("error", errorListener);
+          webSocket.removeEventListener("close", closeListener);
+        };
 
         await new Promise((resolve) => {
           /*
@@ -109,9 +119,8 @@ export function useMainApiWebSocketAdapter() {
             throw new Error("not implemented");
           },
           close: () => {
-            webSocket.removeEventListener("message", messageListener);
-            webSocket.removeEventListener("error", errorListener);
-            webSocket.removeEventListener("close", closeListener);
+            removeListeners();
+
             webSocket.close();
           },
         };

@@ -9,7 +9,7 @@ type Props<S extends z.ZodType<unknown>> = {
   messageSchema: S;
 };
 
-type WasClosed = { by: "error" } | { by: "participant" };
+type WasClosed = { by: "error" } | { by: "server" };
 
 type ReturnValue<S extends z.ZodType<unknown>> = {
   wasClosed: undefined | WasClosed;
@@ -74,13 +74,17 @@ export function useMainApiWebSocket<S extends z.ZodType<unknown>>(
     webSocket.addEventListener("message", messageListener);
 
     const errorListener = () => {
+      removeListeners()
+
       setWasClosed({ by: "error" });
     };
 
     webSocket.addEventListener("error", errorListener);
 
     const closeListener = () => {
-      setWasClosed({ by: "participant" });
+      removeListeners()
+      
+      setWasClosed({ by: "server" });
     };
 
     webSocket.addEventListener("close", closeListener);
@@ -90,11 +94,16 @@ export function useMainApiWebSocket<S extends z.ZodType<unknown>>(
     };
     webSocket.addEventListener("open", openListener);
 
-    return () => {
+    const removeListeners = () => {
       webSocket.removeEventListener("message", messageListener);
       webSocket.removeEventListener("error", errorListener);
       webSocket.removeEventListener("close", closeListener);
       webSocket.removeEventListener("close", openListener);
+    }
+
+    return () => {
+      removeListeners()
+
       webSocket.close();
 
       setWasClosed(undefined);
@@ -111,6 +120,23 @@ export function useMainApiWebSocket<S extends z.ZodType<unknown>>(
           }
     } else {
       return undefined
+    }
+  }, [webSocker, wasConnected, wasClosed])
+
+  const close = useMemo(() => {
+    if(!webSocket) {
+      throw new Error()
+    } else {
+      return () => {
+        removeListeners()
+
+        webSocket.close();
+
+        setWasClosed(undefined);
+        setInvalidMessageWasReceived(false);
+        setLastMessage(undefined);
+        setWebSocket(undefined);
+      }
     }
   }, [webSocker, wasConnected, wasClosed])
 
