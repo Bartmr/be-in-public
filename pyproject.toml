@@ -1,0 +1,9 @@
+[tool.mypy]
+
+[tool.nbqa.exclude]
+
+mypy = '''(?x)(
+    ^tech/ai/large-language-models/learning/notes
+    | ^tech\/ai\/learning-notes\/Learn\ Data\ Science\ Tutorial\ -\ Full\ Course\ for\ Beginners\.ipynb$
+    | ^tech/math/notes.ipynb
+  )'''
