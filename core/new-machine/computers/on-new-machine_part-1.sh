@@ -5,19 +5,20 @@ shopt -s inherit_errexit
 this_dir=$(dirname "$(realpath $0)")
 cd "$this_dir"
 
-# Ask for inputs
-
-echo "Input your email"
-read email
-
-echo "Input your name"
-echo name
-
 # Colors
 
 info_colors="\0033[1;97;44m"
 warning_colors="\0033[1;30;43m"
 reset_colors="\0033[0m"
+
+#
+
+~/Documents/repositories/my-notes/scripts/install-dependencies.sh
+~/Documents/repositories/be-in-public/scripts/install-dependencies.sh
+
+#
+
+~/Documents/repositories/be-in-public/core/git/clone-repos.sh
 
 # Enable Wayland in Firefox
 
@@ -29,27 +30,6 @@ export CLUTTER_PAINT=disable-dynamic-max-render-time" >> ~/.profile
 # Enable backup of Firefox bookmarks
 
 # echo "user_pref('browser.bookmarks.autoExportHTML', true)" >> "$(find ~/snap/firefox/common/.mozilla/firefox/ -name *.default)/user.js"
-
-# Git
-
-sudo add-apt-repository ppa:git-core/ppa
-sudo apt update
-sudo apt install git
-
-echo -e "${warning_colors}REMEMBER TO ADD A PASSWORD TO YOUR SSH KEY${reset_colors}"
-
-ssh-keygen -t ed25519 -C "$email"
-eval "$(ssh-agent -s)"
-ssh-add ~/.ssh/id_ed25519
-
-echo -e "${info_colors}Now add that SSH key to your Git providers${reset_colors}"
-
-git config --global user.email "$email"
-git config --global user.name "$name"
-
-git config --global pager.diff false
-
-git config --global pull.rebase false
 
 # Docker
 
