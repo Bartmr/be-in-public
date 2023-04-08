@@ -19,7 +19,29 @@
 
 - Install Firefox Developer Edition
   - **do not log into your Mozilla account. This browser flavour is solely for the purpose of programming**
-  - this edition of Firefox is unstable, and might break your bookmarks and browser data during sync
+    - this edition of Firefox is unstable, and might break your bookmarks and browser data during sync
+
+- Install and setup git
+  ```bash
+  sudo add-apt-repository ppa:git-core/ppa
+  sudo apt update
+  sudo apt install git
+
+  ssh-keygen -t ed25519 -C "pbartmr@gmail.com"
+  eval "$(ssh-agent -s)"
+  ssh-add ~/.ssh/id_ed25519
+
+  git config --global user.email "pbartmr@gmail.com"
+  git config --global user.name "Bartolomeu Rodrigues"
+
+  git config --global pager.diff false
+  git config --global pull.rebase false
+  ```
+
+- Clone initial repositories
+  - `mkdir -p ~/Documents/repositories`
+  - `git clone git@github.com:Bartmr/my-notes.git`
+  - `git clone git@github.com:Bartmr/be-in-public.git`
 
 - Run `core/new-machine/on-new-machine_part-1.sh`
 

@@ -1,3 +1,5 @@
+## Structure
+
 - components
   - protons
     - router-link.tsx
@@ -68,3 +70,17 @@
     - {template,screen}-n-template.tsx
     - {templates,screens}
       - single-{template,screen}-n-template.tsx
+
+## Declaring a new page or screen
+
+```tsx
+export function SomeTemplate() {
+  return <Page>
+    <Layout>
+      <AuthenticationGate rules={authRules}>
+      {content}
+      </AuthenticationGate>
+    </Layout>
+  </Page>
+}
+```

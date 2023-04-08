@@ -18,3 +18,10 @@
   - Code formatter
 - https://pypi.org/project/autoflake/
   - autoflake removes unused imports and unused variables from Python code. It makes use of pyflakes to do this.
+
+## Environment and dependencies
+
+- `pipenv`
+- `poetry`
+- `venv`
+- `virtualenv`
