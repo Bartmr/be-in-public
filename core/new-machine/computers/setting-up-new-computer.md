@@ -47,8 +47,6 @@
 
 - Restart your computer
 
-- Restore all your repositories.
-
 - Run `core/new-machine/on-new-machine_part-2.sh`
 
 ## Steps that are good to know
