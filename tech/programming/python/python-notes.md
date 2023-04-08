@@ -8,3 +8,9 @@
 you'll need to add the user site-packages binary directory to your `PATH`.
 - https://packaging.python.org/en/latest/tutorials/managing-dependencies/
 - https://python-poetry.org/
+
+## `with`
+
+Python's 'with' statement is used when working with external resources such as files, databases, or sockets. It provides a convenient way to manage resources by simplifying the try/except/finally pattern.
+
+The with statement provides a way to wrap the execution of a block of code within a context manager. This context manager handles the setup and cleanup of the resources used during the execution of the code block. The resource is acquired at the start of the with statement, and is automatically released when the block of code has been executed. This prevents the need for manually handling resources and helps avoid potential resource leaks.
