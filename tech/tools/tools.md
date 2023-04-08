@@ -2300,6 +2300,8 @@ TanStack Table
 - https://relevance.ai/
 - Supabase 
   - pgvector
+- https://www.trychroma.com/
+  - https://github.com/chroma-core/chroma
 
 ### Synthetic Data / Seeding
 
@@ -3381,6 +3383,14 @@ TanStack Table
   - https://github.com/mlfoundations/open_flamingo
 - https://github.com/nomic-ai/gpt4all
 - Anthropic Claude
+- Langchain
+- LlamaIndex
+  - previously GPT Index
+  - https://gpt-index.readthedocs.io/en/latest/index.html
+- Microsoft Semantic Kernel
+  - https://github.com/microsoft/semantic-kernel
+  - https://devblogs.microsoft.com/semantic-kernel/
+  - https://www.tryleap.ai/
 
 ### Derivates
 

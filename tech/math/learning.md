@@ -55,3 +55,4 @@ Online Resources:
   - Resources
     - https://mml-book.github.io/
     - https://www.kdnuggets.com/2020/11/data-science-without-degree.html#
+- https://brilliant.org/

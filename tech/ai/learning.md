@@ -55,3 +55,4 @@
 - https://github.com/SkalskiP/courses
 - https://www.amazon.com/Deep-Learning-Coders-fastai-PyTorch-ebook-dp-B08C2KM7NR/dp/B08C2KM7NR
 - https://karpathy.ai/zero-to-hero.html
+- https://brilliant.org/
