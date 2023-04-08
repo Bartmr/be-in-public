@@ -1,5 +1,3 @@
-#!/usr/bin/env python3
-
 from typing import List, TypedDict
 import requests
 from concurrent.futures import ThreadPoolExecutor
@@ -30,6 +28,8 @@ class BranchProtection(TypedDict):
   text: str
  
 def get_branch_protection(important_repo: ImportantRepo) -> BranchProtection:
+    print(important_repo['name'])
+
     response = requests.get(
        url = 'https://api.github.com/repos/Bartmr/{repo}/branches/main/protection'.format(repo=important_repo['name']),
        headers = {
@@ -97,4 +97,5 @@ if len(bad_branch_protections) > 0:
 
   raise Exception()
 else:
-  print('{success_colors}OK{reset_colors}'.format(success_colors=success_colors, reset_colors=reset_colors))
+  print('''
+{success_colors}OK{reset_colors}'''.format(success_colors=success_colors, reset_colors=reset_colors))
