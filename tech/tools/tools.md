@@ -118,6 +118,7 @@
 ### Security
 
 - https://geekflare.com/
+- https://github.com/hahwul/WebHackersWeapons
 
 ### Shell / Terminal
 
@@ -781,6 +782,7 @@ TanStack Table
 
 ### Browser Extensions 
 - https://github.com/PlasmoHQ/plasmo
+- https://github.com/dutiyesh/chrome-extension-cli
 
 ## Automation and Backend
 
@@ -2231,6 +2233,7 @@ TanStack Table
 - https://lightning.ai/
   - Build models and AI-powered cloud applications using Lightning App templates without DIY infrastructure, cost management, scaling, and other headaches.
   - https://github.com/lightning-ai/lightning
+  - #infrastructure
 - https://www.run.ai/
 - https://www.infuseai.io/
   - PrimeHub
@@ -2277,6 +2280,8 @@ TanStack Table
   - a new AI model from Meta AI that can "cut out" any object, in any image, with a single click
   - https://github.com/facebookresearch/segment-anything
 - https://github.com/tesseract-ocr/tesseract
+- https://brev.dev/
+  - #infrastructure
 
 ### NLP / Vector / Embeddings Search
 
@@ -2332,6 +2337,12 @@ TanStack Table
 - Google Cloud AutoML
   - Train high-quality custom machine learning models with minimal effort and machine learning expertise.
   - https://cloud.google.com/automl
+
+### Hardware
+
+- https://www.xilinx.com/products/design-tools/vitis/vitis-ai.html
+- https://coral.ai/products/
+- https://xylon-lab.com/product-category/related-products/xylon-kits/
 
 ### Dashboards and Data Visualization
 
@@ -2543,6 +2554,14 @@ TanStack Table
   - https://play.google.com/store/apps/details?id=com.softmath.algebrator&referrer=utm_source%3Dsoftmath
 - https://github.com/google/latexify_py
   - Generates LaTeX math description from Python functions.
+- graph89
+  - https://play.google.com/store/apps/details?id=com.Bisha.TI89Emu&hl=pt_PT&gl=US
+  - https://f-droid.org/pt/packages/com.Bisha.TI89EmuDonation/
+  - https://github.com/milaq/graph89
+  - https://bitbucket.org/dhashoandroid/graph89-paid/src/master/
+  - https://tiroms.weebly.com/
+  - https://play.google.com/store/apps/details?id=com.classcalc.classcalc
+  - https://education.ti.com/en/software/details/en/6633925F6176419197BF6CA051F5F7B4/89ti89tioperatingsystem
 
 ## Data import / Moving Data / Scrappers / Crawlers
 
@@ -3391,6 +3410,8 @@ TanStack Table
   - https://github.com/microsoft/semantic-kernel
   - https://devblogs.microsoft.com/semantic-kernel/
   - https://www.tryleap.ai/
+- ControlNet
+  - https://github.com/lllyasviel/ControlNet
 
 ### Derivates
 
@@ -3868,6 +3889,8 @@ TanStack Table
 - Adobe Firefly
   - https://www.adobe.com/sensei/generative-ai/firefly.html
   - can generator vector graphics out of rough sketches
+- ControlNet
+  - https://github.com/lllyasviel/ControlNet
 
 ### Image Upscalling
 

@@ -1,0 +1,2 @@
+- Use soft delete and revoke DELETE privileges to the database user being used in the backend
+- Use VPC to limit from where the database can be accessed

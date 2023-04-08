@@ -9,6 +9,7 @@
 - Composition
   - One computer
     - with the ability to read and check branch protection rules
+      - **but CANNOT have the ability to change / write branch protection rules**
     - has all the important repositories
   - One mobile phone
     - has all the important repositories
