@@ -12,4 +12,4 @@ cd "$project_dir"
 
 pip install -r requirements.txt
 
-pip install -r ../be-in-public/requirements.txt
+pip install -r ../my-notes/requirements.txt
