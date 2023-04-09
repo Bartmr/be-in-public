@@ -16,8 +16,10 @@ reset_colors="\0033[0m"
 #
 #
 
-for repo in "${important_repos[@]}"
+for c in $(jq -c '.[]' ~/Documents/repositories/my-notes/core/git/important-repos.json)
 do
+  repo=$(echo "$c" | jq -c -r '.name')
+
   dir="$important_repos_dir/$repo"
 
   echo -e $highlight_colors
