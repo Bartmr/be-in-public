@@ -8,3 +8,5 @@
 ### LLaMa
 
 ### GPT-J
+
+### PaLM (Pathways Language Model)

@@ -53,7 +53,14 @@
 - https://thrasher995.github.io/
 - https://twitter.com/abacusai/status/1633497832681529344?t=xTZd71REM3QghOqVSYBxQw&s=19
 - https://github.com/SkalskiP/courses
-- https://www.amazon.com/Deep-Learning-Coders-fastai-PyTorch-ebook-dp-B08C2KM7NR/dp/B08C2KM7NR
+- Deep Learning for Coders with fastai and PyTorch: AI Applications Without a PhD 1st Edition, Kindle Edition by Jeremy Howard (Author), Sylvain Gugger (Author) 
+  - https://www.amazon.com/Deep-Learning-Coders-fastai-PyTorch-ebook-dp-B08C2KM7NR/dp/B08C2KM7NR
+  - https://github.com/fastai/fastbook
 - https://karpathy.ai/zero-to-hero.html
 - https://brilliant.org/
 - https://coral.ai/docs/edgetpu/retrain-detection/#requirements
+- Meta Learning: How To Learn Deep Learning And Thrive In The Digital World, by Radek Osmulski
+  - https://rosmulski.gumroad.com/l/learn_machine_learning
+- Hands-On Meta Learning with Python: Meta learning using one-shot learning, MAML, Reptile, and Meta-SGD with TensorFlow by Sudharsan Ravichandiran (Author)
+  - https://www.amazon.com/Hands-Meta-Learning-Python-TensorFlow/dp/1789534208
+- https://www.youtube.com/@howardjeremyp/playlists

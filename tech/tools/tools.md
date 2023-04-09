@@ -2283,6 +2283,10 @@ TanStack Table
 - https://github.com/tesseract-ocr/tesseract
 - https://brev.dev/
   - #infrastructure
+- https://onnxruntime.ai/
+  - https://github.com/microsoft/onnxruntime
+- https://www.fast.ai/
+  - https://docs.fast.ai/
 
 ### NLP / Vector / Embeddings Search
 
