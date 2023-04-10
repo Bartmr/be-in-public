@@ -64,3 +64,6 @@
 - Hands-On Meta Learning with Python: Meta learning using one-shot learning, MAML, Reptile, and Meta-SGD with TensorFlow by Sudharsan Ravichandiran (Author)
   - https://www.amazon.com/Hands-Meta-Learning-Python-TensorFlow/dp/1789534208
 - https://www.youtube.com/@howardjeremyp/playlists
+- https://realpython.com/tutorials/machine-learning/
+- https://www.youtube.com/@FullStackDeepLearning
+- https://www.youtube.com/@HuggingFace

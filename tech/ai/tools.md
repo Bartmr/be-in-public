@@ -8,11 +8,10 @@
 - https://github.com/facebookresearch/faiss
 - https://github.com/google-research/google-research/tree/master/scann
 
-## Communities
+## Notebook Servers
 
-- https://fullstackdeeplearning.com/
-
-
-## People
-
-- https://twitter.com/bentossell
+- Google Colab
+- AWS SageMaker
+- PaperSpace
+  - Gradient
+- Kaggle
