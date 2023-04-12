@@ -66,6 +66,7 @@
 - https://www.therundown.ai/
   - https://supertools.therundown.ai/ 
 - https://theresanaiforthat.com/
+- https://opentools.ai/
 
 ### Awesome lists
 
@@ -1023,6 +1024,8 @@ TanStack Table
   - https://github.com/camunda/camunda-platform
 - https://github.com/serverless-stack/sst
   - https://sst.dev/
+- https://github.com/serverless-stack/open-next
+  - OpenNext takes the Next.js build output and converts it into a package that can be deployed to any functions as a service platform.
 
 ### Validation
 
@@ -1265,6 +1268,7 @@ TanStack Table
 - Scaleway
 - Linode
 - https://www.vultr.com/
+- https://render.com/ 
 
 ## Infrastructure and DevOps
 

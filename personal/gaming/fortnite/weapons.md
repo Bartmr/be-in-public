@@ -5,6 +5,13 @@
 ## Combinations for seasons
 
 - Combat Shotgun
+- Dual-mag SMG
+- Cobra DMR
+
+
+---
+
+- Combat Shotgun
 - Maven Auto Shotgun 
 - Cobra DMR
 ---

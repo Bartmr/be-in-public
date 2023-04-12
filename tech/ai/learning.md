@@ -57,3 +57,7 @@
 - https://karpathy.ai/zero-to-hero.html
 - https://brilliant.org/
 - https://coral.ai/docs/edgetpu/retrain-detection/#requirements
+- `100 days of data science`
+- `100 days of ml code`
+  - https://github.com/Avik-Jain/100-Days-Of-ML-Code
+- https://medium.com/swlh/a-complete-guide-to-learn-data-science-in-100-days-8c6557154102
