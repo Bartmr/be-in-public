@@ -4,6 +4,7 @@ shopt -s inherit_errexit
 
 # Use [[ $# -gt 0 ]] to test existence of positional parameters.
 
+success_colors="\0033[1;30;102m"
 danger_colors="\0033[1;37;41m"
 reset_colors="\0033[0m"
 
@@ -23,3 +24,5 @@ then
 
   exit 1
 fi
+
+echo -e "${success_colors}OK${reset_colors}"
