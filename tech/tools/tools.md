@@ -1026,6 +1026,10 @@ TanStack Table
   - https://sst.dev/
 - https://github.com/serverless-stack/open-next
   - OpenNext takes the Next.js build output and converts it into a package that can be deployed to any functions as a service platform.
+- https://modal.com/
+  - a tool that lets you write code locally and deploy it to the cloud without managing any infrastructure or config
+  - Modal lets you run or deploy machine learning models, massively parallel compute jobs, task queues, web apps, and much more, without your own infrastructure.
+  - #infrastructure 
 
 ### Validation
 
@@ -1152,6 +1156,11 @@ TanStack Table
   - https://github.com/inngest/inngest
   - Ship Background Jobs, Crons, Webhooks, and Reliable Workflows in record time
   - Use TypeScript to build, test, and deploy serverless functions driven by events or a schedule to any platform in seconds, with zero infrastructure.
+- https://modal.com/
+  - a tool that lets you write code locally and deploy it to the cloud without managing any infrastructure or config
+  - Modal lets you run or deploy machine learning models, massively parallel compute jobs, task queues, web apps, and much more, without your own infrastructure.
+  - #infrastructure 
+- n8n
 
 ## Chatbots and Voice Assistants
  
@@ -1269,6 +1278,10 @@ TanStack Table
 - Linode
 - https://www.vultr.com/
 - https://render.com/ 
+- https://modal.com/
+  - a tool that lets you write code locally and deploy it to the cloud without managing any infrastructure or config
+  - Modal lets you run or deploy machine learning models, massively parallel compute jobs, task queues, web apps, and much more, without your own infrastructure.
+  - #infrastructure 
 
 ## Infrastructure and DevOps
 
@@ -1311,13 +1324,7 @@ TanStack Table
   - All-in-one RMM and PSA platform. RMM Software, Remote Access, IT Automations, Patch Management, Scripting, Ticketing, and Reporting.
 - <div id="doppler">https://www.doppler.com/</div>
   - Manage secrets today. Sync and rotate tomorrow. Doppler enables developers and security teams to keep their secrets and app configuration in sync and secure across devices, environments, and team members. Goodbye .env files.
-- Hashicorp Vault
-- https://static.app/
-  - One-click solution for your static website. Drag-n-drop an archive with your page or a website and we will take care of the rest.
-  - Unlimited Traffic
-  - Free SSL Sertificate
-  - Collect from any forms. Just like that. Static can display collected data for you. Simply add the static-form attribute to your existing form to start receiving entries.
-  - Code Editor. No need to switch in between tabs anymore. Make changes right here.
+- Hashicorp Vault 
 - https://hadron.app/
 - <div id="insomnia-inso">Insomnia Inso</div>
 - Circle CI
@@ -1339,6 +1346,10 @@ TanStack Table
   - https://github.com/garden-io/garden
 - Nginx
 - Kong API Gateway
+- https://modal.com/
+  - a tool that lets you write code locally and deploy it to the cloud without managing any infrastructure or config
+  - Modal lets you run or deploy machine learning models, massively parallel compute jobs, task queues, web apps, and much more, without your own infrastructure.
+  - #infrastructure 
 
 ### Kubernetes
 
@@ -1370,6 +1381,12 @@ TanStack Table
 - Cloudflare
 - Firebase Hosting
   - https://firebase.google.com/products/hosting
+- https://static.app/
+  - One-click solution for your static website. Drag-n-drop an archive with your page or a website and we will take care of the rest.
+  - Unlimited Traffic
+  - Free SSL Sertificate
+  - Collect from any forms. Just like that. Static can display collected data for you. Simply add the static-form attribute to your existing form to start receiving entries.
+  - Code Editor. No need to switch in between tabs anymore. Make changes right here.
 
 ### Mobile App Infrastructure
 
@@ -2291,6 +2308,10 @@ TanStack Table
   - https://github.com/microsoft/onnxruntime
 - https://www.fast.ai/
   - https://docs.fast.ai/
+- https://modal.com/
+  - a tool that lets you write code locally and deploy it to the cloud without managing any infrastructure or config
+  - Modal lets you run or deploy machine learning models, massively parallel compute jobs, task queues, web apps, and much more, without your own infrastructure.
+  - #infrastructure 
 
 ### NLP / Vector / Embeddings Search
 
@@ -3396,8 +3417,8 @@ TanStack Table
   - https://github.com/ZrrSkywalker/LLaMA-Adapter
   - https://github.com/facebookresearch/llama
   - https://github.com/ggerganov/llama.cpp
-- https://github.com/tatsu-lab/stanford_alpaca
-  - Stanford Alpaca: An Instruction-following LLaMA Model
+- Stanford Alpaca: An Instruction-following LLaMA Model
+  - https://github.com/tatsu-lab/stanford_alpaca
 - Databricks Dolly
   - https://www.databricks.com/blog/2023/03/24/hello-dolly-democratizing-magic-chatgpt-open-models.html 
   - https://github.com/databrickslabs/dolly
