@@ -1026,6 +1026,10 @@ TanStack Table
   - https://sst.dev/
 - https://github.com/serverless-stack/open-next
   - OpenNext takes the Next.js build output and converts it into a package that can be deployed to any functions as a service platform.
+- https://modal.com/
+  - a tool that lets you write code locally and deploy it to the cloud without managing any infrastructure or config
+  - Modal lets you run or deploy machine learning models, massively parallel compute jobs, task queues, web apps, and much more, without your own infrastructure.
+  - #infrastructure 
 
 ### Validation
 
@@ -1152,6 +1156,11 @@ TanStack Table
   - https://github.com/inngest/inngest
   - Ship Background Jobs, Crons, Webhooks, and Reliable Workflows in record time
   - Use TypeScript to build, test, and deploy serverless functions driven by events or a schedule to any platform in seconds, with zero infrastructure.
+- https://modal.com/
+  - a tool that lets you write code locally and deploy it to the cloud without managing any infrastructure or config
+  - Modal lets you run or deploy machine learning models, massively parallel compute jobs, task queues, web apps, and much more, without your own infrastructure.
+  - #infrastructure 
+- n8n
 
 ## Chatbots and Voice Assistants
  
@@ -2291,6 +2300,10 @@ TanStack Table
   - https://github.com/microsoft/onnxruntime
 - https://www.fast.ai/
   - https://docs.fast.ai/
+- https://modal.com/
+  - a tool that lets you write code locally and deploy it to the cloud without managing any infrastructure or config
+  - Modal lets you run or deploy machine learning models, massively parallel compute jobs, task queues, web apps, and much more, without your own infrastructure.
+  - #infrastructure 
 
 ### NLP / Vector / Embeddings Search
 
@@ -3396,8 +3409,8 @@ TanStack Table
   - https://github.com/ZrrSkywalker/LLaMA-Adapter
   - https://github.com/facebookresearch/llama
   - https://github.com/ggerganov/llama.cpp
-- https://github.com/tatsu-lab/stanford_alpaca
-  - Stanford Alpaca: An Instruction-following LLaMA Model
+- Stanford Alpaca: An Instruction-following LLaMA Model
+  - https://github.com/tatsu-lab/stanford_alpaca
 - Databricks Dolly
   - https://www.databricks.com/blog/2023/03/24/hello-dolly-democratizing-magic-chatgpt-open-models.html 
   - https://github.com/databrickslabs/dolly
