@@ -14,12 +14,27 @@ export function isRemoteDataFailure(t: string | undefined): t is RemoteDataFailu
 }
 
 type State = {
-  isLoading?: boolean;
+  /*
+    will be compared in useEffect,
+    to see if the app is already loading the needed resource,
+    or to start loading a new one
+
+    example:
+
+    useEffect(() => {
+      if(resourceState.loading.id === router.query.id) {
+        return;
+      }
+
+      // ...fetch new resource
+    }, [])
+  */
+  loading?: { id: string };
   error?: TransportFailure | 'other-error-string-literal';
   //
   data?: Data | "no-previous-data";
   //
-  isSubmittingRating?: boolean;
+  submittingRating?: boolean;
   ratingSubmissionError?: TransportFailure | 'other-error-string-literal'
 }
 ```
