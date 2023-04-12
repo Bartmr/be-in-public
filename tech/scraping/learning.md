@@ -1,1 +1,2 @@
 - https://dev.to/zenrowshq/web-scraping-in-python-avoid-detection-like-a-ninja-2op1
+- https://realpython.com/tutorials/web-scraping/

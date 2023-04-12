@@ -8,7 +8,7 @@
 - https://github.com/facebookresearch/faiss
 - https://github.com/google-research/google-research/tree/master/scann
 
-## Communities
+## Notebook Servers
 
 - https://fullstackdeeplearning.com/
 
@@ -19,3 +19,8 @@
 
 ## Information
 - https://github.com/sw-yx/ai-notes
+- Google Colab
+- AWS SageMaker
+- PaperSpace
+  - Gradient
+- Kaggle

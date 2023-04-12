@@ -10,3 +10,9 @@
 ### LLaMa
 
 ### GPT-J
+
+### PaLM (Pathways Language Model)
+
+## People
+
+- https://twitter.com/bentossell

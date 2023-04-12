@@ -2,13 +2,6 @@
 set -euo pipefail
 shopt -s inherit_errexit
 
-#
-
-this_dir=$(dirname "$(realpath $0)")
-cd "$this_dir"
-
-#
-
 files=`git diff --staged --name-only`
 
 for file in $files

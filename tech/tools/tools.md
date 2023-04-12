@@ -2287,6 +2287,10 @@ TanStack Table
 - https://github.com/tesseract-ocr/tesseract
 - https://brev.dev/
   - #infrastructure
+- https://onnxruntime.ai/
+  - https://github.com/microsoft/onnxruntime
+- https://www.fast.ai/
+  - https://docs.fast.ai/
 
 ### NLP / Vector / Embeddings Search
 
@@ -3397,6 +3401,7 @@ TanStack Table
 - Databricks Dolly
   - https://www.databricks.com/blog/2023/03/24/hello-dolly-democratizing-magic-chatgpt-open-models.html 
   - https://github.com/databrickslabs/dolly
+  - https://huggingface.co/databricks/dolly-v1-6b
 - https://laion.ai/
   - https://laion.ai/blog/open-flamingo/
   - https://github.com/mlfoundations/open_flamingo
