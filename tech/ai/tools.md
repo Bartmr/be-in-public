@@ -10,15 +10,6 @@
 
 ## Notebook Servers
 
-- https://fullstackdeeplearning.com/
-
-
-## People
-
-- https://twitter.com/bentossell
-
-## Information
-- https://github.com/sw-yx/ai-notes
 - Google Colab
 - AWS SageMaker
 - PaperSpace
