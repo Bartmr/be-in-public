@@ -1278,6 +1278,10 @@ TanStack Table
 - Linode
 - https://www.vultr.com/
 - https://render.com/ 
+- https://modal.com/
+  - a tool that lets you write code locally and deploy it to the cloud without managing any infrastructure or config
+  - Modal lets you run or deploy machine learning models, massively parallel compute jobs, task queues, web apps, and much more, without your own infrastructure.
+  - #infrastructure 
 
 ## Infrastructure and DevOps
 
@@ -1320,13 +1324,7 @@ TanStack Table
   - All-in-one RMM and PSA platform. RMM Software, Remote Access, IT Automations, Patch Management, Scripting, Ticketing, and Reporting.
 - <div id="doppler">https://www.doppler.com/</div>
   - Manage secrets today. Sync and rotate tomorrow. Doppler enables developers and security teams to keep their secrets and app configuration in sync and secure across devices, environments, and team members. Goodbye .env files.
-- Hashicorp Vault
-- https://static.app/
-  - One-click solution for your static website. Drag-n-drop an archive with your page or a website and we will take care of the rest.
-  - Unlimited Traffic
-  - Free SSL Sertificate
-  - Collect from any forms. Just like that. Static can display collected data for you. Simply add the static-form attribute to your existing form to start receiving entries.
-  - Code Editor. No need to switch in between tabs anymore. Make changes right here.
+- Hashicorp Vault 
 - https://hadron.app/
 - <div id="insomnia-inso">Insomnia Inso</div>
 - Circle CI
@@ -1348,6 +1346,10 @@ TanStack Table
   - https://github.com/garden-io/garden
 - Nginx
 - Kong API Gateway
+- https://modal.com/
+  - a tool that lets you write code locally and deploy it to the cloud without managing any infrastructure or config
+  - Modal lets you run or deploy machine learning models, massively parallel compute jobs, task queues, web apps, and much more, without your own infrastructure.
+  - #infrastructure 
 
 ### Kubernetes
 
@@ -1379,6 +1381,12 @@ TanStack Table
 - Cloudflare
 - Firebase Hosting
   - https://firebase.google.com/products/hosting
+- https://static.app/
+  - One-click solution for your static website. Drag-n-drop an archive with your page or a website and we will take care of the rest.
+  - Unlimited Traffic
+  - Free SSL Sertificate
+  - Collect from any forms. Just like that. Static can display collected data for you. Simply add the static-form attribute to your existing form to start receiving entries.
+  - Code Editor. No need to switch in between tabs anymore. Make changes right here.
 
 ### Mobile App Infrastructure
 
