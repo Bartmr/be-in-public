@@ -1,0 +1,2 @@
+- https://promptomania.com/
+- https://enchanting-trader-463.notion.site/Midjourney-AI-Guide-41eca43809dd4d8fa676e648436fc29c

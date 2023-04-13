@@ -1,6 +1,7 @@
 ## To explore
 
 - https://github.com/sw-yx/ai-notes
+- https://github.com/microsoft/DeepSpeed/blob/master/blogs/deepspeed-chat/README.md
 
 ### BERT
 - https://arxiv.org/abs/2304.00958 

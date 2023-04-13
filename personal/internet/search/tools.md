@@ -1,0 +1,2 @@
+- https://www.phind.com/
+- Microsoft Edge with Bing and GPT-4
