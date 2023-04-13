@@ -15,6 +15,14 @@
 
 ### PaLM (Pathways Language Model)
 
+### Microsoft Semantic Kernel
+
+### ControlNet
+
+### LangChain
+
+### Lhama index
+
 ## People
 
 - https://twitter.com/bentossell

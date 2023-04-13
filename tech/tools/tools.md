@@ -1282,6 +1282,7 @@ TanStack Table
   - a tool that lets you write code locally and deploy it to the cloud without managing any infrastructure or config
   - Modal lets you run or deploy machine learning models, massively parallel compute jobs, task queues, web apps, and much more, without your own infrastructure.
   - #infrastructure 
+- https://railway.app/
 
 ## Infrastructure and DevOps
 
@@ -1346,10 +1347,6 @@ TanStack Table
   - https://github.com/garden-io/garden
 - Nginx
 - Kong API Gateway
-- https://modal.com/
-  - a tool that lets you write code locally and deploy it to the cloud without managing any infrastructure or config
-  - Modal lets you run or deploy machine learning models, massively parallel compute jobs, task queues, web apps, and much more, without your own infrastructure.
-  - #infrastructure 
 
 ### Kubernetes
 
