@@ -25,6 +25,14 @@ class SomeName(TypedDict):
 TypedDict('someName', {'key': str})
 ```
 
+### Strings
+
+#### Template strings like Javascript
+
+```python
+f'{variable} world'
+```
+
 ## Scopes
 
 Python creates a new variable scope every time a function is run or a module is imported. You cannot access variables from the upper scope unless you use some keywords

@@ -71,3 +71,9 @@
 - https://realpython.com/tutorials/machine-learning/
 - https://www.youtube.com/@FullStackDeepLearning
 - https://www.youtube.com/@HuggingFace
+
+## Recommended by FastAI
+
+-   [Meta Learning](https://radekosmulski.gumroad.com/l/learn_deep_learning)
+-   [A Mathematician’s Lament](https://www.maa.org/external_archive/devlin/LockhartsLament.pdf) by Paul Lockhart
+-   [Making Learning Whole](http://www.pz.harvard.edu/resources/making-learning-whole-how-seven-principles-of-teaching-can-transform-education) by David Perkins
