@@ -4,3 +4,4 @@
 - search for `awesome` lists
 - https://hyperskill.org/tracks
 - https://www.linkedin.com/learning/
+- search for `<technology> most common design patterns` 

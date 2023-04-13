@@ -3431,6 +3431,9 @@ TanStack Table
 - https://github.com/nomic-ai/gpt4all
 - Anthropic Claude
 - Langchain
+  - Langchain UIs
+    - https://github.com/logspace-ai/langflow
+    - https://github.com/FlowiseAI/Flowise
 - LlamaIndex
   - previously GPT Index
   - https://gpt-index.readthedocs.io/en/latest/index.html
@@ -3440,6 +3443,7 @@ TanStack Table
   - https://www.tryleap.ai/
 - ControlNet
   - https://github.com/lllyasviel/ControlNet
+- Amazon Bedrock
 
 ### Derivates
 
@@ -3497,6 +3501,7 @@ TanStack Table
 - https://www.explaincode.app/
 - Replit Ghostwriter
   - https://replit.com/site/ghostwriter
+- Amazon CodeWhisperer
 
 ### Parsing and Exploration
 
@@ -3571,6 +3576,10 @@ TanStack Table
 - https://www.codacy.com/
 - https://sourcegraph.com/code-monitoring
 - [Datafold](#datafold)
+- husky
+  - https://github.com/typicode/husky
+  - precommit hooks
+- https://pre-commit.com/
 
 ### Monorepo
 
@@ -3958,6 +3967,8 @@ TanStack Table
 - [Bannerbear](#bannerbear)
 - https://imgproxy.net/
 - https://tinypng.com/
+- https://www.bannerbear.com/
+- https://apitemplate.io/
 
 ### Stock
 
@@ -4023,6 +4034,8 @@ TanStack Table
 - https://www.keepersecurity.com/
 - Zoho Vault
 - https://www.doppler.com/
+- Supabase Vault
+  - https://supabase.com/blog/vault-now-in-beta
 
 ### Protection from Abuse
 
@@ -4434,7 +4447,7 @@ TanStack Table
 
 ## Development environments
 
-### REPL and online IDEs
+### IDEs
 
 - Replit
 - CodeSandbox
@@ -4476,6 +4489,8 @@ TanStack Table
 - [Framer Developers](#framer-developers)
 - https://www.einblick.ai/
 - https://codemagic.io/
+- AWS Toolkit for Visual Studio Code
+  - https://aws.amazon.com/visualstudiocode/
 
 ### Mac as a service
 
