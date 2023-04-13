@@ -3970,6 +3970,8 @@ TanStack Table
 - [Bannerbear](#bannerbear)
 - https://imgproxy.net/
 - https://tinypng.com/
+- https://www.bannerbear.com/
+- https://apitemplate.io/
 
 ### Stock
 
@@ -4035,6 +4037,8 @@ TanStack Table
 - https://www.keepersecurity.com/
 - Zoho Vault
 - https://www.doppler.com/
+- Supabase Vault
+  - https://supabase.com/blog/vault-now-in-beta
 
 ### Protection from Abuse
 
