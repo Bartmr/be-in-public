@@ -4583,6 +4583,15 @@ TanStack Table
   - https://acode.foxdebug.com/
   - https://github.com/deadlyjack/Acode
 
+#### iOS
+
+- a-shell
+  - https://apps.apple.com/us/app/a-shell/id1473805438
+- iSH Shell
+  - https://apps.apple.com/us/app/ish-shell/id1436902243
+  - https://ish.app/
+  - https://github.com/ish-app/ish
+
 ## Debugging
 
 - Search for Chrome Extensions
