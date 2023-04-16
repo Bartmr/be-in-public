@@ -2309,6 +2309,12 @@ TanStack Table
   - a tool that lets you write code locally and deploy it to the cloud without managing any infrastructure or config
   - Modal lets you run or deploy machine learning models, massively parallel compute jobs, task queues, web apps, and much more, without your own infrastructure.
   - #infrastructure 
+- aimstack
+  - https://github.com/aimhubio/aim
+  - https://aimstack.io/ 
+  - AI metadata tracker. Aim logs all your AI metadata (experiments, prompt engineering, etc) enables a UI to compare & observe them and SDK to query them programmatically.
+- https://mindsdb.com/
+  - https://github.com/mindsdb/mindsdb
 
 ### NLP / Vector / Embeddings Search
 
@@ -4376,6 +4382,7 @@ TanStack Table
 - https://savvycal.com/time-zone-api/
   - https://savvycal.com/docs/api/endpoints/time-zones
 - Lokalise
+- https://gitlocalize.com/
 
 ## Compliance
 
