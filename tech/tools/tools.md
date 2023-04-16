@@ -2715,6 +2715,8 @@ TanStack Table
 - https://scrapex.ai/
 - https://www.getscrapio.com/
 - https://monitoro.co/
+- https://www.browse.ai/
+- https://webscraping.ai/
 
 ### PDF
 
@@ -4784,6 +4786,8 @@ TanStack Table
   - https://github.com/miroslavpejic85/mirotalk
 - https://sfu.mirotalk.com/
   - https://github.com/miroslavpejic85/mirotalksfu
+- https://dolby.io/products/interactivity-apis
+- https://mesibo.com/
 
 ## UX / UI Design
 
@@ -5482,6 +5486,7 @@ TanStack Table
 - [Atlas Device Sync](#atlas-device-sync)
 - [Realm](#realm)
 - https://getstream.io/
+- https://mesibo.com
 
 ## Observability
 
