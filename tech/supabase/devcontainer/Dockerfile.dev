@@ -1,0 +1,17 @@
+FROM node:16-buster
+
+VOLUME /home/node
+
+RUN apt-get update \
+  && apt-get install -y nano
+
+# GID must be the same as the docker group in the host 
+RUN groupadd --gid 998 docker
+
+RUN usermod -aG docker node
+
+USER node
+
+RUN curl -fsSL https://deno.land/x/install/install.sh | sh
+
+ENV PATH="${PATH}:/home/node/.deno/bin"

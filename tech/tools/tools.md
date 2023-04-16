@@ -3005,6 +3005,7 @@ TanStack Table
 - https://prepr.io/
 - https://www.builder.io/
   - https://www.builder.io/m/headless-cms
+  - https://github.com/builderio/builder
 - https://payloadcms.com/
   - The most powerful TypeScript headless CMS there is.
 - https://www.storyblok.com/
@@ -3440,10 +3441,12 @@ TanStack Table
 - Microsoft Semantic Kernel
   - https://github.com/microsoft/semantic-kernel
   - https://devblogs.microsoft.com/semantic-kernel/
-  - https://www.tryleap.ai/
 - ControlNet
   - https://github.com/lllyasviel/ControlNet
 - Amazon Bedrock
+- https://www.tryleap.ai/
+  - Add AI to your app in minutes
+  - Generate images, edit them, fine tune models, retrieve text context and more with best-in-class APIs and SDKs.
 
 ### Derivates
 
