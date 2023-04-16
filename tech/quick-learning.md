@@ -5,3 +5,4 @@
 - https://hyperskill.org/tracks
 - https://www.linkedin.com/learning/
 - search for `<technology> most common design patterns` 
+- https://exercism.org/

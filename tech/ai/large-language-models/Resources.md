@@ -2,6 +2,9 @@
 
 - https://github.com/sw-yx/ai-notes
 - https://github.com/microsoft/DeepSpeed/blob/master/blogs/deepspeed-chat/README.md
+- https://github.com/mlc-ai/web-llm
+  - Bringing large-language models and chat to web browsers. Everything runs inside the browser with no server support. 
+  - #webgpu
 
 ### BERT
 - https://arxiv.org/abs/2304.00958 
