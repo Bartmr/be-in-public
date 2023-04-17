@@ -9,14 +9,14 @@ type AuthStateContextValue = {
   session: AuthSession;
   sessionRef: MutableRefObject<AuthSession>;
   setSession: (
-    nextValue: AuthSession | ((previousValue: AuthSession) => AuthSession)
+    nextValue: AuthSession
   ) => void;
 };
 
 const AuthStateContext = createContext<null | AuthStateContextValue>(null);
 
 export function AuthStateProvider(props: { children: ReactNode }) {
-  const [session, _setSession] = useStateAndRef<AuthSession>({});
+  const [session, sessionRef, setSession] = useStateAndRef<AuthSession>({});
 
   const contextValue = useMemo((): AuthStateContextValue => {
     return {

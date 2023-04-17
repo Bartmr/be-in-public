@@ -1,5 +1,5 @@
 ```tsx
-export enum RemoteDataFailure {
+export enum TransportFailure {
   ConnectionFailure = 'connection-failure',
   UnexpectedResponse = 'unexpected-response',
   AbortedAndDealtWith = 'aborted-and-dealt-with',
@@ -7,10 +7,10 @@ export enum RemoteDataFailure {
   NotFound = 'not-found',
 }
 
-const RemoteDataFailures: string[] = getEnumValues(RemoteDataFailure)
+const TransportFailures: string[] = getEnumValues(TransportFailure)
 
-export function isRemoteDataFailure(t: string | undefined): t is RemoteDataFailure {
-  return RemoteDataFailures.includes(t as string)
+export function isTransportFailure(t: string | undefined): t is TransportFailure {
+  return TransportFailures.includes(t as string)
 }
 
 type State = {
