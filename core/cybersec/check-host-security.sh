@@ -25,4 +25,5 @@ then
   exit 1
 fi
 
-echo -e "${success_colors}OK${reset_colors}"
+echo -e "
+${success_colors} OK ${reset_colors}"

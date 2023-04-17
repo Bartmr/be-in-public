@@ -98,4 +98,4 @@ if len(bad_branch_protections) > 0:
   raise Exception()
 else:
   print('''
-{success_colors}OK{reset_colors}'''.format(success_colors=success_colors, reset_colors=reset_colors))
+{success_colors} OK {reset_colors}'''.format(success_colors=success_colors, reset_colors=reset_colors))
