@@ -10,7 +10,7 @@ reset_colors="\0033[0m"
 
 # FIREWALL CHECK
 
-ufw_status=$(sudo ufw status verbose)
+ufw_status=$(ufw status verbose)
 expected_ufw_status="Status: active
 Logging: on (low)
 Default: deny (incoming), allow (outgoing), deny (routed)
