@@ -4436,6 +4436,9 @@ TanStack Table
 - https://usercentrics.com/
 - https://www.cookiebot.com/
 - https://contractbook.com/
+- https://termly.io/
+  - https://termly.io/products/terms-and-conditions-generator-single-cta/
+  - https://termly.io/products/privacy-policy-generator/
 
 ### Fraud detection
 
@@ -4465,6 +4468,7 @@ TanStack Table
 
 ### IDEs
 
+- See ['Automation and Backend](#automation-and-backend)
 - Replit
 - CodeSandbox
 - StackBlitz
@@ -4704,6 +4708,7 @@ TanStack Table
 ### Mobile Apps
 
 - https://fbflipper.com/
+  - https://github.com/facebook/flipper
 - https://www.rocketsim.app/
 
 ### React
