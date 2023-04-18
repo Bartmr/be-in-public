@@ -3048,6 +3048,10 @@ TanStack Table
 
 ## In-app Search
 
+- See [Cloud solutions](#cloud-solutions). Look for
+  - Cognitive services
+  - Cognitive Search
+  - Azure has Cognitive Search
 - https://www.algolia.com/
 - https://typesense.org/
 - <div id="jetboost">https://www.jetboost.io/</div>
