@@ -186,6 +186,10 @@
 
 - https://reactnative.directory/
 
+## Artificial Intelligence
+
+- https://github.com/dair-ai/Prompt-Engineering-Guide/blob/main/pages/tools.en.mdx
+
 ## References
 
 - https://pronocoders.com/
