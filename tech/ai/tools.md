@@ -1,7 +1,8 @@
 ## Datasets
-  - https://paperswithcode.com/datasets
-  - Kaggle
-    - https://www.kaggle.com/datasets
+- https://paperswithcode.com/datasets
+- Kaggle
+  - https://www.kaggle.com/datasets
+- https://github.com/dair-ai/Prompt-Engineering-Guide/blob/main/pages/datasets.en.mdx
 
 ## Search
 
