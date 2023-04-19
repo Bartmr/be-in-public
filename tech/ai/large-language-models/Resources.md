@@ -30,3 +30,4 @@
 ## People
 
 - https://twitter.com/bentossell
+- https://medium.com/@natashanewbold

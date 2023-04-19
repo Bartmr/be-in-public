@@ -1,0 +1,3 @@
+- https://docs.expo.dev/workflow/prebuild/
+- https://docs.expo.dev/workflow/customizing/
+- https://docs.expo.dev/build-reference/local-builds/

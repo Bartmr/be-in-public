@@ -3,6 +3,7 @@
 
 - See integrations and APIs in [Automation and Backend](#automation-and-backend).
 - See integrations and APIs in [Data or API Aggregators](#data-and-api-aggregators).
+- Search for `awesome` lists
 - https://saasblocks.io/
 - https://nocode.cartooli.com/
 - https://nocodelist.co/
@@ -34,7 +35,6 @@
 - https://www.framestack.net/?ref=producthunt
 - https://welovenocode.com/nocodelist
 - https://tools.codemap.io/
-- Search for `Awesome` lists online
 - Chrome Extensions
 - Firefox Addons
 - https://www.starterstory.com/tools
@@ -90,6 +90,7 @@
 - https://www.apidog.com/apihub/
 - https://www.postman.com/explore
 - https://any-api.com/
+- https://github.com/public-apis-dev/public-apis
 
 ### Data Science and ML
 
@@ -502,6 +503,8 @@
   - https://github.com/meteor/meteor
 - https://www.phoenixframework.org/
   - https://github.com/phoenixframework/phoenix
+- https://refine.new/
+  - https://github.com/refinedev/refine
 
 #### UI / CSS Frameworks
 

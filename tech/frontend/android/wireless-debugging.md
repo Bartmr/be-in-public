@@ -1,0 +1,1 @@
+- `adb pair <phone's ip in local network>`

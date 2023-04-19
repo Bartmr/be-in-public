@@ -71,6 +71,10 @@
 - https://realpython.com/tutorials/machine-learning/
 - https://www.youtube.com/@FullStackDeepLearning
 - https://www.youtube.com/@HuggingFace
+- CodeAcademy
+  - https://www.codecademy.com/catalog/subject/machine-learning
+  - https://www.codecademy.com/catalog/subject/data-science
+- https://medium.com/@natashanewbold
 
 ## Recommended by FastAI
 

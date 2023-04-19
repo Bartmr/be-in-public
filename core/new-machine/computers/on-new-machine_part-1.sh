@@ -65,6 +65,20 @@ sudo usermod -aG docker $USER
 
 pip install --user pipenv
 
+# Java
+
+sudo apt install openjdk-11-jdk
+
+echo "
+export JAVA_HOME=/usr/lib/jvm/java-11-openjdk-amd64" >> .bashrc
+
+# Android Studio
+
+# echo "
+# export ANDROID_HOME=\$HOME/Android/Sdk
+# export PATH=\$PATH:\$ANDROID_HOME/emulator
+# export PATH=\$PATH:\$ANDROID_HOME/platform-tools" >> .bashrc
+
 # VSCode
 
 sudo apt-get install wget gpg
@@ -114,7 +128,7 @@ sudo apt-get install -y dbus-x11
 
 # Enable firewall
 
-sudo ufw enable
+# sudo ufw enable
 
 # Enable large text
 
