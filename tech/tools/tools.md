@@ -186,9 +186,10 @@
 
 - https://reactnative.directory/
 
-## Artificial Intelligence
+### Artificial Intelligence
 
 - https://github.com/dair-ai/Prompt-Engineering-Guide/blob/main/pages/tools.en.mdx
+- https://python.langchain.com/en/latest/ecosystem.html
 
 ## References
 
@@ -2344,6 +2345,8 @@ TanStack Table
   - pgvector
 - https://www.trychroma.com/
   - https://github.com/chroma-core/chroma
+- Milvus
+  - https://github.com/milvus-io/milvus 
 
 ### Synthetic Data / Seeding
 
