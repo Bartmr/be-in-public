@@ -9,14 +9,14 @@ type AuthStateContextValue = {
   session: AuthSession;
   sessionRef: MutableRefObject<AuthSession>;
   setSession: (
-    nextValue: AuthSession | ((previousValue: AuthSession) => AuthSession)
+    nextValue: AuthSession
   ) => void;
 };
 
 const AuthStateContext = createContext<null | AuthStateContextValue>(null);
 
 export function AuthStateProvider(props: { children: ReactNode }) {
-  const [session, _setSession] = useStateAndRef<AuthSession>({});
+  const [session, sessionRef, setSession] = useStateAndRef<AuthSession>({});
 
   const contextValue = useMemo((): AuthStateContextValue => {
     return {
@@ -40,7 +40,7 @@ export function useAuthState() {
 ```
 
 ```tsx
-export function AuthProvider(props: { children: ReactNode }) {
+export function AuthEffects(props: { children: ReactNode }) {
   const analytics = useAnalytics();
 
   const { sessionRef, setSession } = useAuthState();
@@ -73,7 +73,10 @@ export function AuthProvider(props: { children: ReactNode }) {
       (user) => {
         (async () => {
           if (user) {
-            if (sessionRef.current.data?.user.uid !== user.uid) {
+            if (
+              sessionRef.current.data === "not-logged-in" ||
+              sessionRef.current.data?.user.uid !== user.uid
+            ) {
               analytics.identify({
                 firebaseId: user.uid,
                 email: user.email ?? undefined,

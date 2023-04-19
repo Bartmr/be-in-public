@@ -13,3 +13,15 @@ Create a single repository called `all-notes` that aggregates all your notes rep
 - Obsidian Git plugin
   - https://github.com/denolehov/obsidian-git
 - https://meganesulli.com/blog/sync-obsidian-vault-iphone-ipad/
+
+## Reference files
+
+- Same vault
+  ```
+  [[subfolder/note-a]]
+  ```
+
+- Between vaults
+  ```
+  [note in other vault](obsidian://vault/other_vault/note)
+  ```

@@ -1,0 +1,1 @@
+- https://docs.expo.dev/develop/user-interface/store-data/#expo-sqlite

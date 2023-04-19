@@ -68,7 +68,7 @@ const Logger = {
         console.log("----- DEBUG: " + key, "\nExtra data:", extraData);
       }
     }
-  }
+  },
 
   logWarning(key: string, message: string, extraData?: unknown) {
     const numberOfTimesLogged = loggedWarnings[key] || 0;
@@ -100,7 +100,7 @@ const Logger = {
         console.warn("Extra data:", extraData);
       }
     }
-  }
+  },
 
   logError(
     errorKey: string,

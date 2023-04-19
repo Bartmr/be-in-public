@@ -26,7 +26,10 @@
   - shared
   - ui-kit
     - core
-      > for colors, contrasting-colors, typography
+      - colors
+      - contrasting-colors
+      - fonts
+      - spacers
     - components
     - global-styles (in case CSS is used)
 - logic
@@ -44,7 +47,7 @@
     - storage
       - local-storage.ts
     - transports
-      - remote-data-failures.ts
+      - transport-failures.ts
     - utils
     - i18n
       - get-text.ts
@@ -200,19 +203,15 @@ export function SomeTemplate() {
 
 - contains constants and utilities for dealing with the many states of data transported from outside sources.
 
-### `logic/internals/transports/transported-data/transport-failures`
+### `logic/internals/transports/transport-failures`
 
 - enum of all the predicted errors that can happen when loading data from outside sources
 
-### `logic/internals/transports/transported-data/transport-phases`
-
-- enum of all the phases that go into loading data from outside sources
-
-### `logic/internals/transports/transported-data/use-queue`
+### `logic/internals/utils/use-queue`
 
 - an easy way to run actions sequentially in a more procedural way, and not as React effects
 
-### `logic/internals/transports/transported-data/use-state-and-ref`
+### `logic/internals/utils/use-state-and-ref`
 
 - when in the middle of an asynchrounous method, sometimes you might need to access the most recent data being displayed in a React component. By using a React `ref` connected to a state, you get both a React compliant state, and a object reference with the latest state present in the component.
 
