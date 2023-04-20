@@ -11,3 +11,7 @@
 - `git diff --staged`
 - `git diff --stat`
 - `git diff --stat --unified=0`
+
+## Delete all files matching .gitignore
+
+- `git clean -Xdf`

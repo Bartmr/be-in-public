@@ -1497,6 +1497,7 @@ TanStack Table
   - https://twitter.com/sparktoro
 - https://tweetniche.com/
 - https://www.similarweb.com/
+- https://star-history.com/
 
 ### Pricing
 
@@ -3469,6 +3470,13 @@ TanStack Table
 - https://www.tryleap.ai/
   - Add AI to your app in minutes
   - Generate images, edit them, fine tune models, retrieve text context and more with best-in-class APIs and SDKs.
+- StableML
+  - by Stablility AI
+  - https://github.com/stability-AI/stableLM/
+  - https://stability.ai/blog/stability-ai-launches-the-first-of-its-stablelm-suite-of-language-models
+  - Playground
+    - https://huggingface.co/spaces/stabilityai/stablelm-tuned-alpha-chat
+- https://github.com/ggerganov/llama.cpp
 
 ### Derivates
 
