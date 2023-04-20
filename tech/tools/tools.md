@@ -91,6 +91,7 @@
 - https://www.postman.com/explore
 - https://any-api.com/
 - https://github.com/public-apis-dev/public-apis
+- https://aimultiple.com/
 
 ### Data Science and ML
 
