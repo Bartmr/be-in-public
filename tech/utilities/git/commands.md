@@ -18,11 +18,11 @@
 
 ## Ignore ending of file new line
 
-- `git diff --ignore-space-at-eol´
+- `git diff --ignore-space-at-eol`
 
-or 
+or
 
-- `git diff -w´
+- `git diff -w`
 
 ## Remove whitespace error annotations in diff
 

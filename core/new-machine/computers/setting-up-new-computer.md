@@ -37,7 +37,6 @@
   git config --global pager.diff false
   git config --global pull.rebase false
 
-  git config --global core.whitespace -trailing-space
   ```
 
 - Clone initial repositories
