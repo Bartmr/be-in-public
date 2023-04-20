@@ -75,6 +75,7 @@
   - https://www.codecademy.com/catalog/subject/machine-learning
   - https://www.codecademy.com/catalog/subject/data-science
 - https://medium.com/@natashanewbold
+- https://www.activeloop.ai/resources/tutorials/
 
 ## Recommended by FastAI
 
