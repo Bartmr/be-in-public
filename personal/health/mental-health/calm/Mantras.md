@@ -1,2 +1,2 @@
-- If it's not written down, ut doesn't matter
+- If it's not written down, it doesn't matter
 - Dont spend more than 5 minutes on something that doesn't matter in 5 years
