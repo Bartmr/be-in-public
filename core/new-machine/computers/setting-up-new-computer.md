@@ -36,6 +36,9 @@
 
   git config --global pager.diff false
   git config --global pull.rebase false
+
+  git config --global alias.diff 'diff --ignore-space-at-eol'
+  git config --global core.whitespace -trailing-space
   ```
 
 - Clone initial repositories

@@ -11,3 +11,23 @@
 - `git diff --staged`
 - `git diff --stat`
 - `git diff --stat --unified=0`
+
+## Delete all files matching .gitignore
+
+- `git clean -Xdf`
+
+## Ignore ending of file new line
+
+- `git diff --ignore-space-at-eol´
+
+or 
+
+- `git diff -w´
+
+### Make the change persistent
+
+- `git config --global alias.diff 'diff --ignore-space-at-eol'`
+
+## Remove whitespace error annotations in diff
+
+- `git config --global core.whitespace -trailing-space`
