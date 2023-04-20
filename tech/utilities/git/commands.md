@@ -24,10 +24,6 @@ or
 
 - `git diff -w´
 
-### Make the change persistent
-
-- `git config --global alias.diff 'diff --ignore-space-at-eol'`
-
 ## Remove whitespace error annotations in diff
 
 - `git config --global core.whitespace -trailing-space`
