@@ -184,6 +184,8 @@
 
 ### Apps
 
+- https://framework.dev/
+
 #### React Native
 
 - https://reactnative.directory/
@@ -572,6 +574,7 @@
   - https://docs.storefrontui.io/v2/ 
   - https://vuestorefront.io/storefront-ui
   - https://github.com/vuestorefront/storefront-ui
+- https://www.bumbag.style/
 
 #### UI FX
 
@@ -764,6 +767,7 @@ TanStack Table
     - https://github.com/akveo/kittenTricks
 - https://tamagui.dev/
   - https://github.com/tamagui/tamagui
+- https://www.bumbag.style/
 
 #### Android UI Frameworks
 
@@ -2328,6 +2332,9 @@ TanStack Table
   - AI metadata tracker. Aim logs all your AI metadata (experiments, prompt engineering, etc) enables a UI to compare & observe them and SDK to query them programmatically.
 - https://mindsdb.com/
   - https://github.com/mindsdb/mindsdb
+- ActiveLoop Deeplake
+  - Data Lake for Deep Learning. Multi-modal Vector Database for LLMs/LangChain. Store, query, version, & visualize datasets. Stream data in real-time to PyTorch/TensorFlow
+  - https://github.com/activeloopai/deeplake/
 
 ### NLP / Vector / Embeddings Search
 
@@ -3732,6 +3739,7 @@ TanStack Table
   - https://chrome.google.com/webstore/detail/record-transcribe-chatgpt/lknmjhcajhfbbglglccadlfdjbaiifig
 - https://tactiq.io/
   - https://chrome.google.com/webstore/detail/tactiq-chatgpt-meeting-su/fggkaccpbmombhnjkjokndojfgagejfb
+- https://fireflies.ai/
 
 ### File sharing and conversion
 
