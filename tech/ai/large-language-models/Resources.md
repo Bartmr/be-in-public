@@ -50,3 +50,10 @@
 
 - https://twitter.com/bentossell
 - https://medium.com/@natashanewbold
+
+## Projects
+- https://github.com/0hq/WebGPT 
+
+## Introductions 
+
+- https://www.economist.com/interactive/science-and-technology/2023/04/22/large-creative-ai-models-will-transform-how-we-live-and-work 

@@ -4,6 +4,9 @@
 
 ## Combinations for seasons
 
+- 2 Combat shotguns
+- Cobra DMR
+
 - Combat Shotgun
 - Dual-mag SMG
 - Cobra DMR
