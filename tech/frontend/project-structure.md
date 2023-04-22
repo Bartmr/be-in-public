@@ -88,6 +88,17 @@ export function SomeTemplate() {
 }
 ```
 
+## Complex logic structure
+
+When a feature becomes too complex in the application, split it into the following sections:
+
+- `state`
+  - stores the data to be showed on the screen and be processed and changed by `actions` and `effects`
+- `actions`
+  - contains all the methods available for a given feature. These methods needs to be called explicitly to start an action.
+- `effects`
+  - contains all the logic that reacts to state changes
+
 ## Explanation
 
 ### `components`

@@ -1,0 +1,11 @@
+- Italo-disco
+- Synthwave
+- Vaporwave
+- Musak
+  - 60s / 70s supermarket / mall / elevator music
+- 80s movie soundtracks
+- Disco
+- Hi-NRG
+- Deep house
+- Deep Tech
+- Meditation music

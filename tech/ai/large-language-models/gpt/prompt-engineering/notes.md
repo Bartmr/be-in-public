@@ -1,3 +1,7 @@
+## GPT just got stuck in the middle of something
+
+- just type `continue` and it will continue it's thought process
+
 ## Have GPT help you formulate questions <https://twitter.com/bitecode_dev/status/1637420579278954501>
 
 Every time I will send a message, if there is a reasonable doubt that you are missing some important informations to answer, ask me a question to get this information before giving the answer. You can use this process several times, but don't abuse it. At some point, you

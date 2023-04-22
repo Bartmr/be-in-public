@@ -2,3 +2,5 @@
 - https://www.linkedin.com/learning/introducing-semantic-kernel-building-ai-based-apps/introducing-semantic-kernel?autoplay=true
 - https://www.linkedin.com/learning/introduction-to-prompt-engineering-for-generative-ai/joining-the-nlp-revolution?autoplay=true
 - https://www.linkedin.com/learning/ai-pair-programming-with-github-copilot/human-ai-collaboration?autoplay=true
+- https://www.activeloop.ai/resources/ultimate-guide-to-lang-chain-deep-lake-build-chat-gpt-to-answer-questions-on-your-financial-data/
+- https://www.activeloop.ai/resources/generative-ai-data-infrastructure-how-to-train-large-language-models-ll-ms-with-deep-lake/

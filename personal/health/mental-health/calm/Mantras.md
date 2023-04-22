@@ -1,2 +1,3 @@
 - If it's not written down, it doesn't matter
 - Dont spend more than 5 minutes on something that doesn't matter in 5 years
+- Past and future are mental constructs, build on old evolutionary patterns that are no longer suited for modern society. With past comes remorse or wishing to go back and with the future comes anxiety or over-confidence. The present is the only useful moment, the simplest, and closest to reality.

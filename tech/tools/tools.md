@@ -67,6 +67,7 @@
   - https://supertools.therundown.ai/ 
 - https://theresanaiforthat.com/
 - https://opentools.ai/
+- https://github.com/jtmuller5/AI-Tools-and-Websites
 
 ### Awesome lists
 
@@ -107,6 +108,8 @@
   - Azure
   - Google Cloud Platform (GCP)
   - Firebase
+- https://super.ai/
+  - https://super.ai/store
 
 ### Supabase
 
@@ -2332,6 +2335,7 @@ TanStack Table
 - ActiveLoop Deeplake
   - Data Lake for Deep Learning. Multi-modal Vector Database for LLMs/LangChain. Store, query, version, & visualize datasets. Stream data in real-time to PyTorch/TensorFlow
   - https://github.com/activeloopai/deeplake/
+- https://super.ai/
 
 ### NLP / Vector / Embeddings Search
 
