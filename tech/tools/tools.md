@@ -190,6 +190,7 @@
 
 - https://reactnative.directory/
 - https://github.com/jondot/awesome-react-native
+- https://docs.expo.dev/versions/latest/
 
 ### Artificial Intelligence
 
