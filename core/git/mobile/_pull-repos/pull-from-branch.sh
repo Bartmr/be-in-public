@@ -13,7 +13,7 @@ reset_colors="\0033[0m"
 dir=$1
 branch_to_pull=$2
 
-echo "${repo_colors}[Target]: $(basename $dir)${reset_colors}"
+echo -e "${repo_colors}[Target]: $(basename $dir)${reset_colors}"
 
 cd $dir
 echo -e "${repo_colors}[pwd   ]: $(pwd)${reset_colors}"
