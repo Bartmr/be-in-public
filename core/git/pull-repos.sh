@@ -2,6 +2,19 @@
 set -euo pipefail
 shopt -s inherit_errexit
 
+#
+
+danger_colors="\0033[1;37;41m"
+reset_colors="\0033[0m"
+
+err_report() {
+    echo -e "${danger_colors}Error on line ${1}${reset_colors}" >&2
+}
+
+trap 'err_report $LINENO' ERR
+
+#
+
 this_dir=$(dirname "$(realpath $0)")
 cd "$this_dir"
 
