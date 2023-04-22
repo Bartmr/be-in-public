@@ -192,6 +192,8 @@
 #### React Native
 
 - https://reactnative.directory/
+- https://github.com/jondot/awesome-react-native
+- https://docs.expo.dev/versions/latest/
 
 ### Artificial Intelligence
 
@@ -767,6 +769,8 @@ TanStack Table
   - https://github.com/akveo/react-native-ui-kitten
   - Sample App
     - https://github.com/akveo/kittenTricks
+- https://tamagui.dev/
+  - https://github.com/tamagui/tamagui
 - https://www.bumbag.style/
 
 #### Android UI Frameworks
