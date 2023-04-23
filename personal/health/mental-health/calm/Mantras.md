@@ -11,3 +11,4 @@
 
 - the simplest solution is always the one closest to being the best
   - complex solutions usually come from our own bad habits and our toxic side
+- There are no certainties, only faith
