@@ -2,6 +2,7 @@
 
 - `meta learning`
 - Topological Data Analysis
+- AutoML
 
 ## Communities
 

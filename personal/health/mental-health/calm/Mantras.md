@@ -3,7 +3,11 @@
   - writing down makes the knowledge and events available to others, be they humans or machines
   - writing down works as a filter for what is worth the focus and what is just something that came out of fear or a bad habit
   - sticking to what is written down helps you focus
+
 - Dont spend more than 5 minutes on something that doesn't matter in 5 years
+
 - Past and future are mental constructs, build on old evolutionary patterns that are no longer suited for modern society. With past comes remorse or wishing to go back and with the future comes anxiety or over-confidence. The present is the only useful moment, the simplest, and closest to reality.
+  - any time you remember something, or try to predict something, what you see is already a construct of your prejudices and faulty brain mechanics
+
 - the simplest solution is always the one closest to being the best
   - complex solutions usually come from our own bad habits and our toxic side

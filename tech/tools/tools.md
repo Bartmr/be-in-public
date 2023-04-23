@@ -2766,11 +2766,6 @@ TanStack Table
   - Convert images and PDFs to LaTeX, DOCX, Overleaf, Markdown, Excel, ChemDraw and more, with our AI powered document conversion technology.
 - https://docparser.com/
 
-### LinkedIn
-
-- https://derrick-app.com
-  - https://workspace.google.com/marketplace/app/linkedin_importer_and_email_finder_derri/3746789989
-
 ### Transcribing / Speech recognition
 
 - See [Cloud Solutions](#cloud-solutions)
@@ -2873,6 +2868,12 @@ TanStack Table
 
 - See OSINT tools in the `cybersec` repository
 - https://github.com/JustAnotherArchivist/snscrape
+- https://github.com/JustAnotherArchivist/snscrape
+
+#### LinkedIn
+
+- https://derrick-app.com
+  - https://workspace.google.com/marketplace/app/linkedin_importer_and_email_finder_derri/3746789989
 
 ## Websites
 

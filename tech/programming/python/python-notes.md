@@ -54,3 +54,17 @@ def run():
 
 run()
 ```
+
+## Error handling
+
+### Handle uncaught exceptions
+
+```python
+import sys
+import traceback
+
+def exception_handler(exception_type, exception, traceback):
+    print("\033[31mException: {}\033[0m".format(exception))
+
+sys.excepthook = exception_handler
+```
