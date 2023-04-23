@@ -7,3 +7,4 @@
 - Past and future are mental constructs, build on old evolutionary patterns that are no longer suited for modern society. With past comes remorse or wishing to go back and with the future comes anxiety or over-confidence. The present is the only useful moment, the simplest, and closest to reality.
 - the simplest solution is always the one closest to being the best
   - complex solutions usually come from our own bad habits and our toxic side
+- There are no certainties, only faith

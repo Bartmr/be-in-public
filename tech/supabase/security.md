@@ -1,0 +1,4 @@
+- https://supabase.com/docs/learn/auth-deep-dive/auth-row-level-security
+- Postgres `private` schema is not exposed as public API by Supabase 
+  - https://supabase.com/docs/guides/database/tables#schemas
+  - https://www.reddit.com/r/Supabase/comments/uutzwa/who_has_experience_working_with_prisma_and/
