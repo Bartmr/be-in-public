@@ -71,7 +71,7 @@ success_colors="\033[1;30;102m"
 danger_colors="\033[1;37;41m"
 reset_colors="\033[0m"
 
-if len(bad_branch_protections) > 0:
+if len(bad_branch_protections) != 0:
   for bad_branch_protection in bad_branch_protections:
     print('''
 {danger_colors}
