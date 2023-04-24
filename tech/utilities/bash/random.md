@@ -6,6 +6,7 @@
 - https://github.com/SixArm/unix-shell-script-tactics/blob/main/doc/parse-options-via-while-and-case-not-getopts-or-getopt.md
 - https://www.gnu.org/software/bash/manual/html_node/Modifying-Shell-Behavior.html
 - https://github.com/SixArm/unix-shell-script-tactics
+- https://dougrichardson.us/notes/fail-fast-bash-scripting.html
 
 ## Notes
 
@@ -110,6 +111,7 @@ The difference is that the first one is all checked by one instance of the test 
 ## Conditions
 
 - See [Wrapper operators](#wrapper-operators)
+- Conditions evaluate the exit status of the command (be it `test` or any other). 0 exit code is true, 1 is false.
 - `!` inverts the boolean result of an exit code
 - Aggregate conditions
   ```bash
@@ -155,14 +157,6 @@ The difference is that the first one is all checked by one instance of the test 
 ### Lists / Arrays
 
 - Array iteration of an undeclared variable is not caught by `set -u`
-
-## Error handling
-
-- https://dougrichardson.us/notes/fail-fast-bash-scripting.html
-  - `set -e`
-    - part of the test in an if statement, part of any command executed in a && or || list except the command following the final && or ||, any command in a pipeline but the last, or if the command’s return status is being inverted with !
-- `exit`
-  - `exit` calls do not trigger `trap ERR`
 
 ## Modules
 
