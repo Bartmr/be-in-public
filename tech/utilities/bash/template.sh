@@ -6,13 +6,11 @@ set -euo pipefail
 danger_colors="\0033[1;37;41m"
 reset_colors="\0033[0m"
 
-err_report() {
+catch_error() {
     echo -e "${danger_colors}Error on line ${1}${reset_colors}" >&2
-
-    exit 1
 }
 
-trap 'err_report $LINENO' ERR
+trap 'catch_error $LINENO' ERR
 
 #
 
