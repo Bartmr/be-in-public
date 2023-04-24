@@ -113,6 +113,10 @@ cat vscode-settings.json > "$HOME/.config/Code/User/settings.json"
 # sudo apt-get update
 # sudo apt-get install dbeaver-ce
 
+# Obsidian
+
+flatpak install --user md.obsidian.Obsidian
+
 #
 
 mkdir -p ~/Documents/repositories

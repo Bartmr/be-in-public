@@ -8,6 +8,8 @@ reset_colors="\0033[0m"
 
 err_report() {
     echo -e "${danger_colors}Error on line ${1}${reset_colors}" >&2
+
+    exit 1
 }
 
 trap 'err_report $LINENO' ERR
