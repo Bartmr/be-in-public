@@ -1,8 +1,6 @@
 #!/usr/bin/env bash
 set -euo pipefail
 
-# Use [[ $# -gt 0 ]] to test existence of positional parameters.
-
 danger_colors="\0033[1;37;41m"
 reset_colors="\0033[0m"
 
