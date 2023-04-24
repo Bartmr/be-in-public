@@ -1,6 +1,6 @@
 #!/usr/bin/env bash
 set -euo pipefail
-shopt -s inherit_errexit
+
 
 # https://en.wikipedia.org/wiki/ANSI_escape_code#3-bit_and_4-bit
 repo_colors="\0033[1;30;47m"
