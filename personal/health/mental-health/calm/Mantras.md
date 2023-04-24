@@ -1,8 +1,9 @@
 - If it's not written down, it doesn't matter and doesn't exist
   - Writing should be the only communication you have with the past and the future
   - writing down makes the knowledge and events available to others, be they humans or machines
-  - writing down works as a filter for what is worth the focus and what is just something that came out of fear or a bad habit
-  - sticking to what is written down helps you focus
+  - writing down works as a filter for what is worth the focus and what is just something that came out of fear or a distraction
+  - sticking to what is written down helps you focus and helps you act only on what's important
+  - it keeps you clear headed, since you don't need to retain anything in your mind 
 
 - Dont spend more than 5 minutes on something that doesn't matter in 5 years
 

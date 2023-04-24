@@ -1,0 +1,1 @@
+- Turn on notifications for when a specific user posts something, to be the first commenting the post 
