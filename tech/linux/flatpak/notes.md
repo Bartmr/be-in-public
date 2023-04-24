@@ -6,6 +6,10 @@
 
 `flatpak list`
 
+## Update all applications
+
+- `flatpak update`
+
 ## Uninstall application
 
 - `flatpak uninstall com.bitwig.BitwigStudio`

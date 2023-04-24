@@ -11,6 +11,10 @@
 - https://www.fast.ai/
   - https://course.fast.ai/
   - https://www.fast.ai/posts/part2-2022-preview.html
+  - Practical Deep Learning for Coders 2022
+    - https://www.youtube.com/playlist?list=PLfYUBJiXbdtSvpQjSnJJ_PmDQB_VyT5iU
+  - Practical Deep Learning 2022 Part 2
+    - https://www.youtube.com/playlist?list=PLfYUBJiXbdtRUvTUYpLdfHHp9a58nWVXP
 - Freecodecamp
   - https://youtube.com/playlist?list=PLWKjhJtqVAblQe2CCWqV4Zy3LY01Z8aF1
   - https://www.freecodecamp.org/news/python-data-science-course-matplotlib-pandas-numpy/
@@ -76,6 +80,8 @@
   - https://www.codecademy.com/catalog/subject/data-science
 - https://medium.com/@natashanewbold
 - https://www.activeloop.ai/resources/tutorials/
+- https://www.youtube.com/@AndrejKarpathy
+  - https://www.youtube.com/watch?v=VMj-3S1tku0&list=PLAqhIrjkxbuWI23v9cThsA9GvCAUhRvKZ
 
 ## Recommended by FastAI
 

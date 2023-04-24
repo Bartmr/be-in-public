@@ -1,6 +1,6 @@
 #!/usr/bin/env bash
 set -euo pipefail
-shopt -s inherit_errexit
+
 
 project_root_dir="$HOME/Documents/repositories/be-in-public/tech/cybersecurity/tools/docker/run.sh"
 this_dir="$(dirname "$(realpath $0)")"
