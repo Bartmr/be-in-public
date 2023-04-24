@@ -12,6 +12,4 @@ github_token=""
 #   - Administration: read and write
 #
 # WARNING: remove after using it
-# super_github_token=""
-
-gitlab_token=""
+super_github_token=""
