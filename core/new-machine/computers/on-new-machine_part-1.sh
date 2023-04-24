@@ -100,12 +100,18 @@ code --install-extension ms-python.python
 mkdir -p ~/.config/Code/User/settings.json
 cat vscode-settings.json > "$HOME/.config/Code/User/settings.json"
 
-echo "Quirk: delay when switching between your web browser window and VSCode
+# echo "Quirk: delay when switching between your web browser window and VSCode
 
-Go to ~/.vscode/argv.json
-and set 'disable-hardware-acceleration' to true."
+# Go to ~/.vscode/argv.json
+# and set 'disable-hardware-acceleration' to true."
 
-read no_op
+# read no_op
+
+# Dbeaver
+
+# sudo add-apt-repository ppa:serge-rider/dbeaver-ce
+# sudo apt-get update
+# sudo apt-get install dbeaver-ce
 
 #
 
