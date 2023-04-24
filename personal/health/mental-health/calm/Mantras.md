@@ -12,3 +12,4 @@
 - the simplest solution is always the one closest to being the best
   - complex solutions usually come from our own bad habits and our toxic side
 - There are no certainties, only faith
+- Cortisol and adrenaline from stress tampers with your cognitive ability. It's paradox: if you don't worry, everything will be fine.

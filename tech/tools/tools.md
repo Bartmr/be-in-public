@@ -5375,6 +5375,8 @@ TanStack Table
 - https://beta.tome.app/
 - https://slides.com/
 - https://prezi.com/
+- https://rise.readthedocs.io/en/stable/
+  - convert Jupyter notebooks into presentations
 
 ## Reviewing
 
