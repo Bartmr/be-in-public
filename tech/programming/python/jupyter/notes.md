@@ -20,3 +20,13 @@
   - `{...}` contains the expression that should wrap the argument / content
 
   In this case, both `newcommand` and `renewcommand` wrap their content in a command that makes the text bold
+
+## Running terminal commands
+
+- `!command` calls out to a shell (in a new process), while `%command` affects the process associated with the notebook
+
+## Documentation
+
+### Show object or method docs
+
+- `??method` or `??object`

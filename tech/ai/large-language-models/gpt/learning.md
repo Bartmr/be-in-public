@@ -1,0 +1,2 @@
+- https://jaykmody.com/blog/gpt-from-scratch/
+- https://www.youtube.com/watch?v=kCc8FmEb1nY&list=WL&index=11&t=528s

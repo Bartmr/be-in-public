@@ -20,6 +20,9 @@
   - https://www.freecodecamp.org/news/python-data-science-course-matplotlib-pandas-numpy/
   - https://www.freecodecamp.org/news/learn-data-analysis-with-python-course/
   - https://www.youtube.com/watch?v=N6BghzuFLIg
+  - https://www.youtube.com/watch?v=i_LwzRVP7bg&list=PLWKjhJtqVAblStefaz_YOVpDWqcRScc2s
+  - https://www.youtube.com/@freecodecamp
+  - https://www.youtube.com/playlist?list=PLWKjhJtqVAblQe2CCWqV4Zy3LY01Z8aF1
 - https://www.coursera.org/instructor/andrewng
   - https://www.coursera.org/learn/machine-learning
 - https://www.datacamp.com/tracks/data-scientist-with-python
