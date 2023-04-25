@@ -68,6 +68,7 @@
 - https://theresanaiforthat.com/
 - https://opentools.ai/
 - https://github.com/jtmuller5/AI-Tools-and-Websites
+- https://python.langchain.com/en/latest/modules/agents/tools.html
 
 ### Awesome lists
 
@@ -93,6 +94,7 @@
 - https://any-api.com/
 - https://github.com/public-apis-dev/public-apis
 - https://aimultiple.com/
+- https://python.langchain.com/en/latest/modules/agents/tools.html
 
 ### Data Science and ML
 
@@ -804,6 +806,11 @@ TanStack Table
 ### Browser Extensions 
 - https://github.com/PlasmoHQ/plasmo
 - https://github.com/dutiyesh/chrome-extension-cli
+
+### Linux Widgets
+
+- https://elkowar.github.io/eww/
+  - https://github.com/elkowar/eww
 
 ## Automation and Backend
 
@@ -2340,6 +2347,8 @@ TanStack Table
 - ActiveLoop Deeplake
   - Data Lake for Deep Learning. Multi-modal Vector Database for LLMs/LangChain. Store, query, version, & visualize datasets. Stream data in real-time to PyTorch/TensorFlow
   - https://github.com/activeloopai/deeplake/
+  - https://www.activeloop.ai/
+  - https://www.deeplake.ai/
 - https://super.ai/
 
 ### NLP / Vector / Embeddings Search
@@ -2745,6 +2754,10 @@ TanStack Table
 - https://monitoro.co/
 - https://www.browse.ai/
 - https://webscraping.ai/
+- https://serper.dev/
+  - Google Search API
+- https://serpapi.com/
+  - Google Search API
 
 ### PDF
 
@@ -3747,6 +3760,8 @@ TanStack Table
 - https://tactiq.io/
   - https://chrome.google.com/webstore/detail/tactiq-chatgpt-meeting-su/fggkaccpbmombhnjkjokndojfgagejfb
 - https://fireflies.ai/
+- https://clearword.com
+- https://www.letsdive.io/
 
 ### File sharing and conversion
 

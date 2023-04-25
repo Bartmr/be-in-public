@@ -16,5 +16,6 @@
   "dev.containers.defaultExtensions": [
     "github.copilot",
     "muuvmuuv.vscode-sundial"
-  ]
+  ],
+  "python.analysis.autoImportCompletions": true
 }
