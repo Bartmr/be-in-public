@@ -4,6 +4,7 @@
   - writing down works as a filter for what is worth the focus and what is just something that came out of fear or a distraction
   - sticking to what is written down helps you focus and helps you act only on what's important
   - it keeps you clear headed, since you don't need to retain anything in your mind 
+  - it allows you to completely turn off from a stressful task, and come back later with a fresh mentality and a positive outlook
 
 - Dont spend more than 5 minutes on something that doesn't matter in 5 years
 
