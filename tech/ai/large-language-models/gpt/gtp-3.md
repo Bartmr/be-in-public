@@ -3,6 +3,8 @@
 - https://github.com/stars/acheong08/lists/awesome-chatgpt
 - https://github.com/Kamigami55/awesome-chatgpt
 - https://github.com/f/awesome-chatgpt-prompts
+- InstructGPT
+  - InstructGPT paper
 
 ## How to
 

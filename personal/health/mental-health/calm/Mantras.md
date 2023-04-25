@@ -12,5 +12,12 @@
 
 - the simplest solution is always the one closest to being the best
   - complex solutions usually come from our own bad habits and our toxic side
+  - stress and anxiety are just added complexity. We just start adding complexity to the situation. 
+
 - There are no certainties, only faith
-- Cortisol and adrenaline from stress tampers with your cognitive ability. It's a paradox: if you don't worry, everything will be fine.
+
+- Cortisol and adrenaline from stress tampers with our cognitive ability. It's a paradox: if we don't worry, everything will be fine.
+
+- Our brain is a meatball poorly designed for the jungle. Don't take it seriously. It doesn't make many favours for us. 
+
+- Asking yourself "Who do you want to be" is a good way to break bad habits on the spot
