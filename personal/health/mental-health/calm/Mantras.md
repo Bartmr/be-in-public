@@ -21,3 +21,5 @@
 - Our brain is a meatball poorly designed for the jungle. Don't take it seriously. It doesn't make many favours for us. 
 
 - Asking yourself "Who do you want to be" is a good way to break bad habits on the spot
+
+- Your luck increases if you just trust the present
