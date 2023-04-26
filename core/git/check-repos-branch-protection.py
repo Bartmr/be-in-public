@@ -30,12 +30,12 @@ def get_branch_protection(important_repo: ImportantRepo) -> BranchProtection:
     print(important_repo['name'])
 
     response = requests.get(
-       url = 'https://api.github.com/repos/Bartmr/{repo}/branches/main/protection'.format(repo=important_repo['name']),
-       headers = {
+      url = 'https://api.github.com/repos/Bartmr/{repo}/branches/main/protection'.format(repo=important_repo['name']),
+      headers = {
         'Accept': 'application/vnd.github+json',
         'Authorization': 'Bearer {token}'.format(token=tokens['github_token']),
         'X-GitHub-Api-Version': '2022-11-28'
-       }
+      }
     )
 
     return {
