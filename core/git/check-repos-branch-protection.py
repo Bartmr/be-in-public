@@ -3,11 +3,10 @@ import requests
 from concurrent.futures import ThreadPoolExecutor
 import os
 import json
-from difflib import Differ, ndiff
+from difflib import ndiff
 
 class ImportantRepo(TypedDict):
   name: str
-  git_url: str
 
 class Tokens(TypedDict):
   github_token: str
