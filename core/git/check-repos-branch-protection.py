@@ -72,15 +72,11 @@ reset_colors="\033[0m"
 
 if len(bad_branch_protections) != 0:
   for bad_branch_protection in bad_branch_protections:
-    print('''
-{danger_colors}
----
+    print('''{danger_colors}---
 {repo_name}
 {status_code}
 {text}
-{diff}
-{reset_colors}
-'''.format(
+{diff}{reset_colors}'''.format(
       danger_colors=danger_colors,
       repo_name=bad_branch_protection['repo_name'],
       status_code=bad_branch_protection['status_code'],
