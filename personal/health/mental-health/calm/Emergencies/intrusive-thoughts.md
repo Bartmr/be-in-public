@@ -5,4 +5,7 @@
 - acknowledge that the picture of reality you have in your head is a very bad interpretation made by a faulty nervous system, and that the real reality is way more complex and is running in a completely different dimensions and contexts
   - Different moods mean different views about the world. Sometimes you just need to change your standing point. 
 
+- Bad habits creep in as if nothing changed. Be wary of that.
+  - rumination for example, makes you think that the current scenario is different from the past ones, and that you definitely need to worry now
+
 - read [Mantras](personal/health/mental-health/calm/Mantras.md)
