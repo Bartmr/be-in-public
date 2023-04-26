@@ -1,4 +1,5 @@
-- Let it go and keep on with your day. The rumination will disappear after a while
+- Let it go and keep on with your day. The rumination will disappear after a while.
+  - Do the [Grounding technique](personal/health/mental-health/calm/Emergencies/Grounding.md)
 
 - Remember that you went through this countless times, and you always let the rumination go, and after a while you couldn't even understand how you were worried about something so senseless. Also, the things you were ruminating about never happened.
 

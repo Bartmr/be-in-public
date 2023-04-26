@@ -86,6 +86,13 @@
 - https://www.youtube.com/@AndrejKarpathy
   - https://www.youtube.com/watch?v=VMj-3S1tku0&list=PLAqhIrjkxbuWI23v9cThsA9GvCAUhRvKZ
 - https://www.youtube.com/@patloeber
+- Building Machine Learning Pipelines: Automating Model LifeCycles with Tensorflow; O'Reilly
+- Machine Learning Engineering with Python, Andrew P. McMahon; Packt
+- Designing Machine Learning Systems, O'Reilly
+- Machine Learning Design Patterns: Solutions to Common Challenges in Data Preparation, Model Building, and MLOps; O'Reilly
+- Building Machine Learning Powered Applications: Getting from idea to product; O'Reilly
+- Reliable Machine Learning: Applying SRE principles to ML in production; O'Reilly
+- Machine Learning Engineering in Action; Manning
 
 ## Recommended by FastAI
 

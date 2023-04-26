@@ -7,3 +7,6 @@
 - search for `<technology> most common design patterns` 
 - https://exercism.org/
 - Ask Large Language Models like GPT
+- O'Reilly
+- Packt
+- Manning

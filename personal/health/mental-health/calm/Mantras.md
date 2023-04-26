@@ -25,7 +25,7 @@
 
 - Your luck increases if you just trust the present
 
-- Worry, stress and rumination are the brake. Trusting the present is the gas pedal. It moves your life.
+- Worry, stress and rumination are the brake. Trying to be certain of anything is the brake. Trusting the present is the gas pedal. It moves your life.
 
 - Bad habits creep in as if nothing changed. Be wary of that.
   - rumination for example, makes you think that the current scenario is different from the past ones, and that you definitely need to worry now
