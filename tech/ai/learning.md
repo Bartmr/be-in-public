@@ -2,6 +2,9 @@
 - See `tech/math/learning.md`
 - See `my-notes/personal/internet/backup/archive/bookmarks-27-03-2023.html`
 - Google Drive `gmkbartolomeu@gmail.com/Tech`
+- see finished projects
+  - Kaggle
+    - https://www.kaggle.com/code/faressayah/lending-club-loan-defaulters-prediction/input
 - https://paperswithcode.com/
 - https://pytorch.org/tutorials/beginner/basics/tensor_tutorial.html
 - DataCamp
