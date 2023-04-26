@@ -1,3 +1,5 @@
+## `Let's think step by step.`
+
 ## GPT just got stuck in the middle of something
 
 - just type `continue` and it will continue it's thought process

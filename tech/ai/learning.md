@@ -85,6 +85,7 @@
 - https://www.activeloop.ai/resources/tutorials/
 - https://www.youtube.com/@AndrejKarpathy
   - https://www.youtube.com/watch?v=VMj-3S1tku0&list=PLAqhIrjkxbuWI23v9cThsA9GvCAUhRvKZ
+- https://www.youtube.com/@patloeber
 
 ## Recommended by FastAI
 
