@@ -1,0 +1,2 @@
+- Brain Lock : Free Yourself from Obsessive-Compulsive Behavior, by Jeffrey M. Schwartz
+- power of now, by eckhart tolle
