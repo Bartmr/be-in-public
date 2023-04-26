@@ -8,7 +8,7 @@
     - Use LVM with encryption
     - Use a long password that would take someone years of CPU time to decrypt your hard-drive if it's in their possession
 
-- Fix quirks. Look in `core/new-machine/computers`
+- Fix quirks. Look in `core/devices/computers/new`
 
 - Setup Firefox
   - Enable the `Primary Password`
@@ -44,11 +44,11 @@
   - `git clone git@github.com:Bartmr/my-notes.git`
   - `git clone git@github.com:Bartmr/be-in-public.git`
 
-- Run `core/new-machine/on-new-machine_part-1.sh`
+- Run `core/devices/computers/new/on-new-machine_part-1.sh`
 
 - Restart your computer
 
-- Run `core/new-machine/on-new-machine_part-2.sh`
+- Run `core/devices/computers/new/on-new-machine_part-2.sh`
 
 ## Steps that are good to know
 

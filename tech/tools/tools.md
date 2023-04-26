@@ -202,6 +202,10 @@
 - https://github.com/dair-ai/Prompt-Engineering-Guide/blob/main/pages/tools.en.mdx
 - https://python.langchain.com/en/latest/ecosystem.html
 
+## Productivity
+
+- Obsidian plugins
+
 ## References
 
 - https://pronocoders.com/
@@ -5390,8 +5394,13 @@ TanStack Table
 - https://beta.tome.app/
 - https://slides.com/
 - https://prezi.com/
-- https://rise.readthedocs.io/en/stable/
-  - convert Jupyter notebooks into presentations
+- Jupyter
+  > you can create presentations from Jupyter notebooks
+  - https://rise.readthedocs.io/en/stable/
+    - convert Jupyter notebooks into presentations
+- Markdown
+  > you can create presentations from markdown files
+  - Obsidian
 
 ## Reviewing
 
