@@ -21,7 +21,7 @@
 
 - Our brain is a meatball poorly designed for the jungle. Don't take it seriously. It doesn't make many favours for us. 
 
-- Asking yourself "Who do you want to be" is a good way to break bad habits on the spot
+- Asking yourself "Who do you want to be" is a good way to stop bad habits on the spot
 
 - Your luck increases if you just trust the present
 
@@ -29,3 +29,5 @@
 
 - Bad habits creep in as if nothing changed. Be wary of that.
   - rumination for example, makes you think that the current scenario is different from the past ones, and that you definitely need to worry now
+
+- Opportunities of growth are in the present. 

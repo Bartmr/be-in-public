@@ -1,3 +1,4 @@
 - https://www.jailbreakchat.com/?utm_source=pocket_mylist
 - https://github.com/openai/evals
 - https://github.com/openai/openai-cookbook
+- https://github.com/microsoft/prompt-engine

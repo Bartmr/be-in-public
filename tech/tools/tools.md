@@ -3512,6 +3512,7 @@ TanStack Table
   - Playground
     - https://huggingface.co/spaces/stabilityai/stablelm-tuned-alpha-chat
 - https://github.com/ggerganov/llama.cpp
+- https://lamini.ai/
 
 ### Derivates
 
