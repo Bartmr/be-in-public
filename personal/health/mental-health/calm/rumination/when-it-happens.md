@@ -9,4 +9,6 @@
 - Bad habits creep in as if nothing changed. Be wary of that.
   - rumination for example, makes you think that the current scenario is different from the past ones, and that you definitely need to worry now
 
-- read [Mantras](personal/health/mental-health/calm/Mantras.md)
+- read your mantras
+  - [be-in-public](obsidian://open?vault=be-in-public&file=personal%2Fhealth%2Fmental-health%2Fcalm%2FMantras)
+  - [my-notes](obsidian://open?vault=my-notes&file=personal%2Fhealth%2Fmental-health%2FMantras )

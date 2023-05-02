@@ -1,0 +1,3 @@
+- distributed transactions 
+- system design
+  - partitioning
