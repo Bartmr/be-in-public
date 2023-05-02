@@ -3513,6 +3513,10 @@ TanStack Table
     - https://huggingface.co/spaces/stabilityai/stablelm-tuned-alpha-chat
 - https://github.com/ggerganov/llama.cpp
 - https://lamini.ai/
+- https://github.com/mlc-ai/mlc-llm
+  - Enable everyone to develop, optimize and deploy AI models natively on everyone's devices. 
+- https://github.com/tloen/alpaca-lora
+  - Instruct-tune LLaMA on consumer hardware
 
 ### Derivates
 
