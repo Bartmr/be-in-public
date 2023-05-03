@@ -5,7 +5,7 @@
   - sticking to what is written down helps you focus and helps you act only on what's important
   - it keeps you clear headed, since you don't need to retain anything in your mind 
   - it allows you to completely turn off from a stressful task, and come back later with a fresh mentality and a positive outlook
-  - There will be a time where your knowledge and actions need to be so vast, and the world and your days change so quickly, that you won't be able to keep up unless you start writing down what needs to be done and using text as your only short-term memory.
+  - There will be a time when your knowledge and actions need to be so vast, and the world and your days change so quickly, that you won't be able to keep up unless you start writing down what needs to be done and using text as your only short-term memory.
     - There will be so much hapenning and changing, that rumination itself will be pointless, and based on misconstructed ideas and patterns in your brain
     - Using text as your short-term memory will be a full replacement. It's a deal: you must trust what you wrote and you cannot ruminate on short-term things anymore
     - Stopping yourself from ruminating on your thoughts is no longer just a mental health choice. It's a necessity in order going and keep evolving
