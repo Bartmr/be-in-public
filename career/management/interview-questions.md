@@ -10,3 +10,5 @@
 - What is your indicator of growth? Speed, quality or low costs?
 
 - https://twitter.com/volodarik/status/1615341482709237760?t=-MvTQtkYkJ5tgO0_sG9maw&s=09
+
+- How do you keep yourself updated?  What websites do you usually check? 

@@ -30,4 +30,4 @@
 - Bad habits creep in as if nothing changed. Be wary of that.
   - rumination for example, makes you think that the current scenario is different from the past ones, and that you definitely need to worry now
 
-- Opportunities of growth are in the present. 
+- Opportunities of growth can only be seized in the present. 

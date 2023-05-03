@@ -202,6 +202,10 @@
 - https://github.com/dair-ai/Prompt-Engineering-Guide/blob/main/pages/tools.en.mdx
 - https://python.langchain.com/en/latest/ecosystem.html
 
+## Infrastructure 
+
+- https://vercel.com/integrations 
+
 ## Productivity
 
 - Obsidian plugins
@@ -3513,6 +3517,12 @@ TanStack Table
     - https://huggingface.co/spaces/stabilityai/stablelm-tuned-alpha-chat
 - https://github.com/ggerganov/llama.cpp
 - https://lamini.ai/
+- https://github.com/mlc-ai/mlc-llm
+  - Enable everyone to develop, optimize and deploy AI models natively on everyone's devices. 
+- https://github.com/tloen/alpaca-lora
+  - Instruct-tune LLaMA on consumer hardware
+- HuggingChat, from HuggingFace
+  - https://huggingface.co/chat/
 
 ### Derivates
 
@@ -4205,6 +4215,7 @@ TanStack Table
 - [Mongo Stitch](#mongo-stitch)
 - https://upstash.com/
 - [Prisma](#prisma)
+- https://vercel.com/storage/postgres 
 
 ### Blob Storage
 
@@ -4220,6 +4231,7 @@ TanStack Table
   - https://min.io/
   - https://github.com/minio/minio
   - https://min.io/docs/minio/container/index.html
+- https://vercel.com/storage/blob
 
 #### GUIs and CLI interfaces
 
