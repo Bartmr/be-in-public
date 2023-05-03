@@ -157,6 +157,9 @@ The difference is that the first one is all checked by one instance of the test 
 ### Lists / Arrays
 
 - Array iteration of an undeclared variable is not caught by `set -u`
+- `"${!array[@]}"` lists the indexes of the array, in a new line. Notice the `!`
+- `"${array[$i]}"` gets an element from the array
+- `"${array[@]}"` lists all elements of the array, in a new line
 
 ## Modules
 

@@ -96,6 +96,8 @@
 - Building Machine Learning Powered Applications: Getting from idea to product; O'Reilly
 - Reliable Machine Learning: Applying SRE principles to ML in production; O'Reilly
 - Machine Learning Engineering in Action; Manning
+- https://www.deeplearning.ai/
+  - https://www.deeplearning.ai/short-courses/chatgpt-prompt-engineering-for-developers/
 
 ## Recommended by FastAI
 

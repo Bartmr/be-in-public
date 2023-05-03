@@ -3836,7 +3836,7 @@ TanStack Table
   - https://pirsch.io/
 - https://matomo.org/
   - Can be self-hosted
-- [Vercel Analytics](#vercel-analytics)
+- Vercel Analytics
 - https://meteosales.com/
 - https://splitbee.io/
 - https://www.profitwell.com/

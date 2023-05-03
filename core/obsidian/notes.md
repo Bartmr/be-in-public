@@ -25,3 +25,7 @@ Create a single repository called `all-notes` that aggregates all your notes rep
   ```
   [note in other vault](obsidian://vault/other_vault/note)
   ```
+
+## Embedding files
+
+https://help.obsidian.md/Linking+notes+and+files/Embedding+files
