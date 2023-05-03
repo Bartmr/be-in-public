@@ -1,4 +1,5 @@
 - Italo-disco
+  - ZYX Italo Disco
 - Synthwave
 - Vaporwave
 - Musak
