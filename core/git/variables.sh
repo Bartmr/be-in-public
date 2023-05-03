@@ -1,6 +1,6 @@
-source "$HOME/Documents/repositories/my-notes/core/git/variables.sh"
-
 important_repos_dir="$HOME/Documents/repositories"
+
+source "$important_repos_dir/my-notes/core/git/variables.sh"
 
 # important_repos=()
 

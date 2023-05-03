@@ -5,6 +5,6 @@ if ! [ -x "$(command -v jq)" ]; then
   apt-get install jq
 fi
 
-source /data/data/com.termux/files/home/storage/shared/Documents/repositories/my-notes/core/git/variables.sh
-
 important_repos_dir="/data/data/com.termux/files/home/storage/shared/Documents/repositories"
+
+source "$important_repos_dir/my-notes/core/git/variables.sh"
