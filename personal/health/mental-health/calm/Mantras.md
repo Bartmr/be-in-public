@@ -31,3 +31,7 @@
   - rumination for example, makes you think that the current scenario is different from the past ones, and that you definitely need to worry now
 
 - Opportunities of growth can only be seized in the present. 
+
+- There will be a time where your knowledge and actions need to be so vast, and the world and your days change so fast, that you won't be able to keep up unless you start writing down what needs to be done and using text as your only short-term memory.
+  - Using text as your short-term memory will be a full replacement. It's a deal: you cannot ruminate on short-term things anymore
+  - You will not be able to retain or ruminate anything in your head. If you do, you will stall, not be able to adapt to new contexts and new days and you will crash mentally
