@@ -202,6 +202,10 @@
 - https://github.com/dair-ai/Prompt-Engineering-Guide/blob/main/pages/tools.en.mdx
 - https://python.langchain.com/en/latest/ecosystem.html
 
+#### Github Profiles
+
+- https://github.com/lucidrains
+
 ## Infrastructure 
 
 - https://vercel.com/integrations 
