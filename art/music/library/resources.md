@@ -7,7 +7,6 @@
 
 ## All genres
 
-- https://www.youtube.com/@B.E.R.T./videos
 - Radios in Amsterdam
   - Sky Radio
 
@@ -18,3 +17,7 @@
 ## Hardcode & Hardstyle
 
 - QDance
+
+## Italo Disco / Hi-NRG
+
+- https://www.youtube.com/@discoclassic9143/videos

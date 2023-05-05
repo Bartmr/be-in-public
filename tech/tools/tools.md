@@ -3712,6 +3712,9 @@ TanStack Table
   - https://www.gnu.org/software/make/
 - https://rollupjs.org/
 - https://github.com/watchexec/watchexec
+- `env-cmd`
+  - https://www.npmjs.com/package/env-cmd
+  - https://github.com/toddbluhm/env-cmd
 
 ### Teams
 
