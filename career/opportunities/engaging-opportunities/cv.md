@@ -1,3 +1,6 @@
+# Bartolomeu Rodrigues
+
+Lisbon, Portugal | GMT+0
 
 ## Intro
 
@@ -7,7 +10,7 @@
 
 🛡️ Cyber Security Certified
 
-💻🌍 Experienced in working remotely for startups outside the country, even before COVID.
+💻🌍 Experience working remotely for startups outside the country, even before COVID.
 
 🎨 Jack-of-all-trades, master of ever-changing technology: Building for startups with a product-first mentality and engineering-second approach has enabled simplification of product construction with ever-changing technologies, as well as the ability to tackle troublesome bugs in all parts of the product.
 
@@ -17,26 +20,37 @@
 
 📖 experience giving workshops and coaching newcomers into tech
 
-💼 B2B Contractor / Freelancer
+💼 B2B Contractor, in order to legally work for companies outside Portugal
 
-🕒 Timezone: GMT+0 Lisbon
+### Top skills
+
+- Full-stack Development
+  - Languages: Python, Typescript, Javascript
+  - Backend: Node.JS, NestJS
+  - Frontend: React.js, Next.js
+  - Databases: PostgreSQL
+  - Infrastructure: Linux, Docker
+- Mobile Development: React Native, Android, iOS
+- AI Development: ChatGPT, GPT-3, Langchain, Jupyter
+- No-code and 3rd party providers: Supabase, Firebase, n8n.io, Adalo, Retool
+
+### Past Industries
+
+PropTech, Healthcare, Telco, AI, User Research, Market Validation, Customer Satisfaction, Fashion
 
 ### What I'm looking for
 
-- Ownership of a project
+- Ownership of a project or feature
 - Be able to take on a complex feature from engineering and make it simpler, so it can offer more value for half the development time
 - Improve my productivity, develop new apps and features at a faster pace
+  -  The world keeps changing, but the ability to build will always be of value
 - Connection to the business side, in order to be able to discuss trade-offs and offer the best value for the least amount of development time 
-
-## Industries
-
-PropTech, Healthcare, Telco, AI, User Research, Market Validation, Customer satisfaction, Fashion
 
 ## Experience
 
 ### Independent
 
-> September 2021 - Present | After-hours
+> Sep 2021 - Present | After-hours
 
 #### Roles
 
@@ -45,7 +59,7 @@ PropTech, Healthcare, Telco, AI, User Research, Market Validation, Customer sati
 
 ### Lemon.io
 
-> April 2023 - Present | After-hours
+> Apr 2023 - Present | After-hours
 
 Lemon.io is the leading platform for hiring developers for startups. I am one of their vetted developers.
 
@@ -56,12 +70,13 @@ Lemon.io is the leading platform for hiring developers for startups. I am one of
 
 #### Skills
 
-- AI: ChatGPT, GPT-3, React Native
+- AI: ChatGPT, GPT-3
+- Mobile: React Native
 - Soft-skills: APIs, Business Models, Estimations
 
 ### Tech Expert Academy
 
-> February 2023 - Present | After-hours
+> Feb 2023 - Present | After-hours
 
 Tech Expert Academy offers high quality courses that help you become a tech professional in record time. They help you find a job at a great company. You only pay tuition once you get hired.
 
@@ -83,10 +98,11 @@ SyntheticUsers is a platform that gives you user interviews for product research
 
 - AI: GPT-3, ChatGPT, LangChain, Jupyter, Pinecone, Weaviate
 - Languages: Python, Typescript, Javascript, Kotlin
-- Infrastructure: Linux, Docker, PostgreSQL
+- Infrastructure: Linux, Docker
+- Storage: PostgreSQL
 - Backend: Node.js, NestJS, Spring Boot
 - Frontend: React.js, Next.js, Ant Design, HTML, CSS
-- No-code: Firebase, n8n.io, Adalo
+- No-code: Firebase, n8n.io, Adalo, Retool, OpenBlocks
 - 3rd party APIs: Miro
 
 #### Roles
@@ -103,9 +119,9 @@ SyntheticUsers is a platform that gives you user interviews for product research
 - Code needs to be more simpler than ever, and with as little in-house customization and libraries as possible, in order to be able to use the new wave of AI that generates code.
 - That's why I try to keep the code as close as possible to the framework's and library's defaults, since Language Large Models like GPT-3 can then generate product code based on the documentation or past code it has been trained with.
 
-#### Reason of resignation
+#### Why it ended
 
-- Final product was finished and I was becoming reduntant. I felt it was the right time for parent company to take it from there with their own in-house teams.
+- Final product was finished and I was becoming redundant. I felt it was the right time for parent company to take it from there with their own in-house teams.
 
 ### Drawbotics + Mosaic
 
@@ -132,6 +148,30 @@ Mosaic is a CRM and end-to-end sales platform for property developers, powered b
 - There are no perfect solutions, but the simplest one is normally the closest to what you want, and you can always change it quickly.
 - 3rd party solutions save you time from dealing with problems that are not related to your company's expertise. If you are writing non-business related code, prepare for unpredictable maintenance that is not aligned with the company objectives.
 
-#### Reason of resignation
+#### Why it ended
 
 Due to the lack of properties being built in the countries where Drawbotics was operating, the company had to freeze the activities in Mosaic, where I was mostly allocated. I was layed-off on the last day before the company underwent a freeze.
+
+### Opplane
+
+> Sep 2019 - Aug 2021 (**2 yrs**) | Full-time
+
+#### Skills
+
+- Infrastructure: AWS, GCP, Linux, Terraform, Docker, Linux
+- Storage: PostgreSQL, MongoDB, Presto
+- Languages: Javascript, Typescript, Java, Kotlin, Python
+- Backend: Node.js, NestJS, Spring Boot
+- Frontend: React.js, Next.js, Gatsby
+- Mobile: React Native, Android, iOS, Expo
+- 3rd party APIs: Pubnub, Firebase
+
+#### Why it ended
+
+The workload and amount of parallel projects started to be too much for me. During COVID, I also decided that it would be wise to start working for other countries again and have a more serious B2B setup.
+
+### Zenklub
+
+#### Why it ended
+
+After a year of building multiple services with tight deadlines, my tasks started to be things that many developers could do in parallel without breaking the product. We had raised some funding and my objective after a year was to get a salary raise, but the funds were aimed at getting more developers, which was necessary for the company. I decided to resign and switch to another company.
