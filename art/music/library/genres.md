@@ -10,3 +10,9 @@
 - Deep house
 - Deep Tech
 - Meditation music
+- 80s and 90s techno
+  - Chicago House
+  - Detroit Techno
+  - Miami bass
+  - Acid house
+- Hardcode and Hardstyle

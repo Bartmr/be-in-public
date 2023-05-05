@@ -3523,10 +3523,20 @@ TanStack Table
 - https://lamini.ai/
 - https://github.com/mlc-ai/mlc-llm
   - Enable everyone to develop, optimize and deploy AI models natively on everyone's devices. 
+  - https://mlc.ai/mlc-llm/
+  - Runs in Web GPU
 - https://github.com/tloen/alpaca-lora
   - Instruct-tune LLaMA on consumer hardware
 - HuggingChat, from HuggingFace
   - https://huggingface.co/chat/
+- Vicuna
+  - https://huggingface.co/lmsys/vicuna-13b-delta-v1.1
+  - https://lmsys.org/blog/2023-03-30-vicuna/
+  - Runs in the browser with Web GPU
+    - https://simonwillison.net/2023/Apr/16/web-llm/
+- WebLLM
+  - https://mlc.ai/web-llm/
+  - https://github.com/mlc-ai/web-llm
 
 ### Derivates
 
@@ -4014,6 +4024,10 @@ TanStack Table
   - can generator vector graphics out of rough sketches
 - ControlNet
   - https://github.com/lllyasviel/ControlNet
+- Web Stable Diffusion
+  - https://mlc.ai/web-stable-diffusion/
+  - https://github.com/mlc-ai/web-stable-diffusion
+  - Everything runs inside the browser with no need of server support
 
 ### Image Upscalling
 
@@ -5386,6 +5400,8 @@ TanStack Table
 - https://roadie.io/
 - https://firehydrant.com/
 - https://relevance.ai/
+- https://www.claap.io/
+- https://www.usebubbles.com/
 
 ## Diagrams
 
