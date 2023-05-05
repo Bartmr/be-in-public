@@ -1,8 +1,0 @@
-@import 'variables';
-@import 'setup-bootstrap';
-@import 'node_modules/bootstrap/scss/progress';
-
-.progress,
-.progress-bar {
-  box-shadow: $progress-box-shadow;
-}
