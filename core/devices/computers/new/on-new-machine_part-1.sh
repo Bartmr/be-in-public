@@ -94,7 +94,7 @@ sudo apt install code
 code --install-extension ms-azuretools.vscode-docker
 code --install-extension ms-vscode-remote.remote-containers
 code --install-extension muuvmuuv.vscode-sundial
-code --install-extension github.copilot
+# code --install-extension github.copilot
 code --install-extension ms-python.python
 
 mkdir -p ~/.config/Code/User/settings.json
