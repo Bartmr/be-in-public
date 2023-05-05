@@ -21,3 +21,4 @@
 ## Italo Disco / Hi-NRG
 
 - https://www.youtube.com/@discoclassic9143/videos
+- https://www.youtube.com/@ZYXItalo

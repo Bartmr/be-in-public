@@ -113,6 +113,10 @@
 - https://super.ai/
   - https://super.ai/store
 
+#### NLP / Vector / Embeddings Search
+
+- https://python.langchain.com/en/latest/modules/indexes/vectorstores.html
+
 ### Supabase
 
 - https://supabase.com/partners/integrations
