@@ -38,3 +38,5 @@
 
 - Opportunities of growth can only be seized in the present. 
 
+- Everything is permanently changing, even if you don't notice. 
+
