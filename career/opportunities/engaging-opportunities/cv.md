@@ -338,6 +338,31 @@ Founded in 1976, CGI is among the largest IT and business consulting services fi
 
 After a while, I was moved to a non-technological position that required inputing data in a proprietary database used only in Portugal. That seemed like a dangerous path to take as a junior, since I wouldn't be learning something that would help me evolve as a developer. I decided to learn Node.js and pursue my original objective of building products from scratch as a full-stack developer.
 
+## Events
+
+### Academia de Código - Let's Talk Github
+
+> May 3rd 2023
+
+> 📼 https://www.youtube.com/watch?v=YfmfiQJIG5E
+
+Gave a workshop with <​Academia de Código_> to 90 students, about the wonders of Github and text, and how you can use it to showcase your work and automate your life.
+
+
+### Meetup DevPT - Estirador
+
+> July 15th 2021
+
+> 📼 https://www.youtube.com/watch?v=vDrOcHQzyP8&t=5931s
+
+Gave a presentation about my project `Estirador`, an updatable boilerplate that can help you centralize all non-business related code of your projects in a single place.
+
+### Eddisrupt - Develop a React and Redux app
+
+> March 21st 2019
+
+Gave a workshop on how to build a React application with Redux from scratch to a class of bootcamp students and experienced developers.
+
 ## Personal Projects
 
 ### Be in Public
@@ -446,11 +471,3 @@ Reduces bugs caused by different data contracts describing the same information
 
 - **Infrastructure**: npm, Git
 - **Languages**: Typescript, Javascript
-
-## Events
-
-### Academia de Código - Let's Talk Github
-
-### Meetup DevPT - Estirador
-
-### Eddisrupt - Develop a React and Redux app
