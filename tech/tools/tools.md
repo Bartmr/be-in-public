@@ -2794,6 +2794,7 @@ TanStack Table
 - https://mathpix.com/
   - Convert images and PDFs to LaTeX, DOCX, Overleaf, Markdown, Excel, ChemDraw and more, with our AI powered document conversion technology.
 - https://docparser.com/
+- https://base64.ai/
 
 ### Transcribing / Speech recognition
 
