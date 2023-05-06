@@ -34,8 +34,8 @@
 - **Frontend**: React.js, Next.js
 - **Databases**: PostgreSQL
 - **Infrastructure**: Linux, Docker, Git
-- **Mobile Development**: React Native, Android, iOS
-- **AI Development**: ChatGPT, GPT-3, Langchain, Jupyter
+- **Mobile**: React Native, Android, iOS
+- **AI**: ChatGPT, GPT-3, Langchain, Jupyter
 - **No-code and 3rd party providers**: Supabase, Firebase, n8n.io, Adalo, Retool
 
 ### Past Industries
