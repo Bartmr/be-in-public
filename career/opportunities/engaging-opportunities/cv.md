@@ -357,11 +357,11 @@ Gave a workshop with <​Academia de Código_> to 90 students, about the wonders
 
 Gave a presentation about my project `Estirador`, an updatable boilerplate that can help you centralize all non-business related code of your projects in a single place.
 
-### Eddisrupt - Develop a React and Redux app
+### Eddisrupt - Develop a React app
 
 > March 21st 2019
 
-Gave a workshop on how to build a React application with Redux from scratch to a class of bootcamp students and experienced developers.
+Gave a workshop on how to build a React application from scratch with React Context, to a class of bootcamp students and experienced developers.
 
 ## Personal Projects
 
