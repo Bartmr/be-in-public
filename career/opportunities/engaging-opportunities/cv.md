@@ -4,6 +4,9 @@
 
 🕒 Lisbon, Portugal | GMT+0
 
+✉️ pbartmr@gmail.com
+👤 https://www.linkedin.com/in/bartmr
+
 ## Intro
 
 🔧⌛ Practical and oriented towards simplicity.
@@ -471,3 +474,27 @@ Reduces bugs caused by different data contracts describing the same information
 
 - **Infrastructure**: npm, Git
 - **Languages**: Typescript, Javascript
+
+## Education
+
+### Academia Nacional de CiberSegurança
+
+> Bootcamp | Certificate, Computer and Information Systems Security/Information Assurance
+
+> Mar 2022 - Oct 2022
+
+National Academy for Cyber Security. With a duration of 500 hours over 8 months, it covered the following subjects: CyberCrime, Computer Systems, Operating Systems, Databases, Network Programming, Vulnerabilities, Information Security, Risk Management, Intrusion Detection, Malware Analysis, OSINT, Forensics, SIEM, Incident Response, Information Warfare, Encryption, Electronics, GDPR and Telecommunications Security.
+
+### Academia de Código
+
+> Bootcamp | Full-stack development
+
+> Sep 2016 - Jan 2017
+
+14-week coding bootcamp aimed at teaching Java and Javascript to a class of 17 selected people, making them full-stack developers ready to work.
+
+### Escola Artística António Arroio
+
+> High-school | Graphic Design
+
+> 2012 - 2015
