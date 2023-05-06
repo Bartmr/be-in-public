@@ -136,7 +136,7 @@ As a team of 2 members (me included):
 
 #### Why it ended
 
-- Final product was finished and I was becoming redundant. I felt it was the right time for parent company to take it from there with their own in-house teams.
+Final product was finished and I was becoming redundant. I felt it was the right time for parent company to take it from there with their own in-house teams.
 
 ### Drawbotics + Mosaic
 
