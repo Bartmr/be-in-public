@@ -24,7 +24,8 @@
 
 - Cortisol and adrenaline from stress tampers with our cognitive ability. It's a paradox: if we don't worry, everything will be fine.
 
-- Our brain is a meatball poorly designed for the jungle. Don't take it seriously. It doesn't make many favours for us. 
+- Our brain is a meatball on stilts, poorly designed for the jungle and not for modern society. Don't take it seriously. It doesn't make many favours for us. 
+  - Your brain will never be able to grasp what the reality really is, and its wide range of opportunities, happenings, contexts and unlimited points of view.
 
 - Asking yourself "Who do you want to be" is a good way to stop bad habits on the spot
 
