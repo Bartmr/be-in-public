@@ -361,7 +361,7 @@ Gave a presentation about my project `Estirador`, an updatable boilerplate that 
 
 > March 21st 2019
 
-Gave a workshop on how to build a React application from scratch with React Context, to a class of bootcamp students and experienced developers.
+Gave a workshop on how to build a React application from scratch with React Context, to a class of both bootcamp students and experienced developers.
 
 ## Personal Projects
 
