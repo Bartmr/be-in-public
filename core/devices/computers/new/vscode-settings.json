@@ -17,5 +17,6 @@
     "github.copilot",
     "muuvmuuv.vscode-sundial"
   ],
+  "python.linting.mypyEnabled": true,
   "python.analysis.autoImportCompletions": true
 }
