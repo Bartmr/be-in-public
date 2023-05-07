@@ -1,0 +1,1 @@
+- Enable `noUncheckedIndexedAccess` in `tsconfig.json`
