@@ -71,8 +71,10 @@
       - {template,screen}-n-actions.ts
       - {template,screen}-n-effects.ts
     - {template,screen}-n-template.tsx
+    - {template,screen}-n-routes.tsx
     - {templates,screens}
       - single-{template,screen}-n-template.tsx
+      - single-{template,screen}-n-routes.tsx
 
 ## Declaring a new page or screen
 
