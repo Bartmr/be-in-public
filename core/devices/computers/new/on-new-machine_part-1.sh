@@ -65,6 +65,13 @@ sudo usermod -aG docker $USER
 
 pip install --user pipenv
 
+# Node
+
+# https://github.com/nodesource/distributions
+
+curl -fsSL https://deb.nodesource.com/setup_18.x | sudo -E bash - &&\
+sudo apt-get install -y nodejs
+
 # Java
 
 sudo apt install openjdk-11-jdk
