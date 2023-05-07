@@ -5,7 +5,10 @@
 🕒 Lisbon, Portugal | GMT+0
 
 ✉️ pbartmr@gmail.com
-👤 https://www.linkedin.com/in/bartmr
+
+👤 https://www.linkedin.com/in/**bartmr**
+
+📁 https://github.com/**Bartmr**
 
 ## Intro
 

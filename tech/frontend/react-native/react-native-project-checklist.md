@@ -1,4 +1,5 @@
 - Improve tsconfig
+  - Enable `noUncheckedIndexedAccess` in `tsconfig.json`
 
 - Improve linter config. Check if it has rules for any, and react hooks
 
