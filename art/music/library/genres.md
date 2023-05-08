@@ -9,6 +9,7 @@
 - Hi-NRG
 - Deep house
 - Deep Tech
+- Dub Techno
 - Meditation music
 - 80s and 90s techno
   - Chicago House

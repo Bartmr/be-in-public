@@ -1,0 +1,5 @@
+- https://www.reddit.com/r/AskHR/comments/ifrayb/what_does_liremote_in_a_job_description_mean/
+  - `#LI-REMOTE`
+    - signals to Linkedin that the position is remote
+  - `#LI-[first initial, last initial, NUMBER`
+    - tags the recruiter responsible for the position

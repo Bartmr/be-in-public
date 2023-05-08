@@ -1,3 +1,3 @@
 - torchvision
-- resnet50
+- resnet
 - YOLO
