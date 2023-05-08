@@ -16,7 +16,7 @@ export function ExperienceSection() {
     `}
   </style>
   <ReactMarkdown className="experience-section">
-    {`## Experience
+    {`## Work Experience
 
 ### Independent
 

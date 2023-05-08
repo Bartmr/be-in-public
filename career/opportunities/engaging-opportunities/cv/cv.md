@@ -53,7 +53,7 @@ PropTech, Healthcare, Telco, AI, User Research, Market Validation, Customer Sati
   -  The world keeps changing, but the ability to build will always be of value
 - Connection to the business side, in order to be able to discuss trade-offs and offer the best value for the least amount of development time 
 
-## Experience
+## Work Experience
 
 ### Independent
 

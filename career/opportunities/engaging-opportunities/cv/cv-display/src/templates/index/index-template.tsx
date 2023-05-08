@@ -3,6 +3,7 @@ import { ExperienceSection } from "./experience-section";
 import { IntroSection } from "./intro-section";
 import { Inter } from 'next/font/google';
 import { EventsSection } from "./events-section";
+import { EducationSection } from "./education-section";
  
 const inter = Inter({ subsets: ['latin'] });
 
@@ -48,5 +49,6 @@ export function IndexTemplate() {
   <IntroSection />
   <ExperienceSection />
   <EventsSection />
+  <EducationSection />
   </>
 }
