@@ -22,9 +22,7 @@ export function IntroSection() {
 
 🕒 Lisbon, Portugal | GMT+0
 
-👤 https://www.linkedin.com/in/**bartmr**
-
-📁 https://github.com/**Bartmr**
+✉️ pbartmr@gmail.com - 👤 https://www.linkedin.com/in/**bartmr** - 📁 https://github.com/**Bartmr**
 
 ## Intro
 
