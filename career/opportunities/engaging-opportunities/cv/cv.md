@@ -4,11 +4,7 @@
 
 🕒 Lisbon, Portugal | GMT+0
 
-✉️ pbartmr@gmail.com
-
-👤 https://www.linkedin.com/in/**bartmr**
-
-📁 https://github.com/**Bartmr**
+✉️ pbartmr@gmail.com - 👤 https://www.linkedin.com/in/**bartmr** - 📁 https://github.com/**Bartmr**
 
 ## Intro
 
@@ -53,7 +49,7 @@ PropTech, Healthcare, Telco, AI, User Research, Market Validation, Customer Sati
   -  The world keeps changing, but the ability to build will always be of value
 - Connection to the business side, in order to be able to discuss trade-offs and offer the best value for the least amount of development time 
 
-## Experience
+## Work Experience
 
 ### Independent
 
@@ -281,11 +277,11 @@ These were all tasks designed to improve the development speed, that was very sl
 
 Although one of the best companies in Portugal to work for, in my opinion, the organization wasn't very open to change. Every task required a lot of back-and-forth in approvals and it was hard to optimize the work for yourself.
 
-Usually IPOs make this bureaucracy worst, so I decided to leave after knowing that Farfetch was going to be a public company, and pursue an opportunity that would give me more ownership and would allow me to learn how to build a wider range of products.
+Usually IPOs make this bureaucracy worse, so I decided to leave after knowing that Farfetch was going to be a public company, and pursue an opportunity that would give me more ownership and would allow me to learn how to build a wider range of products.
 
 ### Yelloh
 
-> Aug 2017 - Dec 2017 (**5 months**) | Full-stime
+> Aug 2017 - Dec 2017 (**5 months**) | Full-time
 
 Video-based online surveys, right from the browser.
 
