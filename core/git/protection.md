@@ -15,4 +15,7 @@
     - has all the important repositories
   - Github Branch Protection enabled
   - Flash drive
-    - contains a backup of your git repositories, in case you lose both your computer and phone at the same time
+    - contains a backup of your git repositories, in case you lose both your computer and phone at the same time while you are out
+    - must be kept in your home
+    - encrypt it with the same password as your computer hard drive encryption
+
