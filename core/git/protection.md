@@ -14,3 +14,5 @@
   - One mobile phone
     - has all the important repositories
   - Github Branch Protection enabled
+  - Flash drive
+    - contains a backup of your git repositories, in case you lose both your computer and phone at the same time
