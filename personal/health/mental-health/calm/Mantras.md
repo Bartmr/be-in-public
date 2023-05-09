@@ -13,7 +13,7 @@
 
 - Dont spend more than 5 minutes on something that doesn't matter in 5 years
 
-- Past and future are mental constructs, build on old evolutionary patterns that are no longer suited for modern society. With past comes remorse or wishing to go back and with the future comes anxiety or over-confidence. The present is the only useful moment, the simplest, and closest to reality.
+- Past and future are mental constructs, build on old evolutionary patterns that are no longer suited for modern society. With past comes remorse or wishing to go back and with the future comes anxiety or over-confidence. The present is the only moment you can use and act upon, the simplest and closest to reality.
   - any time you remember something, or try to predict something, what you see is already a construct of your prejudices and faulty brain mechanics
   - Do not identify yourself with the past or future. Your brain cannot conceive a realistic past or a realistic future.
   - Do not identify or attach to what you accumulated. What you feel as the value of what you accumulated is still a subjective picture made out of biases from your brain. And don't forget that the world also changes a lot, and what you feel is valuable can no longer be considered valuable or useful in the present. Given this scenario, the best alternative is to always be moving on, and treat accumulation as a bonus, something extra that you don't depend on.
