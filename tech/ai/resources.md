@@ -19,3 +19,7 @@
 ## Information
 
 - https://github.com/sw-yx/ai-notes
+
+## Project Ideas
+
+- Kaggle

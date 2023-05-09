@@ -40,3 +40,21 @@
 
 - Everything is permanently changing, even if you don't notice. 
 
+- The best solutions are the ones built when the problem happened and materialized itself, since you finally have the whole context right in front of you.
+
+- The best thing you can do when worrying is to force yourself to do other thing. It will change your focus in your brain, and you will soon accept that there are always alternatives in this world.
+  - Worry is never truthful, but a result from how our brains work
+  - you will see that the thing you we're worrying isn't important at all to act on, or has a very simple solution
+  - letting worry go past you, and let the effects of stress leave your body. Act like nothing happened
+
+- Always be as light as you can in your mind
+  - give permission to yourself to not depend on anything
+    - you won't die
+    - it's a leap of faith for a better life
+    - weight in our minds is a result of our "meatball" brain (see above)
+  - it makes room for adaptation and incorporate new things
+  - it simplifies your life
+  - it makes it easier to find alternatives and get new ideas
+
+- Your mind is still yours. You can focus on anything you choose to.
+
