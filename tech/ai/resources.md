@@ -7,6 +7,7 @@
 - `meta learning`
 - Topological Data Analysis
 - AutoML
+- Mean Average Precision (mAP)
 
 ## Communities
 

@@ -5,6 +5,7 @@
 - https://github.com/dair-ai/Prompt-Engineering-Guide/blob/main/pages/datasets.en.mdx
 - https://paperswithcode.com/paper/logodet-3k-a-large-scale-image-dataset-for
 - https://aimultiple.com/
+- https://roboflow.com/universe
 
 ## Search
 

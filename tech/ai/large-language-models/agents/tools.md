@@ -4,5 +4,7 @@
   - Playground
     - https://agentgpt.reworkd.ai/
       - https://github.com/reworkd/AgentGPT
+  - Plugins
+    - https://github.com/Significant-Gravitas/Auto-GPT-Plugins
 - BabyAGI
 - https://github.com/microsoft/JARVIS

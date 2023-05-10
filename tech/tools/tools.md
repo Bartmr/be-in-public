@@ -2368,6 +2368,16 @@ TanStack Table
   - https://www.activeloop.ai/
   - https://www.deeplake.ai/
 - https://super.ai/
+- https://ultralytics.com/
+  - #imagerecognition
+  - https://github.com/ultralytics/ultralytics
+- https://roboflow.com/
+  - #imagerecognition
+  - https://roboflow.com/train
+  - https://roboflow.com/annotate
+    - Quickly Label Training Data and Export To Any Format
+- https://www.v7labs.com/
+  - #imagerecognition
 
 ### NLP / Vector / Embeddings Search
 
@@ -3840,6 +3850,7 @@ TanStack Table
 - See [Artificial Intelligence](#artificial-intelligence)
 - https://www.explainpaper.com/
 - https://relevance.ai/
+- https://typeset.io/
 
 ### Computer management
 
@@ -5097,6 +5108,7 @@ TanStack Table
   - If you’ve taken a screenshot or screen recording, you already know how to Jam. Jam auto-magically creates bug reports with all the info engineers need, including: Console logs, Network requests, Browser info, Device details, Repro steps, Comments
 - https://marker.io/
 - https://www.honeycomb.io/
+- https://www.reportbug.ai/
 
 ### Data Science
 

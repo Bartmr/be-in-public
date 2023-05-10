@@ -9,6 +9,11 @@
 - https://stablediffusionweb.com/
   - has ControlNet ready to be used
 
+### 3D
+
+- https://github.com/openai/shap-e
+- https://github.com/ashawkey/stable-dreamfusion
+
 ## Projects
 
 - https://github.com/mlc-ai/web-stable-diffusion/
