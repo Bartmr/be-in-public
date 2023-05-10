@@ -72,6 +72,8 @@
 - https://github.com/swisskyrepo/PayloadsAllTheThings
 - https://github.com/pablosnt/rekono
 - https://seclists.org/risks/
+- SQLMap
+  - https://github.com/sqlmapproject/sqlmap 
 
 ### Smart contracts
 - https://github.com/crytic/slither

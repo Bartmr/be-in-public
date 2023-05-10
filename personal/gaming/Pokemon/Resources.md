@@ -5,3 +5,5 @@
 - Pokemon Prism
 - Pokemon Crystal Clear
 - Pokemon Polished Crystal
+- Pokemon Coral Version
+  - https://twitter.com/coraldev_

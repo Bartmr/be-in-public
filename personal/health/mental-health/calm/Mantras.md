@@ -5,6 +5,7 @@
   - sticking to what is written down helps you focus and helps you act only on what's important
   - it keeps you clear headed, since you don't need to retain anything in your mind 
   - it allows you to completely turn off from a stressful task, and come back later with a fresh mentality and a positive outlook
+  - writing will also make the events and knowledge accessible to AI automation
   - There will be a time when your knowledge and actions need to be so vast, and the world and your days change so quickly, that you won't be able to keep up unless you start writing down what needs to be done and using text as your only short-term memory.
     - There will be so much happening and changing, that rumination itself will be pointless, and based on misconstructed ideas and patterns in your brain. You will need to stick and act only to what is written
     - Using text as your short-term memory will be a full replacement. It's a deal: you must trust what you wrote and you cannot ruminate on short-term things anymore
@@ -39,4 +40,9 @@
 - Opportunities of growth can only be seized in the present. 
 
 - Everything is permanently changing, even if you don't notice. 
+  - The world doesn't stop for you to plan or ruminate on something 
+
+- Picture yourself detaching your worry or other toxic emotion from yourself, and only having left the present moment
+
+- Since the world moves so fast, sometimes is healthy to subtract things from you, specially those that you identify more with or think that are essential. It will leave room for adaptation. You can detach anything from your mind and live better days. 
 

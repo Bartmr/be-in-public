@@ -19,9 +19,29 @@
 - https://pypi.org/project/autoflake/
   - autoflake removes unused imports and unused variables from Python code. It makes use of pyflakes to do this.
 
+### Debugging 
+
+- `stackprinter`
+
 ## Environment and dependencies
 
 - `pipenv`
 - `poetry`
 - `venv`
 - `virtualenv`
+
+## Date and Time 
+
+- `boltons.timeutils`
+
+## Iteration
+
+- `boltons.iterutils`
+- `itertools`
+- `sh`
+
+## Strings
+
+### Search 
+
+- `thefuzz`

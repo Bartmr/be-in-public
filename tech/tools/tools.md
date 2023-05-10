@@ -1210,6 +1210,7 @@ TanStack Table
 - https://botmother.com
 - IBM Watson
 - https://rasa.com/
+  - https://github.com/RasaHQ/rasa
 - https://chatfuel.com/
 - https://airchat.us/
 - DialogFlow
