@@ -30,3 +30,13 @@
 ### Show object or method docs
 
 - `??method` or `??object`
+
+### Load environment variables
+
+Install the `python-dotenv` package
+
+```python
+from dotenv import load_dotenv
+
+load_dotenv()
+```

@@ -1,3 +1,4 @@
 - [Generate image embeddings using a pre-trained CNN and store them in Hub](https://www.activeloop.ai/resources/generate-image-embeddings-using-a-pre-trained-cnn-and-store-them-in-hub/?utm_source=pocket_saves)
 - https://milvus.io/docs/v2.0.x/image_similarity_search.md
 - https://github.com/roboflow/notebooks
+- https://www.freecodecamp.org/news/how-to-detect-objects-in-images-using-yolov8/

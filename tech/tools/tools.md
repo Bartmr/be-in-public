@@ -1032,6 +1032,7 @@ TanStack Table
     - https://studio.benthos.dev/
     - https://github.com/benthosdev/benthos
 - Microsoft Power Automate
+- https://nussknacker.io/
 
 ### Serverless
 

@@ -1,3 +1,7 @@
+## News and Feeds
+
+- https://huggingface.co/papers
+
 ## Keywords
 
 - `meta learning`
@@ -15,3 +19,7 @@
 ## Information
 
 - https://github.com/sw-yx/ai-notes
+
+## Project Ideas
+
+- Kaggle

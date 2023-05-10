@@ -8,3 +8,4 @@
 
 - https://www.gmass.co/
 - https://supersend.io/
+- https://www.smartlead.ai/

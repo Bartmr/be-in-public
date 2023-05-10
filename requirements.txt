@@ -2,3 +2,4 @@ mypy
 nbqa
 jupyterlab
 types-requests
+python-dotenv
