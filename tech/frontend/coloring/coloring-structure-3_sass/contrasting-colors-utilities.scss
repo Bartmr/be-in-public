@@ -1,5 +1,4 @@
-@import 'variables';
-@import 'contrasting-colors-mixins';
+@import 'setup-contrasting-colors';
 
 .with-dark-contrasting-colors {
   @include attach-map-of-contrasting-colors($dark-contrasting-colors, true);
