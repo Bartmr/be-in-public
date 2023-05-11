@@ -93,10 +93,6 @@ As a team of 2 members (me included):
 
 - Integrating a team and developing a final product that suits the requirements gathered from the previous product drafts.
 
-#### Why it ended
-
-Final product was finished and I was becoming redundant. I felt it was the right time for parent company to take it from there with their own in-house teams.
-
 ### Drawbotics + Mosaic
 
 > Sep 2021 - Aug 2022 (**1 year**) | Full-time
@@ -116,10 +112,6 @@ Mosaic is a CRM and end-to-end sales platform for property developers, powered b
 - Develop and maintain features in Drawbotics and Mosaic's many frontends
 - Occasional development of React embedded in Rails views
 - Internal tooling maintenance
-
-#### Why it ended
-
-Due to the lack of properties being built in the countries where Drawbotics was operating, the company had to freeze the activities in Mosaic, where I was mostly allocated. I was layed-off on the last day before the company underwent a freeze.
 
 ### Opplane
 
@@ -144,10 +136,6 @@ Silicon Valley startup developing intelligent apps with machine learning and tel
 - Architect project structures, tools and frameworks
 - Direct support, planning and feedback with clients
 - Conducting job interviews for developer positions
-
-#### Why it ended
-
-The workload and amount of parallel projects started to be too much for me. During COVID, I also decided that it would be wise to start working for other countries again and have a more serious B2B setup.
 
 ### Zenklub
 
@@ -183,10 +171,6 @@ Together with the CTO:
   - Angular Website for scheduling, payments and live therapy sessions
   - Angular Back-office
 
-#### Why it ended
-
-After a year of building multiple services with tight deadlines, my tasks started to be things that many developers could do in parallel without breaking the product. We had raised some funding and my objective after a year was to get a salary raise, but the funds were aimed at getting more developers, which was necessary for the company. I decided to resign since each side had different needs and switched to another company.
-
 ### Farfetch
 
 > Dec 2017 - Sep 2018 (**10 months**) | Full-time
@@ -213,12 +197,6 @@ Some highlighted personal tasks were:
 
 These were all tasks designed to improve the development speed, that was very slow, sometimes having to wait 1 minute for the computer to build and show the changes on the screen
 
-#### Why it ended
-
-Although one of the best companies in Portugal to work for, in my opinion, the organization wasn't very open to change. Every task required a lot of back-and-forth in approvals and it was hard to optimize the work for yourself.
-
-Usually IPOs make this bureaucracy worse, so I decided to leave after knowing that Farfetch was going to be a public company, and pursue an opportunity that would give me more ownership and would allow me to learn how to build a wider range of products.
-
 ### Yelloh
 
 > Aug 2017 - Dec 2017 (**5 months**) | Full-time
@@ -243,12 +221,6 @@ Together with the CTO:
   - back-office for companies to check their survey results
   - server
 
-#### Why it ended
-
-Recording a video of yourself answering questions wasn't a widespread practice amongst consumers. 4G was a reality, but cheap data plans and stable video recording APIs for mobile browsers weren't. The companies using our product were testing it but not paying for it. Failing to get a round of investment, the company closed after 5 months.
-
-Today, companies measure part of their success by analyzing recorded feedback in platforms like TikTok and Instagram. A lot of companies today do what we did before.
-
 ### CGI
 
 > Jan 2017 - Jun 2017 (**6 mos**) | Full-time
@@ -267,10 +239,7 @@ Founded in 1976, CGI is among the largest IT and business consulting services fi
 #### Roles
 
 - Develop an NGO resources management app using SpringMVC and AngularJS.
-
-#### Why it ended
-
-After a while, I was moved to a non-technological position that required inputing data in a proprietary database used only in Portugal. That seemed like a dangerous path to take as a junior, since I wouldn't be learning something that would help me evolve as a developer. I decided to learn Node.js and pursue my original objective of building products from scratch as a full-stack developer.`}
+`}
   </ReactMarkdown>
   </>
 }
