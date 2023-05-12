@@ -91,3 +91,7 @@
 ## Extractors
 
 - https://github.com/samim23/polymath
+
+## AI
+
+- https://google-research.github.io/seanet/musiclm/examples/ 
