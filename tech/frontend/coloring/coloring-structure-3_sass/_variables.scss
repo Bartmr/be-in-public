@@ -165,13 +165,3 @@ $light-contrasting-colors: (
     (#{$color}-hover: lighten($value, 20%))
   );
 }
-
-/* --- Functions --- */
-
-@import 'components/ui-kit/global-styles/additional-functions/contrasting-colors-functions';
-
-/*
----
---- End of CSS Custom Properties initial values and functions
----
-*/

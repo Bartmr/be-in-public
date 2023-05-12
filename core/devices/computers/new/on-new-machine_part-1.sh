@@ -101,6 +101,8 @@ sudo apt install code
 code --install-extension ms-azuretools.vscode-docker
 code --install-extension ms-vscode-remote.remote-containers
 code --install-extension muuvmuuv.vscode-sundial
+code --install-extension bradlc.vscode-tailwindcss
+code --install-extension Prisma.prisma
 # code --install-extension github.copilot
 code --install-extension ms-python.python
 

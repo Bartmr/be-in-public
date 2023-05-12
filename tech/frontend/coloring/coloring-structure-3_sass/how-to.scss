@@ -1,0 +1,25 @@
+@import "setup-contrasting-colors";
+
+.container {
+  $background-color: "#ffffff";
+
+  background-color: $background-color;
+
+  // Sets CSS variables with contrasting colors
+  @include with-contrasting-colors($background-color);
+
+  // Uses CSS variable with the contrasting primary color 
+  color: get-contrasting-color('primary');
+
+  @include on-inverted-color-scheme {
+    $background-color: "#000000";
+
+    background-color: $background-color;
+
+    // Sets CSS variables with contrasting colors
+    @include with-contrasting-colors($background-color);
+
+    // Uses CSS variable with the contrasting primary color 
+    color: get-contrasting-color('primary');
+  }
+}

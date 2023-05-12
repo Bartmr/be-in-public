@@ -1,6 +1,5 @@
 ```tsx
 import { z } from "zod";
-import { RUNNING_IN_SERVER } from "./running-in";
 
 const APP_ENV = process.env.NEXT_PUBLIC_APP_ENV;
 

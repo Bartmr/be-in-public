@@ -11,3 +11,4 @@
 - Packt
 - Manning
 - https://github.com/JushBJJ/Mr.-Ranedeer-AI-Tutor
+- Search for `<tech> roadmap`

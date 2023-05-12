@@ -30,6 +30,7 @@
       - contrasting-colors
       - fonts
       - spacers
+      - sizes
     - components
     - global-styles (in case CSS is used)
 - logic

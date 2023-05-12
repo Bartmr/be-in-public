@@ -597,6 +597,9 @@
   - https://vuestorefront.io/storefront-ui
   - https://github.com/vuestorefront/storefront-ui
 - https://www.bumbag.style/
+- https://flowbite.com
+  - The most popular and open-source library of Tailwind CSS components
+  - https://github.com/themesberg/flowbite
 
 #### UI FX
 
