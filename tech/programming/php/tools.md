@@ -1,0 +1,3 @@
+- PHPStan
+- LaraStan
+  - https://github.com/nunomaduro/larastan
