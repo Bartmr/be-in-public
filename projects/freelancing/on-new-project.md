@@ -1,0 +1,1 @@
+- In order not to lock your personal email to a single service that you use for a single client, use email aliases (`+`) to be able to create different accounts for different clients and projects, like so: `johndoe+projectname@gmail.com`

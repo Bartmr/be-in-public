@@ -73,3 +73,9 @@
 - Your mind is still yours. You can focus on anything you choose to.
   - since your brain cannot grasp what is reality, you can choose what to believe in, and that will help you speed up or slow down your life
   - check David R. Hawkins Energy Frequencies
+  - allow yourself to believe whatever makes your life easier
+
+- Stop, and reflect on what you are doing as if you were watching yourself as a 3rd person.
+
+- Everything that is worth chasing cannot be conceived in your head because you never experienced it or thought about it. Growth is about making the unconceivable conceivable in your mind. Worry will not allow you to make the unconceivable to you conceivable, since it drives you to sticking to what you only feel it's conceivable.
+
