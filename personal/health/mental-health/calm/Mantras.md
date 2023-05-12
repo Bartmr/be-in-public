@@ -25,12 +25,15 @@
   - stress and anxiety are just added complexity. We just start adding complexity to the situation. 
 
 - There are no certainties, only faith
+  - worry is lack of faith in the present
 
 - Cortisol and adrenaline from stress tampers with our cognitive ability. It's a paradox: if we don't worry, everything will be fine.
   - these hormones makes your body focus on movement and be ready to physically strike. It shifts the attention to a single thing: physical action. That means no focus can be spent on acting with your mind. How can that type of pinpoint focus help you find a solution in the modern world? How can it give you mental range for you to act mentally in the present?
+  - if you don't ruminate about it, you will proba
 
 - Our brain is a meatball on stilts, poorly designed for the jungle and not for modern society. Don't take it seriously. It doesn't make many favours for us. 
   - Your brain will never be able to grasp what the reality really is, and its wide range of opportunities, happenings, contexts and unlimited points of view.
+  - your brain is hooked on patterns and habits, much of them created from traumas and outdated evolutionary wiring.
 
 - Asking yourself "Who do you want to be" is a good way to stop bad habits on the spot
 
@@ -40,6 +43,7 @@
 
 - Bad habits creep in as if nothing changed. Be wary of that.
   - rumination for example, makes you think that the current scenario is different from the past ones, and that you definitely need to worry now
+  - sometimes you feel compelled by yourself to act according to your toxic habit, or else it doesn't feel "right". again, brain is a meatball hooked on patterns and habits.
 
 - Opportunities of growth can only be seized in the present. 
 
@@ -67,3 +71,5 @@
   - it makes it easier to find alternatives and get new ideas
 
 - Your mind is still yours. You can focus on anything you choose to.
+  - since your brain cannot grasp what is reality, you can choose what to believe in, and that will help you speed up or slow down your life
+  - check David R. Hawkins Energy Frequencies
