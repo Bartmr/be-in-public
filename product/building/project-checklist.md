@@ -121,7 +121,16 @@
       - Allow users to change their email. That means repeating the email verification flow
       - Allow users to change the SSO account that logged them in the first time. That means repeating the SSO flow
       - Account recovery in case of lost credentials and lost access
-  - Do backend
+  - 404 thrown because the URL path was correct but there were no results from the database should send a `X-Resource-Not-Found` header set with `true`, so that the client app can ignore these 404, but report the ones that are actually due to a wrongly written URL from the developer side
+    - update CORS accordingly
+      ```typescript
+      app.enableCors({
+        origin: WEB_APP_ORIGIN,
+        credentials: true,
+        exposedHeaders: ['X-Resource-Not-Found'],
+      });
+      ```
+  - Do backend      
   - Do frontend
     - Implement SEO
       - Social media HTML tags

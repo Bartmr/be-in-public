@@ -72,6 +72,9 @@ pip install --user pipenv
 curl -fsSL https://deb.nodesource.com/setup_18.x | sudo -E bash - &&\
 sudo apt-get install -y nodejs
 
+echo "export NPM_CONFIG_PREFIX=/home/$(whoami)/.npm-global
+export PATH=\"${PATH}:/home/$(whoami)/.npm-global/bin\"" >> "/home/$(whoami)/.bashrc"
+
 # Java
 
 sudo apt install openjdk-11-jdk
