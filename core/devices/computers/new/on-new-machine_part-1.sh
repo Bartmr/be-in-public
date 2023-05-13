@@ -13,7 +13,6 @@ reset_colors="\0033[0m"
 
 #
 
-~/Documents/repositories/my-notes/scripts/install-dependencies.sh
 ~/Documents/repositories/be-in-public/scripts/install-dependencies.sh
 
 #
@@ -124,10 +123,6 @@ cat vscode-settings.json > "$HOME/.config/Code/User/settings.json"
 # sudo add-apt-repository ppa:serge-rider/dbeaver-ce
 # sudo apt-get update
 # sudo apt-get install dbeaver-ce
-
-# Obsidian
-
-flatpak install --user md.obsidian.Obsidian
 
 #
 

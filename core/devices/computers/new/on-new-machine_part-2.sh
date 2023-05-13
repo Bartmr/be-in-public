@@ -15,6 +15,10 @@ sudo apt install inkscape
 
 flatpak install https://flathub.org/repo/appstream/org.gimp.GIMP.flatpakref
 
+# Obsidian
+
+flatpak install --user md.obsidian.Obsidian
+
 #
 
 mkdir -p ~/.config/autostart
