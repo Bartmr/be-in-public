@@ -31,8 +31,12 @@
     - `cd ~/storage/shared/Documents/repositories`
     - `git clone "git@github.com:Bartmr/my-notes.git"`
     - `git clone "git@github.com:Bartmr/be-in-public.git"`
-    - `/data/data/com.termux/files/home/storage/shared/Documents/repositories/be-in-public/core/git/mobile/clone-repos.sh`
+    - `bash be-in-public/core/git/mobile/clone-repos.sh`
 - Install Obsidian
+  - Open as vaults
+    - my-notes
+    - be-in-public
+    - ne-xe
 - Install Google Play Books
 - Install Kindle
 - Install Feedly

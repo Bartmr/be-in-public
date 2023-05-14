@@ -19,6 +19,14 @@ flatpak install https://flathub.org/repo/appstream/org.gimp.GIMP.flatpakref
 
 flatpak install --user md.obsidian.Obsidian
 
+echo "Start Obsidian and open the following repos as vaults:
+- my-notes
+- be-in-public
+- ne-xe
+
+Press Enter when finished"
+read no_op
+
 #
 
 mkdir -p ~/.config/autostart

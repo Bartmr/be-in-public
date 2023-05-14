@@ -1259,9 +1259,6 @@ TanStack Table
 - Firebase
 - Supabase
 - https://www.basedash.com/
-- Moralis
-  - Firebase for Web3
-  - https://moralis.io/
 - https://saasbox.net/
 - https://kinde.com/
 - [Appwrite](#appwrite)
@@ -1313,6 +1310,13 @@ TanStack Table
 - https://magic.link/
   - Create a passwordless authentication system using magic links (similar to Slack and Medium)
   - Web3 authentication system
+
+### Web3 focused
+
+- Moralis
+  - Firebase for Web3
+  - https://moralis.io/
+- https://www.alchemy.com/
 
 ## Cloud Solutions
 
