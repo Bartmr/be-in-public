@@ -29,7 +29,6 @@
 
 - Cortisol and adrenaline from stress tampers with our cognitive ability. It's a paradox: if we don't worry, everything will be fine.
   - these hormones makes your body focus on movement and be ready to physically strike. It shifts the attention to a single thing: physical action. That means no focus can be spent on acting with your mind. How can that type of pinpoint focus help you find a solution in the modern world? How can it give you mental range for you to act mentally in the present?
-  - if you don't ruminate about it, you will proba
 
 - Our brain is a meatball on stilts, poorly designed for the jungle and not for modern society. Don't take it seriously. It doesn't make many favours for us. 
   - Your brain will never be able to grasp what the reality really is, and its wide range of opportunities, happenings, contexts and unlimited points of view.
