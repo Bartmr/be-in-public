@@ -9,3 +9,8 @@ module.exports = {
   }
 }
 ```
+
+index.css
+```css
+@tailwind utilities;
+```

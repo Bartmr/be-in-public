@@ -69,6 +69,7 @@
 - https://opentools.ai/
 - https://github.com/jtmuller5/AI-Tools-and-Websites
 - https://python.langchain.com/en/latest/modules/agents/tools.html
+- https://www.aitoolsclub.com/
 
 ### Awesome lists
 
