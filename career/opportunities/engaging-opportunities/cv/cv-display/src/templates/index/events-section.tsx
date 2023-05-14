@@ -24,7 +24,7 @@ export function EventsSection() {
 
 > 📼 https://www.youtube.com/watch?v=YfmfiQJIG5E
 
-Gave a workshop with <​Academia de Código_> to 90 students, about the wonders of Github and text, and how you can use it to showcase your work and automate your life.
+Gave a workshop with Academia de Código to 90 students, about the wonders of Github and text, and how you can use it to showcase your work and automate your life.
 
 
 ### Meetup DevPT - Estirador
