@@ -97,7 +97,6 @@
 - Reliable Machine Learning: Applying SRE principles to ML in production; O'Reilly
 - Machine Learning Engineering in Action; Manning
 - https://www.deeplearning.ai/
-  - https://www.deeplearning.ai/short-courses/chatgpt-prompt-engineering-for-developers/
 - https://d2l.ai/
   - Dive into Deep Learning
 - https://uvadlc.github.io/
