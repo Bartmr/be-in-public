@@ -7,6 +7,14 @@
 - search for `<technology> most common design patterns` 
 - https://exercism.org/
 - Ask Large Language Models like GPT
+  - 
+  ```
+  I want to learn <skill>. Generate a 30 day plan that will help a beginner like me learn the skill from scratch.
+  ```
+  - 
+  ```
+  I want to learn about [insert topic]. Identify and share the most important 20% of learnings from this topic that will help me understand 80% of it.
+  ```
 - O'Reilly
 - Packt
 - Manning
