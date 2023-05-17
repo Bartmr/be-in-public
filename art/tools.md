@@ -40,26 +40,6 @@
   - Has its services located in many countries = less shipping time
   - Less variety of products (no phone cases or puzzles)
 
-## Inspiration
-
-- Browser bookmarks
-- Google Search Images bookmarks
-- Instagram
-- Pinterest
-- Google Maps
-- Google Keep
-- Tumblr
-- VSCO
-- Polarr
-- Reddit
-- Adobe Lightroom
-- Behance
-- Dribbble
-- YouTube
-- My own portfolio
-- DALL-E and other image generators
-- `my-notes/art/illustration/vector/techniques`
-
 ## Articles
 
 - https://andys.page/posts/how-to-draw/

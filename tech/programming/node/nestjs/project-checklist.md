@@ -12,3 +12,16 @@
 - switch E2E tests directory to `src`, to have the test files alongside the code they test
 - Replace the `format` command in `package.json` with `prettier --write .` in order to prettify all supported files
 - Add `typecheck` command in `package.json` with `tsc --noEmit`
+- Validate Prisma schema file by calling `prisma validate`
+- To support absolute imports, add the following to `package.json`
+  ```
+  "rootDir": ".",
+  "roots": ["<rootDir>/src/"],
+  "moduleDirectories": ["node_modules", "<rootDir>"],
+  ```
+  and `test/jest-e2e.json`
+  ```
+  "rootDir": "..",
+  "roots": ["<rootDir>/src/"],
+  "moduleDirectories": ["node_modules", "<rootDir>"],
+  ```

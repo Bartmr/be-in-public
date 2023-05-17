@@ -31,6 +31,8 @@
 
 - `??method` or `??object`
 
+## Inputs
+
 ### Load environment variables
 
 Install the `python-dotenv` package
@@ -40,3 +42,5 @@ from dotenv import load_dotenv
 
 load_dotenv()
 ```
+
+### `ipywidgets`

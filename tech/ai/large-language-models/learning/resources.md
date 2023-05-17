@@ -4,3 +4,7 @@
 - https://www.linkedin.com/learning/ai-pair-programming-with-github-copilot/human-ai-collaboration?autoplay=true
 - https://www.activeloop.ai/resources/ultimate-guide-to-lang-chain-deep-lake-build-chat-gpt-to-answer-questions-on-your-financial-data/
 - https://www.activeloop.ai/resources/generative-ai-data-infrastructure-how-to-train-large-language-models-ll-ms-with-deep-lake/
+- https://fullstackdeeplearning.com/llm-bootcamp/spring-2023/
+- https://huggingface.co/learn/nlp-course/chapter1/1
+- https://platform.openai.com/docs/guides/completion
+- https://github.com/openai/openai-cookbook

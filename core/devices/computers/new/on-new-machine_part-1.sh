@@ -107,6 +107,8 @@ code --install-extension bradlc.vscode-tailwindcss
 code --install-extension Prisma.prisma
 # code --install-extension github.copilot
 code --install-extension ms-python.python
+code --install-extension esbenp.prettier-vscode
+code --install-extension dbaeumer.vscode-eslint
 
 mkdir -p ~/.config/Code/User/settings.json
 cat vscode-settings.json > "$HOME/.config/Code/User/settings.json"
