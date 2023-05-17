@@ -77,7 +77,7 @@ SyntheticUsers is a platform that gives you user interviews for product research
 - **Languages**: Python, Typescript, Javascript, Kotlin
 - **Infrastructure**: Linux, Docker, Git
 - **Storage**: PostgreSQL
-- **Backend**: Node.js, NestJS, Spring Boot
+- **Backend**: Node.js, NestJS, TypeORM, Spring Boot
 - **Frontend**: React.js, Next.js, Ant Design, HTML, CSS
 - **No-code and 3rd party providers**: Firebase, n8n.io, Adalo, Retool, OpenBlocks, Miro
 
@@ -124,7 +124,7 @@ Silicon Valley startup developing intelligent apps with machine learning and tel
 - **Infrastructure**: AWS, GCP, Linux, Terraform, Docker, Linux, Apache Kafka, Git
 - **Storage**: PostgreSQL, MongoDB, Presto
 - **Languages**: Javascript, Typescript, Java, Kotlin, Python
-- **Backend**: Node.js, NestJS, Spring Boot
+- **Backend**: Node.js, NestJS, TypeORM, Spring Boot
 - **Frontend**: React.js, Next.js, Gatsby, Bootstrap, HTML, CSS, Sass
 - **Mobile**: React Native, Android, iOS, Expo
 - **No-code and 3rd party providers**: Pubnub, Firebase

@@ -42,12 +42,10 @@ export function IntroSection() {
 
 📖 experience giving workshops and coaching newcomers into tech
 
-💼 B2B Contractor, in order to legally work for companies outside Portugal
-
 ### Top skills
 
 - **Languages**: Python, Typescript, Javascript
-- **Backend**: Node.JS, NestJS
+- **Backend**: Node.JS, NestJS, Prisma, TypeORM
 - **Frontend**: React.js, Next.js
 - **Databases**: PostgreSQL
 - **Infrastructure**: Linux, Docker, Git
@@ -65,7 +63,8 @@ PropTech, Healthcare, Telco, AI, User Research, Market Validation, Customer Sati
 - Be able to take on a complex feature from engineering and make it simpler, so it can offer more value for half the development time
 - Improve my productivity, develop new apps and features at a faster pace
   -  The world keeps changing, but the ability to build will always be of value
-- Connection to the business side, in order to be able to discuss trade-offs and offer the best value for the least amount of development time`}
+- Connection to the business side, in order to be able to discuss trade-offs and offer the best value for the least amount of development time 
+- A workplace that allows me to continue optimizing my work process and find news ways of building products (sometimes it doesn't even involve developing software).`}
   </ReactMarkdown>
   </>
 }

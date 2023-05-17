@@ -1,4 +1,7 @@
-- torchvision
+- pytorch
+  - torchvision
+  - Pytorch Image Models (timm)
+    - https://github.com/rwightman/pytorch-image-models
 - resnet
 - YOLO
   - object detection
@@ -9,6 +12,9 @@
 - https://ultralytics.com/
   - #imagerecognition
   - https://github.com/ultralytics/ultralytics
+- levit
+- convnext
+
 
 ## Embeddings
 
