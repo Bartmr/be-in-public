@@ -139,7 +139,11 @@ mkdir -p ~/automation-stuff
 touch ~/automation-stuff/.nomedia
 
 mkdir -p ~/my-apps
+mkdir -p ~/my-apps/bin
 touch ~/my-apps/.nomedia
+
+echo "
+export PATH=\$PATH:/home/$(whoami)/my-apps/bin" >> .bashrc
 
 # Open terminal as child process in sudoed nautilus
 
