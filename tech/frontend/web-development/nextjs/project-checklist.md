@@ -19,8 +19,18 @@
 - Set vscode `settings.json` to
   - autosort and remove unused imports when saving a file
   - automatically prettify when saving a file
+  -
+    ```json
+    {
+      "editor.formatOnSave": true,
+      "editor.codeActionsOnSave": {
+				"source.organizeImports": true
+			},
+    }
+    ```
 - Move typechecking and linting from the build process to a separate npm command
   - If using Supabase, don't forget to call `supabase db lint --level error` to lint your Postgres code
+  - Validate Prisma schema file by calling `prisma validate`
   - call that npm command during precommit
 - In Supabase config, set
   ```

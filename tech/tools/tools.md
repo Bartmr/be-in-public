@@ -1210,6 +1210,10 @@ TanStack Table
   - Modal lets you run or deploy machine learning models, massively parallel compute jobs, task queues, web apps, and much more, without your own infrastructure.
   - #infrastructure 
 - n8n
+- Github
+  - Scheduled Events
+    - https://docs.github.com/en/actions/reference/events-that-trigger-workflows#scheduled-events
+    - Can call a API with `curl` in order to start a cron hob
 
 ## Chatbots and Voice Assistants
  
@@ -5480,6 +5484,9 @@ TanStack Table
 - https://www.browserstack.com/
 - https://www.rainforestqa.com/
 - Cypress
+  - Cypress Chrome Recorder
+    - https://chrome.google.com/webstore/detail/cypress-chrome-recorder/fellcphjglholofndfmmjmheedhomgin
+    - https://github.com/cypress-io/cypress-chrome-recorder
 - Playwright
 - Telerik
 - https://bugbug.io/
@@ -5523,6 +5530,11 @@ TanStack Table
 - https://www.qawolf.com/
 - https://www.functionize.com/
 - https://www.mabl.com/
+- Detox
+  - #mobile
+  - https://wix.github.io/Detox/
+  - https://github.com/wix/Detox
+
 
 ### Backend
 
