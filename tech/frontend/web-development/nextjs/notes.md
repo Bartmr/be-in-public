@@ -7,18 +7,31 @@ find .next/static -name "*.map" -type f -delete
 ## Validation && Authentication
 
 ```typescript
-export default withAuthentication(
-  (authContext) => withValidation(
-    {
-      params: z.object({}),
-      query: z.object({}),
-      body: z.object({}),
-    },
-    ({ params, query, body }) => {
-      // Implementation
+export default  function handler(
+  req: NextApiRequest,
+  res: NextApiResponse<Data>
+) {
+  withAuthentication(
+    req,
+    res,
+    (authContext) => {
+      withValidation(
+        req,
+        res
+        {
+          params: z.object({}),
+          query: z.object({}),
+          body: z.object({}),
+        },
+        ({ params, query, body }) => {
+          res.status(200).json({ name: 'John Doe' })
+        }
+      )
     }
   )
-)
+}
+
+
 ```
 ```typescript
 type AuthContext = { user: User }
