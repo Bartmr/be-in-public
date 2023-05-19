@@ -20,3 +20,5 @@
 - Manning
 - https://github.com/JushBJJ/Mr.-Ranedeer-AI-Tutor
 - Search for `<tech> roadmap`
+- Search for cheat sheet or cheat lists
+- search for infographics

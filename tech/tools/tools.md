@@ -113,6 +113,7 @@
   - Firebase
 - https://super.ai/
   - https://super.ai/store
+- https://github.com/igorbarinov/awesome-data-engineering
 
 #### NLP / Vector / Embeddings Search
 

@@ -80,3 +80,5 @@
 
 - Everything that is worth chasing cannot be conceived in your head because you never experienced it or thought about it. Growth is about making the unconceivable conceivable in your mind. Worry will not allow you to make the unconceivable to you conceivable, since it drives you to sticking to what you only feel it's conceivable.
 
+- Everything is an opportunity 
+
