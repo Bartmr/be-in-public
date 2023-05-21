@@ -167,6 +167,13 @@ gsettings set org.gnome.desktop.a11y always-show-universal-access-status true
 # sudo dpkg -i google-chrome-stable_current_amd64.deb
 # rm google-chrome-stable_current_amd64.deb
 
+# Install Microsoft Edge
+
+wget -q https://packages.microsoft.com/keys/microsoft.asc -O- | sudo apt-key add -
+sudo add-apt-repository "deb [arch=amd64] https://packages.microsoft.com/repos/edge stable main"
+
+sudo apt update && sudo apt install microsoft-edge-stable
+
 # Install Github CLI
 
 # curl -fsSL https://cli.github.com/packages/githubcli-archive-keyring.gpg | sudo dd of=/usr/share/keyrings/githubcli-archive-keyring.gpg \

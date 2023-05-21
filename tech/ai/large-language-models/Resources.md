@@ -30,6 +30,8 @@
 ## Tools
 
 - https://github.com/dair-ai/Prompt-Engineering-Guide/blob/main/pages/tools.en.mdx
+- https://poe.com/
+  - try many language models in a single website
 
 ## Prompt Engineering
 

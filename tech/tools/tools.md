@@ -5646,6 +5646,16 @@ TanStack Table
 - [Realm](#realm)
 - https://getstream.io/
 - https://mesibo.com
+- https://pusher.com/
+- From <https://vercel.com/guides/publish-and-subscribe-to-realtime-data-on-vercel>
+  - [Ably](https://ably.com/)
+  - [Convex](http://convex.dev/)
+  - [Pusher](https://vercel.com/guides/deploying-pusher-channels-with-vercel)
+  - [PubNub](https://www.pubnub.com/)
+  - [Firebase Realtime Database](https://firebase.google.com/docs/database)
+  - [TalkJS](https://talkjs.com/)
+  - [SendBird](https://sendbird.com/)
+  - [Supabase](https://supabase.com/realtime)
 
 ## Observability
 
