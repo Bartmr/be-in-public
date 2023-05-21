@@ -2834,6 +2834,8 @@ TanStack Table
 - [Hipclip](#hipclip)
 - https://www.voxymore.com/
 - [Descript](#descript)
+- https://github.com/SevaSk/ecoute
+  - live transcription
 
 ### Mobile Apps
 
