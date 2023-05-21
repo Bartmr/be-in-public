@@ -1,0 +1,3 @@
+- Wardley Maps
+- ILC Model (Innovation – Leverage – Commoditise)
+  - https://blog.gardeviance.org/2013/01/ecosystems.html?m=1

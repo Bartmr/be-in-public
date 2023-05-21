@@ -1,0 +1,1 @@
+- https://newsletter.pragmaticengineer.com/p/developer-productivity-a-new-framework 
