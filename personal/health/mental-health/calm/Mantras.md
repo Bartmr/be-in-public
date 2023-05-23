@@ -42,6 +42,9 @@
 
 - Bad habits creep in as if nothing changed. Be wary of that.
   - rumination for example, makes you think that the current scenario is different from the past ones, and that you definitely need to worry now
+    - it makes you feel like the situation is obvious and that there is danger that needs to be dealt with or thought about
+    - it might feel that anything or having any security is impossible without dealing or thinking about something first
+    - it makes you feel that it's the only thing in the world and it must be dealt with
   - sometimes you feel compelled by yourself to act according to your toxic habit, or else it doesn't feel "right". again, brain is a meatball hooked on patterns and habits.
 
 - Opportunities of growth can only be seized in the present. 
@@ -86,3 +89,4 @@
 
 - Everyday is a completely new day from scratch
 
+- Growth is shattering what you considerer or felt as obvious

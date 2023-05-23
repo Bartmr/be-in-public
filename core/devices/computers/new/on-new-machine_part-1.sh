@@ -68,11 +68,16 @@ pip install --user pipenv
 
 # https://github.com/nodesource/distributions
 
-curl -fsSL https://deb.nodesource.com/setup_18.x | sudo -E bash - &&\
-sudo apt-get install -y nodejs
+# curl -fsSL https://deb.nodesource.com/setup_18.x | sudo -E bash - &&\
+# sudo apt-get install -y nodejs
 
-echo "export NPM_CONFIG_PREFIX=/home/$(whoami)/.npm-global
-export PATH=\"${PATH}:/home/$(whoami)/.npm-global/bin\"" >> "/home/$(whoami)/.bashrc"
+# echo "export NPM_CONFIG_PREFIX=/home/$(whoami)/.npm-global
+# export PATH=\"${PATH}:/home/$(whoami)/.npm-global/bin\"" >> "/home/$(whoami)/.bashrc"
+
+curl -o- https://raw.githubusercontent.com/nvm-sh/nvm/v0.39.3/install.sh | bash
+source ~/.bashrc
+nvm install 16
+nvm use 16
 
 # Java
 
@@ -109,6 +114,8 @@ code --install-extension Prisma.prisma
 code --install-extension ms-python.python
 code --install-extension esbenp.prettier-vscode
 code --install-extension dbaeumer.vscode-eslint
+code --install-extension eamodio.gitlens
+# code --install-extension donjayamanne.githistory
 
 mkdir -p ~/.config/Code/User/settings.json
 cat vscode-settings.json > "$HOME/.config/Code/User/settings.json"
