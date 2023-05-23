@@ -82,3 +82,7 @@
 
 - Everything is an opportunity 
 
+- Be part of the solution, not the problem
+
+- Everyday is a completely new day from scratch
+
