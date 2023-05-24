@@ -7,7 +7,7 @@ cd "$this_dir"
 
 # IMPORTANT REPOS
 
-source ./variables.sh
+source ./variables.mobile.sh
 
 #
 #

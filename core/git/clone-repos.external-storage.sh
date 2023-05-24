@@ -4,7 +4,7 @@ set -euo pipefail
 
 # IMPORTANT REPOS
 
-source ../variables.sh
+source ./variables.sh
 
 #
 #

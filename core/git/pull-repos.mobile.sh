@@ -27,7 +27,7 @@ reset_colors="\0033[0m"
 #
 #
 
-source ./variables.sh
+source ./variables.mobile.sh
 
 #
 #

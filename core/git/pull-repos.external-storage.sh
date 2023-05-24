@@ -36,7 +36,7 @@ fi
 #
 #
 
-source ../variables.sh
+source ./variables.sh
 
 #
 #

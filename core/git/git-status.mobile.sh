@@ -17,7 +17,7 @@ trap 'catch_error $LINENO' ERR
 this_dir=$(dirname "$(realpath $0)")
 cd "$this_dir"
 
-source ./variables.sh
+source ./variables.mobile.sh
 
 # https://en.wikipedia.org/wiki/ANSI_escape_code#3-bit_and_4-bit
 highlight_colors="\0033[1;30;47m"
