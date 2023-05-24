@@ -1,0 +1,13 @@
+- Create a file named `tokens.ignore.json` and open a JSON object
+- Add the following properties
+  - `github_token`
+    - token name: be-in-public_core_git
+    - access to all repositories
+    - repository permissions:
+      - Administration: read-only
+  - `super_github_token`
+    - **WARNING: remove after using it**
+    - token name: be-in-public_core_git_super
+    - access to all repositories
+    - repository permissions:
+      - Administration: read and write

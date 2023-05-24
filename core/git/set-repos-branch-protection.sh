@@ -22,7 +22,7 @@ fi
 #
 
 source ./variables.sh
-source ./tokens.ignore.sh
+super_github_token=$(cat tokens.ignore.json | jq -r '.super_github_token')
 
 #
 #
