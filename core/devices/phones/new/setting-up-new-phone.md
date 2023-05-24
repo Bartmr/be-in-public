@@ -34,7 +34,7 @@
     - `pkg install --no-install-recommends python`
     - `pkg install --no-install-recommends python-pip`
     - `bash be-in-public/scripts/install-dependencies.mobile.sh`
-    - `bash be-in-public/core/git/mobile/clone-repos.sh`
+    - `bash be-in-public/core/git/clone-repos.mobile.sh`
 - Install Obsidian
   - Open as vaults
     - my-notes
