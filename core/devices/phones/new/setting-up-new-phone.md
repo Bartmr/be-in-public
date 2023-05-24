@@ -31,8 +31,8 @@
     - `cd ~/storage/shared/Documents/repositories`
     - `git clone "git@github.com:Bartmr/my-notes.git"`
     - `git clone "git@github.com:Bartmr/be-in-public.git"`
-    - `pkg install python`
-    - `pkg install python-pip`
+    - `pkg install --no-install-recommends python`
+    - `pkg install --no-install-recommends python-pip`
     - `bash be-in-public/scripts/mobile/install-dependencies.sh`
     - `bash be-in-public/core/git/mobile/clone-repos.sh`
 - Install Obsidian
