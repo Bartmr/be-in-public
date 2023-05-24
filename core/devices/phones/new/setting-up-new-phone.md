@@ -33,7 +33,7 @@
     - `git clone "git@github.com:Bartmr/be-in-public.git"`
     - `pkg install --no-install-recommends python`
     - `pkg install --no-install-recommends python-pip`
-    - `bash be-in-public/scripts/mobile/install-dependencies.mobile.sh`
+    - `bash be-in-public/scripts/install-dependencies.mobile.sh`
     - `bash be-in-public/core/git/mobile/clone-repos.sh`
 - Install Obsidian
   - Open as vaults
