@@ -10,7 +10,7 @@ cd "$project_dir"
 
 #
 
-pkg install parallel jq
+pkg install -y parallel jq
 echo "will cite" | parallel --citation
 
 pip install -r requirements.mobile.txt
