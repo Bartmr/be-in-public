@@ -23,7 +23,7 @@ def git_fsck(important_repo: ImportantRepo):
     important_repo_name=important_repo_name
   )
 
-  args='git fsck --progress --no-dangling'
+  args='git fsck --no-dangling'
 
   result: subprocess.CompletedProcess[bytes]  = subprocess.run(
     cwd=cwd, 
@@ -32,10 +32,8 @@ def git_fsck(important_repo: ImportantRepo):
     capture_output=True
     )
 
-  print(f'''{important_repo_name}
-{result.stdout.decode("utf-8")}
-{result.stderr.decode("utf-8")}
-''')
+  print(f'''-- {important_repo_name} --
+{result.stdout.decode("utf-8")}{result.stderr.decode("utf-8")}''')
   
   if(result.returncode != 0):
     raise Exception();
