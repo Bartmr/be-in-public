@@ -27,15 +27,6 @@ reset_colors="\0033[0m"
 #
 #
 
-if ! [ -x "$(command -v parallel)" ]; then
-  # Install the executable
-  sudo apt-get update
-  sudo apt-get install parallel
-fi
-
-#
-#
-
 source ./variables.sh
 
 #

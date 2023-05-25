@@ -13,14 +13,6 @@ reset_colors="\0033[0m"
 
 #
 
-if ! [ -x "$(command -v curl)" ]; then
-  # Install the executable
-  sudo apt-get update
-  sudo apt-get install curl
-fi
-
-#
-
 source ./variables.sh
 super_github_token=$(cat tokens.ignore.json | jq -r '.super_github_token')
 

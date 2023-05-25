@@ -10,8 +10,7 @@ cd "$project_dir"
 
 #
 
-apt-get update
-apt-get install parallel
+pkg install parallel jq
 echo "will cite" | parallel --citation
 
 pip install -r requirements.mobile.txt

@@ -10,6 +10,8 @@ cd "$project_dir"
 
 #
 
+sudo apt install -y parallel jq curl
+
 pip install -r requirements.txt
 
 ../my-notes/scripts/install-dependencies.sh

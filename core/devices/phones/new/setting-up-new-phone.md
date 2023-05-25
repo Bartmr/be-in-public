@@ -8,9 +8,10 @@
 - Install Termux from F-Droid
   - https://f-droid.org/en/packages/com.termux
   - setup Git in Termux
-    - `apt update`
-    - `apt upgrade -y -o Dpkg::Options::="--force-confold"`
-    - `apt install -y -o Dpkg::Options::="--force-confold" git openssh`
+    - `pkg upgrade`
+    - ~~`apt upgrade -y -o Dpkg::Options::="--force-confold"`~~
+    - `pkg install git openssh nano`
+    - ~~`apt install -y -o Dpkg::Options::="--force-confold" git openssh`~~
     - `termux-setup-storage`
     - `mkdir -p ~/storage/shared/Documents/repositories`
     - `touch ~/storage/shared/Documents/repositories/.nomedia`
@@ -23,16 +24,19 @@
       cd ~/storage/shared/Documents/repositories" >> ~/.bashrc
       ```
     - `ssh-keygen -t ed25519 -C "pbartmr@gmail.com"`
-    - `git config --global user.email "pbartmr@gmail.com"`
-    - `git config --global user.name "Bartolomeu Rodrigues"`
-    - `git config --global pager.diff false`
-    - `git config --global --add safe.directory '*'`
-    - `git config --global pull.rebase false`
+    - `cat /data/data/com.termux/files/home/.ssh/id_ed25519.pub`
+    - 
+      ```bash
+      git config --global user.email "pbartmr@gmail.com"
+      git config --global user.name "Bartolomeu Rodrigues"
+      git config --global pager.diff false
+      git config --global --add safe.directory '*'
+      git config --global pull.rebase false
+      ```
     - `cd ~/storage/shared/Documents/repositories`
     - `git clone "git@github.com:Bartmr/my-notes.git"`
     - `git clone "git@github.com:Bartmr/be-in-public.git"`
-    - `pkg install --no-install-recommends python`
-    - `pkg install --no-install-recommends python-pip`
+    - `pkg install --no-install-recommends python python-pip`
     - `bash be-in-public/scripts/install-dependencies.mobile.sh`
     - `bash be-in-public/core/git/clone-repos.mobile.sh`
 - Install Obsidian

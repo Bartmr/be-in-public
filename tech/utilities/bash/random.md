@@ -144,6 +144,15 @@ The difference is that the first one is all checked by one instance of the test 
     fi
     ```
 
+### Check if executable exists
+
+```bash
+if ! [ -x "$(command -v jq)" ]; then
+  # Install the executable
+  apt-get update
+  apt-get install jq
+fi
+```
 
 ## Data types
 

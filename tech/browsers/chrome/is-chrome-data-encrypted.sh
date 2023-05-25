@@ -15,12 +15,6 @@ if ! [ -x "$(command -v sqlite3)" ]; then
   sudo apt-get install sqlite3
 fi
 
-if ! [ -x "$(command -v jq)" ]; then
-  # Install the executable
-  sudo apt-get update
-  sudo apt-get install jq
-fi
-
 #
 
 if [ -d "$HOME/.config/google-chrome/Default" ]

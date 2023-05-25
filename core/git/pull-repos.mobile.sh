@@ -32,15 +32,6 @@ source ./variables.mobile.sh
 #
 #
 
-if ! [ -x "$(command -v parallel)" ]; then
-  # Install the executable
-  apt-get update
-  apt-get install -y parallel
-fi
-
-#
-#
-
 parallel_args=()
 
 for repo in "${important_repos[@]}"
