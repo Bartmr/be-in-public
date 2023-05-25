@@ -11,7 +11,7 @@
     - `pkg upgrade`
     - ~~`apt upgrade -y -o Dpkg::Options::="--force-confold"`~~
     - `pkg install git openssh nano`
-    - ~~`apt install -y -o Dpkg::Options::="--force-confold" git openssh`~~
+    - ~~`apt install -y -o Dpkg::Options::="--force-confold" git openssh nano`~~
     - `termux-setup-storage`
     - `mkdir -p ~/storage/shared/Documents/repositories`
     - `touch ~/storage/shared/Documents/repositories/.nomedia`
