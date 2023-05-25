@@ -10,6 +10,10 @@ cd "$project_dir"
 
 #
 
+sudo apt-get update
+sudo apt-get install parallel
+echo "will cite" | parallel --citation
+
 pip install -r requirements.mobile.txt
 
 ../my-notes/scripts/install-dependencies.mobile.sh
