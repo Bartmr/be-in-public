@@ -1,10 +1,8 @@
 import subprocess
 from typing import Any, List, Optional, TypedDict
-import requests
 from concurrent.futures import ThreadPoolExecutor
 import os
 import json
-from difflib import Differ, ndiff
 
 class ImportantRepo(TypedDict):
   name: str
