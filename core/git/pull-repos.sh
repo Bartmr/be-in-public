@@ -65,4 +65,5 @@ printf '%s\n' "${parallel_args[@]}" | parallel --jobs 2 --halt soon,fail=1 --kee
 echo ""
 echo ""
 echo -e "${info_colors}PULLED REPOS THAT YOU USE DAILY${reset_colors}"
-echo -e "${success_colors}MAIN BRANCHES FROM REPOS WERE PULLED SUCCESSFULLY${reset_colors}"
+echo -e "${success_colors}MAIN BRANCHES FROM REPOS WERE PULLED SUCCESSFULLY${reset_colors}
+"
