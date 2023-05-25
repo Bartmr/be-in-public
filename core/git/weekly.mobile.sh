@@ -6,6 +6,6 @@ cd "$this_dir"
 
 set -x
 
-./pull-repos.mobile.sh
-./clone-repos.mobile.sh
+bash ./pull-repos.mobile.sh
+bash ./clone-repos.mobile.sh
 python3 ./git-fsck.mobile.py
