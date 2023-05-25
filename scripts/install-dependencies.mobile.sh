@@ -10,8 +10,8 @@ cd "$project_dir"
 
 #
 
-sudo apt-get update
-sudo apt-get install parallel
+apt-get update
+apt-get install parallel
 echo "will cite" | parallel --citation
 
 pip install -r requirements.mobile.txt
