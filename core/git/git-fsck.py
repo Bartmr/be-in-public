@@ -20,18 +20,24 @@ def git_fsck(important_repo: ImportantRepo):
 
   cwd=f'/home/bartmr/Documents/repositories/{important_repo_name}'
 
-  args='git fsck --no-dangling'
+  args='git fsck --progress --no-dangling'
 
-  try:
-    subprocess.run(
-     cwd=cwd,
-     args=args,
-     shell=True,
-     check=True
+  result: subprocess.CompletedProcess[bytes]  = subprocess.run(
+    cwd=cwd, 
+    args=args,
+    shell=True,
+    capture_output=True
     )
-  except Exception as error:
-    print(important_repo_name)
-    print(error)
+
+  print(f'''{important_repo_name}
+{result.stdout.decode("utf-8")}
+{result.stderr.decode("utf-8")}
+''')
+  
+  if(result.returncode != 0):
+    print('!!! Error !!!')
+    raise Exception;
+
 
 with ThreadPoolExecutor(max_workers=2) as executor:
     visibilities = executor.map(git_fsck, important_repos)
