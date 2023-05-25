@@ -15,7 +15,6 @@
     - `termux-setup-storage`
     - `mkdir -p ~/storage/shared/Documents/repositories`
     - `touch ~/storage/shared/Documents/repositories/.nomedia`
-    - `pkg install nano`
     - 
       ```bash
       echo "
