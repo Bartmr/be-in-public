@@ -1,6 +1,6 @@
 import subprocess
 from typing import Any, List, Optional, TypedDict
-from concurrent.futures import ThreadPoolExecutor
+from concurrent.futures import Future, ThreadPoolExecutor
 import os
 import json
 
@@ -33,9 +33,15 @@ def git_fsck(important_repo: ImportantRepo):
 ''')
   
   if(result.returncode != 0):
-    print('!!! Error !!!')
-    raise Exception;
+    raise Exception();
 
 
 with ThreadPoolExecutor(max_workers=2) as executor:
-    visibilities = executor.map(git_fsck, important_repos)
+  futures: List[Future[Any]] = []
+
+  for important_repo in important_repos:
+    futures.append(executor.submit(git_fsck, important_repo))
+  
+  for future in futures:
+    future.result()
+  
