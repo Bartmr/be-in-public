@@ -9,8 +9,8 @@
   - https://f-droid.org/en/packages/com.termux
   - setup Git in Termux
     - `apt update`
-    - `apt upgrade -y -o Dpkg::Options::="--force-confold"`
-    - `apt install -y -o Dpkg::Options::="--force-confold" git openssh`
+    - `apt upgrade -y -o Dpkg::Options::="--force-confnew"`
+    - `apt install -y -o Dpkg::Options::="--force-confnew" git openssh`
     - `termux-setup-storage`
     - `mkdir -p ~/storage/shared/Documents/repositories`
     - `touch ~/storage/shared/Documents/repositories/.nomedia`

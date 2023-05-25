@@ -1,6 +1,6 @@
 ## How can I ignore file conflict warnings in apt?
 
-- Replace with new files `apt install -y -o Dpkg::Options::="--force-confdef"`
+- Replace with new files `apt install -y -o Dpkg::Options::="--force-confnew"`
 - Keep old files `apt install -y -o Dpkg::Options::="--force-confold"`
 
 ## Install file using apt
