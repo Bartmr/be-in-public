@@ -8,4 +8,4 @@ set -x
 
 bash ./pull-repos.mobile.sh
 bash ./clone-repos.mobile.sh
-python3 ./git-fsck.mobile.py
+# python3 ./git-fsck.mobile.py

@@ -8,4 +8,4 @@ set -x
 
 ./pull-repos.external-storage.sh
 ./clone-repos.external-storage.sh
-python3 ./git-fsck.external-storage.py
+# python3 ./git-fsck.external-storage.py

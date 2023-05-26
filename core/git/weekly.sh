@@ -8,4 +8,4 @@ set -x
 
 ./pull-repos.sh
 ./clone-repos.sh
-python3 ./git-fsck.py
+# python3 ./git-fsck.py
