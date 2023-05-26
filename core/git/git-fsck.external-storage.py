@@ -18,16 +18,13 @@ def git_fsck(important_repo: ImportantRepo):
 
   username=os.environ['USERNAME']
 
-  cwd='/media/{username}/backups/{important_repo_name}'.format(
-    username=username,
-    important_repo_name=important_repo_name
-  )
-
-  args='git fsck --no-dangling'
-
   result: subprocess.CompletedProcess[bytes]  = subprocess.run(
-    cwd=cwd, 
-    args=args,
+    executable="/bin/bash",
+    cwd='/media/{username}/backups/{important_repo_name}'.format(
+      username=username,
+      important_repo_name=important_repo_name
+    ), 
+    args='git fsck --no-dangling 2>&1',
     shell=True,
     capture_output=True
     )

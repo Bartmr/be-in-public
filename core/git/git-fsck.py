@@ -16,19 +16,16 @@ with open('{home}/Documents/repositories/my-notes/core/git/important-repos.json'
 def git_fsck(important_repo: ImportantRepo):
   important_repo_name=important_repo['name']
 
-  cwd=f'/home/bartmr/Documents/repositories/{important_repo_name}'
-
-  args='git fsck --no-dangling'
-
   result: subprocess.CompletedProcess[bytes]  = subprocess.run(
-    cwd=cwd, 
-    args=args,
+    executable="/bin/bash",
+    cwd=f'/home/bartmr/Documents/repositories/{important_repo_name}', 
+    args='git fsck --no-dangling 2>&1',
     shell=True,
     capture_output=True
     )
 
   print(f'''-- {important_repo_name} --
-{result.stdout.decode("utf-8")}{result.stderr.decode("utf-8")}''')
+{result.stdout.decode("utf-8")}''')
   
   if(result.returncode != 0):
     raise Exception();
