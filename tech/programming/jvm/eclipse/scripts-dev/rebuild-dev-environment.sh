@@ -1,4 +1,4 @@
-#!/usr/bin/env bash
+#!/bin/bash
 
 this_dir=$(dirname "$(realpath $0)")
 project_dir=$(dirname "$this_dir")
