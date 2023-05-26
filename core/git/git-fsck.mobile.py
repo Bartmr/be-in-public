@@ -25,7 +25,7 @@ def git_fsck(important_repo: ImportantRepo):
     )
 
   print(f'''-- {important_repo_name} --
-{result.stdout.decode("utf-8")}{result.stderr.decode("utf-8")}''')
+{result.stdout.decode("utf-8")}''')
   
   if(result.returncode != 0):
     raise Exception();
