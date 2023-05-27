@@ -100,7 +100,14 @@ The difference is that the first one is all checked by one instance of the test 
       var=$(( a < b ? a : b ))
       ```
 - `( )`
-  - Group commands and run them in a subshell
+  - Group commands and run them in a subshell (new process)
+  - You can declare bash functions with `()` that run in a new process
+    - 
+      ```bash
+      run() (
+        do_something
+      )
+      ```
 - `{ }`
   - Group commands and run them in the same shell, and return result
   - can be used as something that aggregates results in a single point that can then be operated. Similar to `(something && somethingElse)` in most programming languages.
