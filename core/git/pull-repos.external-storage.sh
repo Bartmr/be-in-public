@@ -42,9 +42,9 @@ do
   then
     # Ask for Git credentials first if SSH key is locked
 
-    ../_pull-repos/pull-from-branch.sh "${external_storage_important_repos_dir}/${repo}" main
+    ./_pull-repos/pull-from-branch.sh "${external_storage_important_repos_dir}/${repo}" main
   else
-    parallel_args+=("../_pull-repos/pull-from-branch.sh ${external_storage_important_repos_dir}/${repo} main")
+    parallel_args+=("./_pull-repos/pull-from-branch.sh ${external_storage_important_repos_dir}/${repo} main")
   fi
 done
 
