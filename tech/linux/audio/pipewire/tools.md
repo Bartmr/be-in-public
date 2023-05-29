@@ -1,0 +1,2 @@
+- https://github.com/wwmm/easyeffects
+  - Limiter, compressor, convolver, equalizer and auto volume and many other plugins for PipeWire applications 
