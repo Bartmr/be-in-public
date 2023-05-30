@@ -1,37 +1,45 @@
-## To explore
-
 - https://github.com/sw-yx/ai-notes
 - https://github.com/microsoft/DeepSpeed/blob/master/blogs/deepspeed-chat/README.md
 - https://github.com/mlc-ai/web-llm
   - Bringing large-language models and chat to web browsers. Everything runs inside the browser with no server support. 
   - #webgpu
 
-### BERT
+## BERT
 - https://arxiv.org/abs/2304.00958 
 
-### Alpaca
+## Alpaca
 - https://crfm.stanford.edu/2023/03/13/alpaca.html
 - https://github.com/tatsu-lab/stanford_alpaca
 
-### LLaMa
+## LLaMa
 
-### GPT-J
+## Vicuna
 
-### PaLM (Pathways Language Model)
+## GPT-J
 
-### Microsoft Semantic Kernel
+## NanoGPT
 
-### ControlNet
+## StableML
 
-### LangChain
+## PaLM (Pathways Language Model)
 
-### Lhama index
+## Microsoft Semantic Kernel
+
+## ControlNet
+
+## LangChain
+
+## Lhama index
 
 ## Tools
 
 - https://github.com/dair-ai/Prompt-Engineering-Guide/blob/main/pages/tools.en.mdx
 - https://poe.com/
   - try many language models in a single website
+- https://github.com/Lightning-AI 
+  - Lightning AI is the first operating system for AI. Build state-of-the art models and use them inside Lightning Apps (end-to-end ML systems).
+- https://github.com/r2d4/rellm 
+  - Get structured data out of LLMs
 
 ## Prompt Engineering
 

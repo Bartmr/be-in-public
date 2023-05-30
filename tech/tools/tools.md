@@ -2391,6 +2391,8 @@ TanStack Table
     - Quickly Label Training Data and Export To Any Format
 - https://www.v7labs.com/
   - #imagerecognition
+- https://flyte.org/
+  - https://github.com/flyteorg/flyte
 
 ### NLP / Vector / Embeddings Search
 
@@ -2418,6 +2420,7 @@ TanStack Table
   - https://github.com/chroma-core/chroma
 - Milvus
   - https://github.com/milvus-io/milvus 
+- FAISS
 
 ### Synthetic Data / Seeding
 

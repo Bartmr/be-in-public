@@ -1,2 +1,3 @@
 - https://pessimistsarchive.org/list/computer/clippings
 - Tristan Harris
+- https://pointersgonewild.com/2023/05/29/software-bugs-that-cause-real-world-harm/
