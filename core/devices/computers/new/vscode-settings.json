@@ -18,5 +18,6 @@
     "muuvmuuv.vscode-sundial"
   ],
   "python.linting.mypyEnabled": true,
-  "python.analysis.autoImportCompletions": true
+  "python.analysis.autoImportCompletions": true,
+  "terminal.integrated.scrollback": 10000
 }

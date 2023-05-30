@@ -37,3 +37,9 @@
 - https://www.youtube.com/@discoclassic9143/videos
 - ZYX Italo Disco
   - https://www.youtube.com/@ZYXItalo
+
+## Relaxing
+
+### Vaporwave / Musak
+
+- https://www.youtube.com/@UberBot3000/videos

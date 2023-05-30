@@ -1,5 +1,6 @@
 ## Links
 
+- `man bash`
 - https://vaneyckt.io/posts/safer_bash_scripts_with_set_euxo_pipefail/
 - https://www.gnu.org/software/bash/manual/html_node/Special-Parameters.html
 - http://mywiki.wooledge.org/BashPitfalls
@@ -80,12 +81,12 @@ The difference is that the first one is all checked by one instance of the test 
       - `test` arguments like `-gt`
       - use `\>` so the symbol becomes escaped and passed as an argument to `test`
 - `[[ ]]`
-  - **operators do different things in here**
+  - **bash operators do different things in here**
   - new Bash standard
   - used to match string patterns and Regexes
   - supports comparisson signals like `>`. they do not behave like bash operators
 - `(( ))`
-  - **operators do different things in here**
+  - **bash operators do different things in here**
   - since bash operators are for string handling (`2 + 3` will be `"23"` and `>` will forward the string output of a command), you can do arithmetic operations using `(())`, which will change the meaning of some bash operators to math operators.
     - To assign an arithetic operation operation to a variable
       ```bash
@@ -100,7 +101,14 @@ The difference is that the first one is all checked by one instance of the test 
       var=$(( a < b ? a : b ))
       ```
 - `( )`
-  - Group commands and run them in a subshell
+  - Group commands and run them in a subshell (new process)
+  - You can declare bash functions with `()` that run in a new process
+    - 
+      ```bash
+      run() (
+        do_something
+      )
+      ```
 - `{ }`
   - Group commands and run them in the same shell, and return result
   - can be used as something that aggregates results in a single point that can then be operated. Similar to `(something && somethingElse)` in most programming languages.
@@ -112,6 +120,12 @@ The difference is that the first one is all checked by one instance of the test 
 
 - See [Wrapper operators](#wrapper-operators)
 - Conditions evaluate the exit status of the command (be it `test` or any other). 0 exit code is true, 1 is false.
+  ```bash
+  if process_returning_zero
+  then
+    echo "Hello"
+  fi
+  ```
 - `!` inverts the boolean result of an exit code
 - Aggregate conditions
   ```bash
