@@ -1,6 +1,7 @@
 - LangChain
 - AutoGPT
   - https://github.com/Significant-Gravitas/Auto-GPT
+  - https://docs.agpt.co/
   - Playground
     - https://agentgpt.reworkd.ai/
       - https://github.com/reworkd/AgentGPT
