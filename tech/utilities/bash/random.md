@@ -202,3 +202,16 @@ fi
 ## Keywords
 
 - command substitution
+
+## Background jobs
+
+### Detach command from shell process
+
+`nohup <command>`
+
+### Run command in background
+
+- `<command> &`
+#### Wait for all commands running in background
+
+- `wait`

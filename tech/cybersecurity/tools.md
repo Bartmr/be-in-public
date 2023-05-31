@@ -175,6 +175,9 @@
 - https://start.me/p/DPYPMz/the-ultimate-osint-collection
 - Twitter Advanced Search
   - https://twitter.com/search-advanced?lang=en
+- https://reddit-user-analyser.netlify.app/#bartmr
+- https://redditmetis.com/user/Bartmr
+- https://redditcommentsearch.com/
 
 ### Telegram OSINT
 

@@ -7,6 +7,8 @@
 ## BERT
 - https://arxiv.org/abs/2304.00958 
 
+## Anthropic Claude
+
 ## Alpaca
 - https://crfm.stanford.edu/2023/03/13/alpaca.html
 - https://github.com/tatsu-lab/stanford_alpaca
@@ -46,11 +48,13 @@
 - https://github.com/dair-ai/Prompt-Engineering-Guide
   - https://www.promptingguide.ai/
   - https://youtu.be/dOxUroR57xs
+- Chain-of-though prompting
 
 ## Approaches
 
 - https://medium.com/@imicknl/how-to-create-a-private-chatgpt-with-your-own-data-15754e6378a1
 - https://github.com/Azure-Samples/azure-search-openai-demo/tree/main/app/backend/approaches 
+- https://github.com/FranxYao/chain-of-thought-hub
 
 ## Datasets
 

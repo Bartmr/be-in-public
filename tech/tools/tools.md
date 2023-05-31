@@ -700,6 +700,8 @@ TanStack Table
 -   [state-designer](https://state-designer.com) - a "design phase" state management library
 - react-beautiful-dnd
 - react-draggable 
+- https://usehooks.com/
+  - https://github.com/uidotdev/usehooks
 
 #### UI Forms
 
@@ -2802,6 +2804,8 @@ TanStack Table
   - Google Search API
 - https://serpapi.com/
   - Google Search API
+- https://www.scrapingbee.com/
+  - Allows you to run custom JS while scraping a page
 
 ### PDF
 
