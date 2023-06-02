@@ -22,3 +22,7 @@
 - Search for `<tech> roadmap`
 - Search for cheat sheet or cheat lists
 - search for infographics
+- https://roadmap.sh/
+  - https://github.com/kamranahmedse/developer-roadmap
+- Ask GPT for a roadmap
+  - `Give me a 30-day roadmap for learning y.`

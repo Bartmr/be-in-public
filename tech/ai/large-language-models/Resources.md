@@ -3,6 +3,17 @@
 - https://github.com/mlc-ai/web-llm
   - Bringing large-language models and chat to web browsers. Everything runs inside the browser with no server support. 
   - #webgpu
+- https://github.com/rustformers/llm
+- models you can run on CPU
+  - https://brezular.com/2023/04/21/running-large-language-models-on-cpu/
+  - Alpaca.cpp
+    - https://github.com/antimatter15/alpaca.cpp
+  - llma.cpp
+    - https://github.com/ggerganov/llama.cpp
+  - GPT4All
+  - GPT4All-J
+- You can run these models with HuggingFaceHub, and its Langchain adapter
+- https://huggingface.co/spaces/HuggingFaceH4/open_llm_leaderboard
 
 ## BERT
 - https://arxiv.org/abs/2304.00958 
@@ -15,13 +26,22 @@
 
 ## LLaMa
 
+- https://www.reddit.com/r/LocalLLaMA
+
 ## Vicuna
 
 ## GPT-J
 
 ## NanoGPT
 
+## GPT4ALL
+
+- https://gpt4all.io/index.html 
+  - https://github.com/nomic-ai/gpt4all
+
 ## StableML
+
+## Falcon-40b
 
 ## PaLM (Pathways Language Model)
 
