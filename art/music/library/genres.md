@@ -5,6 +5,7 @@
   - 60s / 70s supermarket / mall / elevator music
 - 80s movie soundtracks
 - Disco
+- Nu-disco
 - Hi-NRG
 - Deep house
 - Deep Tech

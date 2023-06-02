@@ -1,1 +1,2 @@
 - https://github.com/Significant-Gravitas/Auto-GPT-Plugins
+- https://godmode.space/

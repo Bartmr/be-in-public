@@ -13,6 +13,7 @@
 
 - https://github.com/openai/shap-e
 - https://github.com/ashawkey/stable-dreamfusion
+- https://github.com/kedzkiest/shap-e-local
 
 ## Projects
 

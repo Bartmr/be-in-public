@@ -2161,6 +2161,7 @@ TanStack Table
 - https://github.com/impira/docquery
 - Replicate
   - https://replicate.com/
+  - #serverless
   - Cog
     - Cog is an open-source tool that lets you package machine learning models in a standard, production-ready container. You can deploy your packaged model to your own infrastructure, or to Replicate.
     - Automatic REST API and cloud storage access
@@ -2370,7 +2371,7 @@ TanStack Table
 - https://modal.com/
   - a tool that lets you write code locally and deploy it to the cloud without managing any infrastructure or config
   - Modal lets you run or deploy machine learning models, massively parallel compute jobs, task queues, web apps, and much more, without your own infrastructure.
-  - #infrastructure 
+  - #infrastructure, #serverless  
 - aimstack
   - https://github.com/aimhubio/aim
   - https://aimstack.io/ 
@@ -2395,6 +2396,10 @@ TanStack Table
   - #imagerecognition
 - https://flyte.org/
   - https://github.com/flyteorg/flyte
+- [Banana](https://www.banana.dev/)
+  - #serverless
+- [Beam](https://www.beam.cloud/)
+  - #serverless
 
 ### NLP / Vector / Embeddings Search
 
@@ -3159,6 +3164,8 @@ TanStack Table
 - https://zincsearch.com/
   - https://github.com/zinclabs/zinc
 - https://solr.apache.org/
+- Google Programmable Search Engine
+  - https://programmablesearchengine.google.com/about/
 
 ## A/B Testing
 
