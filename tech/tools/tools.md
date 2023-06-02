@@ -4075,6 +4075,8 @@ TanStack Table
   - https://mlc.ai/web-stable-diffusion/
   - https://github.com/mlc-ai/web-stable-diffusion
   - Everything runs inside the browser with no need of server support
+- https://github.com/Stability-AI/StableStudio
+- https://dreamstudio.ai/
 
 ### Image Upscalling
 

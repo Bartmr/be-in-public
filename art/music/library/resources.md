@@ -43,3 +43,7 @@
 ### Vaporwave / Musak
 
 - https://www.youtube.com/@UberBot3000/videos
+
+## Electro / Club Sounds 
+
+- Monstercat
