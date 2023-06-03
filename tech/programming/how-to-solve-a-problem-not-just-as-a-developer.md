@@ -24,7 +24,7 @@ function processPurchase() {
 }
 ```
 
-Let's start with the outer shell of the solution: what you have right now, and the outcome of it. So, you have your customer ID, and the product ID that they want to purchase. Let's set that as parameters.
+Let's start with the outer shell of the solution: what you have right now, and the outcome of it. So, you have your customer, and the product that they want to purchase. Let's set that as parameters.
 
 - Files
   - **processPurchase.js**
@@ -32,8 +32,8 @@ Let's start with the outer shell of the solution: what you have right now, and t
 function processPurchase(
   // What we have
   {
-    customerId,
-    productId
+    customer,
+    product
   }) {
 
 }
@@ -47,11 +47,61 @@ Now let's define our outcome: the transaction can either run smoothly and be com
 function processPurchase(
   // What we have
   {
-    customerId,
-    productId
+    customer,
+    product
   }) {
+  // The outcome we expect
   return 'done' // or 'failed'
 }
 ```
 
-We now have the first layer structured, let's build it's inside. What high-level steps are needed to process a purchase? Let's start by
+We now have the first layer structured, let's build it's inside. What high-level steps are needed to process a purchase? We need to get payed, and also ship a product to the customer. So let's start with those steps. 
+
+Files
+  - **processPurchase.js**
+```javascript
+function processPurchase(
+  // What we have
+  {
+    customer,
+    product
+  }) {
+  processPayment()
+  processShipping()
+  
+  // The outcome we expect
+  return 'done' // or 'failed'
+}
+```
+
+Any of these steps can fail mid-way, so it's important to handle surprises: we call this error handling. We expect a final result from this transaction: either it failed or it succeeded. Let's deal with the cases of failure
+
+Files
+  - **processPurchase.js**
+```javascript
+function processPurchase(
+  // What we have
+  {
+    customer,
+    product
+  }) {
+  const paymentResult = processPayment()
+
+  if(paymentResult === "failed") {
+    return "failed"
+  }
+  
+  const shippingResult = processShipping()
+
+    if(shippingResult === "failed") {
+    return "failed"
+  }
+  
+  // All steps were completed successfully, so:
+  return 'done'
+}
+```
+
+"Alright, this is all very simple, but I still haven't build my solution!". No, but we built a layer that made us closer to the full solution: we now know what steps we must have to accomplish the solution's objective. 
+
+What we have to do now, is apply the same principles we applied to `processPurchase`, in order to build 2 more nested solutions: the `processPayment` and `processShipment` steps. We repeat it till we finally implemented all the layers necessary to solve our problem. 
