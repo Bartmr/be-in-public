@@ -1,0 +1,230 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="640"
+   height="640"
+   viewBox="0 0 640 640"
+   version="1.1"
+   id="svg5"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <defs
+     id="defs2">
+    <rect
+       x="334.67474"
+       y="7.5378167"
+       width="246.60862"
+       height="43.309148"
+       id="rect1743" />
+    <rect
+       x="270.01204"
+       y="-150.03512"
+       width="130.10877"
+       height="62.609633"
+       id="rect1372" />
+    <rect
+       x="676.30579"
+       y="301.81564"
+       width="5443.3467"
+       height="1262.3406"
+       id="rect1366" />
+    <rect
+       x="270.01205"
+       y="-150.03513"
+       width="130.10876"
+       height="62.609634"
+       id="rect1372-3" />
+    <rect
+       x="270.01205"
+       y="-150.03513"
+       width="130.10876"
+       height="62.609634"
+       id="rect1372-3-0" />
+    <rect
+       x="270.01205"
+       y="-150.03513"
+       width="130.10876"
+       height="62.609634"
+       id="rect1372-3-0-2" />
+  </defs>
+  <g
+     id="layer1">
+    <rect
+       style="fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:9.306;stroke-dasharray:none;stroke-opacity:1"
+       id="rect2732"
+       width="640"
+       height="640"
+       x="0"
+       y="0" />
+    <circle
+       style="fill:none;stroke:#000000;stroke-width:2.02328"
+       id="path234"
+       cx="320"
+       cy="364.00211"
+       r="260.27173" />
+    <circle
+       style="fill:none;stroke:#000000;stroke-width:1.49334"
+       id="path234-5"
+       cx="320"
+       cy="364.00211"
+       r="192.10115" />
+    <circle
+       style="fill:none;stroke:#000000;stroke-width:0.931771"
+       id="path234-5-6"
+       cx="320"
+       cy="364.00211"
+       r="119.86211" />
+    <circle
+       style="fill:none;stroke:#000000;stroke-width:0.46433"
+       id="path234-5-6-7"
+       cx="320"
+       cy="364.00211"
+       r="59.731003" />
+    <text
+       xml:space="preserve"
+       style="font-size:18.6667px;fill:none;stroke:#000000;stroke-width:2.53785"
+       x="15.242772"
+       y="27.249266"
+       id="text290"><tspan
+         id="tspan288"
+         x="15.242772"
+         y="27.249266"
+         style="font-size:18.6667px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:2.53785">What we have: the input</tspan><tspan
+         x="15.242772"
+         y="50.5826"
+         id="tspan292"
+         style="font-size:18.6667px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:2.53785">What we want: the result</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:24px;fill:#0000ff;fill-opacity:1;stroke:#000000;stroke-width:2.53785"
+       x="333.09271"
+       y="89.101189"
+       id="text290-3"><tspan
+         x="333.09271"
+         y="89.101189"
+         id="tspan292-7"
+         style="font-size:24px;fill:#0000ff;fill-opacity:1;stroke:none;stroke-width:2.53785">0% of the solution</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:24px;fill:#0000ff;fill-opacity:1;stroke:#000000;stroke-width:2.53785"
+       x="340.90607"
+       y="155.58652"
+       id="text290-3-3"><tspan
+         x="340.90607"
+         y="155.58652"
+         id="tspan292-7-5"
+         style="font-size:24px;fill:#0000ff;fill-opacity:1;stroke:none;stroke-width:2.53785">25% of the solution</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:24px;fill:#0000ff;fill-opacity:1;stroke:#000000;stroke-width:2.53785"
+       x="340.85919"
+       y="231.5592"
+       id="text290-3-3-2"><tspan
+         x="340.85919"
+         y="231.5592"
+         id="tspan292-7-5-9"
+         style="font-size:24px;fill:#0000ff;fill-opacity:1;stroke:none;stroke-width:2.53785">50% of the solution</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:24px;fill:#0000ff;fill-opacity:1;stroke:#000000;stroke-width:2.53785"
+       x="340.8006"
+       y="299.90543"
+       id="text290-3-3-2-1"><tspan
+         x="340.8006"
+         y="299.90543"
+         id="tspan292-7-5-9-2"
+         style="font-size:24px;fill:#0000ff;fill-opacity:1;stroke:none;stroke-width:2.53785">75% of the solution</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:24px;fill:#0000ff;fill-opacity:1;stroke:#000000;stroke-width:2.53785"
+       x="332.83185"
+       y="374.01721"
+       id="text290-3-3-2-1-0"><tspan
+         x="332.83185"
+         y="374.01721"
+         id="tspan292-7-5-9-2-9"
+         style="font-size:24px;fill:#0000ff;fill-opacity:1;stroke:none;stroke-width:2.53785">100% of the solution</tspan></text>
+    <text
+       xml:space="preserve"
+       id="text1364"
+       style="font-size:24px;white-space:pre;shape-inside:url(#rect1366);display:inline;fill:#0000ff;fill-opacity:1;stroke:none;stroke-width:1.806" />
+    <text
+       xml:space="preserve"
+       id="text1370"
+       style="font-size:18.6667px;white-space:pre;shape-inside:url(#rect1372);display:inline;fill:#0000ff;fill-opacity:1;stroke:none;stroke-width:1.806"
+       transform="rotate(-36.538703,598.63206,203.11055)"><tspan
+         x="270.01172"
+         y="-133.5195"
+         id="tspan2959"><tspan
+           style="fill:#000000"
+           id="tspan2957">input
+</tspan></tspan><tspan
+         x="270.01172"
+         y="-110.18613"
+         id="tspan2963"><tspan
+           style="fill:#000000"
+           id="tspan2961">output</tspan></tspan></text>
+    <text
+       xml:space="preserve"
+       id="text1370-6"
+       style="font-size:18.6667px;white-space:pre;shape-inside:url(#rect1372-3);display:inline;fill:#0000ff;fill-opacity:1;stroke:none;stroke-width:1.806"
+       transform="rotate(-36.538703,721.14507,228.94351)"><tspan
+         x="270.01172"
+         y="-133.5195"
+         id="tspan2967"><tspan
+           style="fill:#000000"
+           id="tspan2965">input
+</tspan></tspan><tspan
+         x="270.01172"
+         y="-110.18613"
+         id="tspan2971"><tspan
+           style="fill:#000000"
+           id="tspan2969">output</tspan></tspan></text>
+    <text
+       xml:space="preserve"
+       id="text1370-6-6"
+       style="font-size:18.6667px;white-space:pre;shape-inside:url(#rect1372-3-0);display:inline;fill:#0000ff;fill-opacity:1;stroke:none;stroke-width:1.806"
+       transform="rotate(-36.538703,860.41662,250.65052)"><tspan
+         x="270.01172"
+         y="-133.5195"
+         id="tspan2975"><tspan
+           style="fill:#000000"
+           id="tspan2973">input
+</tspan></tspan><tspan
+         x="270.01172"
+         y="-110.18613"
+         id="tspan2979"><tspan
+           style="fill:#000000"
+           id="tspan2977">output</tspan></tspan></text>
+    <text
+       xml:space="preserve"
+       id="text1370-6-6-6"
+       style="font-size:18.6667px;white-space:pre;shape-inside:url(#rect1372-3-0-2);display:inline;fill:#0000ff;fill-opacity:1;stroke:none;stroke-width:1.806"
+       transform="rotate(-36.538703,956.19394,170.74503)"><tspan
+         x="270.01172"
+         y="-133.5195"
+         id="tspan2983"><tspan
+           style="fill:#000000"
+           id="tspan2981">input
+</tspan></tspan><tspan
+         x="270.01172"
+         y="-110.18613"
+         id="tspan2987"><tspan
+           style="fill:#000000"
+           id="tspan2985">output</tspan></tspan></text>
+    <path
+       style="fill:#ff0000;fill-opacity:1;stroke:#fe0000;stroke-width:9.30599976;stroke-opacity:1;stroke-dasharray:none"
+       d="M 320,27.130712 V 364.00211 l 15.41449,-20.02718 -30.69515,0.43815 L 320,362.44513"
+       id="path1637" />
+    <text
+       xml:space="preserve"
+       id="text1741"
+       style="font-size:29.3333px;white-space:pre;shape-inside:url(#rect1743);display:inline;fill:#ff0000;fill-opacity:1;stroke:none;stroke-width:9.306;stroke-dasharray:none;stroke-opacity:1"><tspan
+         x="334.67383"
+         y="33.490205"
+         id="tspan2991"><tspan
+           style="font-weight:bold;-inkscape-font-specification:'sans-serif Bold'"
+           id="tspan2989">Progress</tspan></tspan></text>
+  </g>
+</svg>
