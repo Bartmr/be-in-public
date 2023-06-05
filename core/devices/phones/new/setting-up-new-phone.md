@@ -52,3 +52,5 @@
 - Install Feedly
 - Install Pocket
 - `tech/social-media`
+- install Google Calendar 
+- install Google Contacts 

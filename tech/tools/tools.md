@@ -602,6 +602,8 @@
 - https://flowbite.com
   - The most popular and open-source library of Tailwind CSS components
   - https://github.com/themesberg/flowbite
+- https://ui.shadcn.com/
+  - https://github.com/shadcn/ui
 
 #### UI FX
 

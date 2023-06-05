@@ -62,6 +62,8 @@
   - Lightning AI is the first operating system for AI. Build state-of-the art models and use them inside Lightning Apps (end-to-end ML systems).
 - https://github.com/r2d4/rellm 
   - Get structured data out of LLMs
+- https://github.com/imartinez/privateGPT
+  - https://github.com/PromtEngineer/localGPT
 
 ## Prompt Engineering
 

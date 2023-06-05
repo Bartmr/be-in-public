@@ -28,6 +28,9 @@
 
 ## 70s / 80s
 
+- Casablanca records
+  - Neil Bogart
+
 ### Shows
 
 - peter's pop show
