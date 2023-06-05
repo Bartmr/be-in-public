@@ -77,7 +77,9 @@
     - allow yourself to believe whatever makes your life easier
     - since you can choose anything to believe in, it proves that the concepts that you have about the past or future are far away from reality and can easily be destroyed by a new belief
       - since nothing you believe is actual reality or will be reality, you can pick any beliefs that help you through your life: pick the beliefs that make you build more, learn more and grow more
-  - check David R. Hawkins Energy Frequencies
+  - check David R. Hawkins 
+    - Energy Frequencies
+    - Levels of Consciousness 
 
 - Stop, and reflect on what you are doing as if you were watching yourself as a 3rd person.
 

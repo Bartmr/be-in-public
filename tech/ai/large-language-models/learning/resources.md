@@ -10,3 +10,5 @@
 - https://github.com/openai/openai-cookbook
 - https://datamachines.xyz/the-hands-on-reinforcement-learning-course-page/
   - https://github.com/Paulescu/hands-on-rl
+- https://magazine.sebastianraschka.com/
+- https://www.cloudskillsboost.google/paths/118
