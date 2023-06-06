@@ -2819,6 +2819,15 @@ TanStack Table
 - https://pdf.co/
 - https://github.com/axa-group/Parsr
 
+### Spreadsheets
+
+- gspread
+  - https://docs.gspread.org/
+  - https://github.com/burnash/gspread
+- Sheety
+  - turn your Google Sheets into APIs
+  - https://sheety.co/
+
 ### All sorts of documents
     
 - https://hyperscience.com/
@@ -2903,9 +2912,6 @@ TanStack Table
 
 ### Data and API Aggregators
 
-- Sheety
-  - turn your Google Sheets into APIs
-  - https://sheety.co/
 - [Hasura](#hasura)
 - https://merge.dev/
 - Cube / Cube.js
