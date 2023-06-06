@@ -64,6 +64,7 @@
   - Get structured data out of LLMs
 - https://github.com/imartinez/privateGPT
   - https://github.com/PromtEngineer/localGPT
+- https://argilla.io/
 
 ## Prompt Engineering
 
