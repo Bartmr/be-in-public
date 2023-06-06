@@ -3,3 +3,5 @@ nbqa
 jupyterlab
 types-requests
 python-dotenv
+matplotlib
+numpy
