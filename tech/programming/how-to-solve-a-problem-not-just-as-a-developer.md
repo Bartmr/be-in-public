@@ -1,6 +1,8 @@
 # How to solve a problem (not only) as a developer
 
-This is a personal step-by-step guide on how you should approach a problem and come up with a solution. A good rule of thumb is to start tackling a problem from it's outside, and start building from the outside to the inside. This means starting by designing a boundary of what you want and what you have right now, and then come up with smaller steps to achieve that goal. But not so fast! These smaller steps are itself smaller problems, and you should repeat the same process: know what you want from these smaller steps and what you have, and come up with even smaller steps on how to obtain that, and so on...
+This is a personal step-by-step guide on how you should approach a problem and come up with a solution. A good rule of thumb is to start tackling a problem from it's outside, and start building from the outside to the inside. This means starting by designing a boundary of what you want and what you have right now, and then come up with smaller steps to achieve that goal. But not so fast! These smaller steps are itself just a little bit smaller and you should repeat the same process: know what you want from these smaller steps and what you have, and come up with even smaller steps on how to obtain that, and so on...
+
+![Progress of a solution](https://raw.githubusercontent.com/Bartmr/be-in-public/main/static/how-to-solve-a-problem-not-only-a-a-developer/progress-of-a-solution.svg)
 
 In software development, there are two patterns related to this type of problem solving:
 
@@ -59,6 +61,8 @@ We now have the first layer structured, let's build it's inside. What high-level
 
 Files
   - **processPurchase.js**
+  - getPayed.js
+  - shipProduct.js
 ```javascript
 function processPurchase(
   // What we have
@@ -66,42 +70,74 @@ function processPurchase(
     customer,
     product
   }) {
-  processPayment()
-  processShipping()
+  getPayed()
   
-  // The outcome we expect
+  shipProduct()
+  
+  // What we want: the result of processing a purchase
   return 'done' // or 'failed'
-}
-```
-
-Any of these steps can fail mid-way, so it's important to handle surprises: we call this error handling. We expect a final result from this transaction: either it failed or it succeeded. Let's deal with the cases of failure
-
-Files
-  - **processPurchase.js**
-```javascript
-function processPurchase(
-  // What we have
-  {
-    customer,
-    product
-  }) {
-  const paymentResult = processPayment()
-
-  if(paymentResult === "failed") {
-    return "failed"
-  }
-  
-  const shippingResult = processShipping()
-
-    if(shippingResult === "failed") {
-    return "failed"
-  }
-  
-  // All steps were completed successfully, so:
-  return 'done'
 }
 ```
 
 "Alright, this is all very simple, but I still haven't build my solution!". No, but we built a layer that made us closer to the full solution: we now know what steps we must have to accomplish the solution's objective. 
 
-What we have to do now, is apply the same principles we applied to `processPurchase`, in order to build 2 more nested solutions: the `processPayment` and `processShipment` steps. We repeat it till we finally implemented all the layers necessary to solve our problem. 
+What we need to do now, is to apply the same principles we applied to `processPurchase`, in order to build the next layer of our solution: the `getPayed` and `shipProduct` steps. We should build each step like it were their own independent solution. We must repeat this principles till we have finally implemented all the layers necessary to solve our problem. Here's a picture below to help you illustrate what we're doing.
+
+![Structure of a solution](https://raw.githubusercontent.com/Bartmr/be-in-public/main/static/how-to-solve-a-problem-not-only-a-a-developer/solution-chart.svg)
+
+
+In this case, we have customer information and product information, and we want to process the payment and get a receipt to go along with the product being shipped.
+
+Files
+  - processPurchase.js
+  - **getPayed.js**
+  - shipProduct.js
+```javascript
+function getPayed(
+  // What we have
+  {
+    customerId,
+    totalPrice
+  }) {
+
+  
+  const paymentMethod = getPaymentMethod({ 
+    // What you have
+    customerId
+  }) // will return what you need: the payment method
+
+  const receipt = createPaymentIntent({
+    creditCard: paymentMethod,
+    amount: totalPrice
+  }) 
+  
+  // What we want: the receipt
+  return { receipt }
+}
+```
+
+Since we now know that `getPayed` needs some input, let's set that input in `processPurchase`
+
+Files
+  - **processPurchase.js**
+  - getPayed.js
+  - shipProduct.js
+```javascript
+function processPurchase(
+  // What we have
+  {
+    customer,
+    product
+  }) {
+  const { receipt } = getPayed({ customerId: customer.id, product: product.price })
+
+  shipProduct({ receipt })
+
+  // What we want: the result of processing a purchase
+  return 'done' // or 'failed'
+}
+```
+
+... and we repeat the same with `shipProduct` and all the smaller steps that compose our cosmos of big and tiny solutions.
+
+Developing a solution to a problem can be done by defining what we have, what we want, and define smaller steps that need to happen to get what we want, and then repeat the process for those smaller steps we just defined.

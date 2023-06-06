@@ -1,2 +1,3 @@
 - ⌥+\ cycles through suggestions
 - ^+Enter shows 10 possible suggestions in a new editor
+- https://stackoverflow.com/questions/72600079/how-to-use-next-previous-suggestion-shortcuts-for-github-copilot-on-a-mac

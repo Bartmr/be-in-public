@@ -3931,6 +3931,7 @@ TanStack Table
 - [DoubleLoop](https://doubleloop.app/) - Node-based dashboard builder to monitor business metrics
 - [openreplay](#openreplay)
 - Twillio Segment
+- https://www.freshpaint.io/
 
 ## Data Governance
   
