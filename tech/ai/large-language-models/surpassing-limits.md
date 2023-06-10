@@ -1,0 +1,5 @@
+- [Harrison Chase from LangChain](https://twitter.com/hwchase17/status/1666829939918745600?t=-GbhHDgYugn6udI_vSzm8w&s=19) 
+  - Contextual Compression
+  - Self Query
+  - Time weighting
+- Embeddings

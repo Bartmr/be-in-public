@@ -70,6 +70,7 @@
 - https://github.com/jtmuller5/AI-Tools-and-Websites
 - https://python.langchain.com/en/latest/modules/agents/tools.html
 - https://www.aitoolsclub.com/
+- https://aivalley.ai/
 
 ### Awesome lists
 
@@ -1218,6 +1219,8 @@ TanStack Table
   - Scheduled Events
     - https://docs.github.com/en/actions/reference/events-that-trigger-workflows#scheduled-events
     - Can call a API with `curl` in order to start a cron hob
+- https://www.svix.com/
+  - #webhooks
 
 ## Chatbots and Voice Assistants
  
@@ -2613,6 +2616,8 @@ TanStack Table
   - http://software.es.net/react-timeseries-charts
 - https://gojs.net/
   - https://github.com/NorthwoodsSoftware/GoJS
+- https://www.tremor.so/
+  - https://github.com/tremorlabs/tremor
 
 ### Healthcare
 

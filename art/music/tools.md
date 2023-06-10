@@ -87,6 +87,8 @@
   - https://www.bandlab.com/songstarter
 - https://cosonify.com/
 - https://vochlea.com/
+- https://www.klimper-plugin.com/products/klimper-2
+- https://philspeiser.com/product/the_shaper/
 
 ## Extractors
 
