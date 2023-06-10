@@ -1,3 +1,6 @@
+- http://ggml.ai/ 
+  - light tensor library that runs on conventional hardware. Used by llama.cpp and whisper.cpp
+
 ## Datasets
 - https://paperswithcode.com/datasets
 - Kaggle
@@ -19,3 +22,8 @@
 - PaperSpace
   - Gradient
 - Kaggle
+- HuggingFace
+
+## Debugging
+
+- TensorBoard
