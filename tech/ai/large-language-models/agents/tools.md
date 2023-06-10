@@ -9,3 +9,5 @@
     - https://github.com/Significant-Gravitas/Auto-GPT-Plugins
 - BabyAGI
 - https://github.com/microsoft/JARVIS
+- SuperAGI
+  - https://github.com/TransformerOptimus/SuperAGI

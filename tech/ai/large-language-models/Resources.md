@@ -65,6 +65,10 @@
 - https://github.com/imartinez/privateGPT
   - https://github.com/PromtEngineer/localGPT
 - https://argilla.io/
+- GPTCache
+  - https://gptcache.readthedocs.io/
+  - https://github.com/zilliztech/GPTCache
+  - Semantic cache for LLMs. Fully integrated with LangChain and llama_index. 
 
 ## Prompt Engineering
 

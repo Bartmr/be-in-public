@@ -2430,6 +2430,10 @@ TanStack Table
 - Milvus
   - https://github.com/milvus-io/milvus 
 - FAISS
+- GPTCache
+  - https://gptcache.readthedocs.io/
+  - https://github.com/zilliztech/GPTCache
+  - Semantic cache for LLMs. Fully integrated with LangChain and llama_index. 
 
 ### Synthetic Data / Seeding
 
@@ -4058,6 +4062,7 @@ TanStack Table
 - https://www.fontbrief.com/
 - <div id="lensa">Lensa</div>
 - https://www.vizcom.ai/
+- https://www.autodraw.com/
 
 ### Image Generators
 
