@@ -4,6 +4,10 @@
 
 ## Combinations for seasons
 
+- Drum Shotgun
+- Combat SMG / Submachine Gun
+- Flapjack rifle
+
 - 2 Combat shotguns
 - Cobra DMR
 

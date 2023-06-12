@@ -2436,6 +2436,10 @@ TanStack Table
 - FAISS
 - https://lancedb.com/
   - https://github.com/lancedb/lancedb
+- GPTCache
+  - https://gptcache.readthedocs.io/
+  - https://github.com/zilliztech/GPTCache
+  - Semantic cache for LLMs. Fully integrated with LangChain and llama_index. 
 
 ### Synthetic Data / Seeding
 
@@ -4069,6 +4073,7 @@ TanStack Table
 - https://www.fontbrief.com/
 - <div id="lensa">Lensa</div>
 - https://www.vizcom.ai/
+- https://www.autodraw.com/
 
 ### Image Generators
 
