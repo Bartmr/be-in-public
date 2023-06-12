@@ -2,6 +2,8 @@
 
 - https://huggingface.co/papers
 - https://towardsdatascience.com/
+- https://www.reddit.com/r/machinelearningnews/
+- https://marktechpost-newsletter.beehiiv.com/subscribe
 
 ## Keywords
 

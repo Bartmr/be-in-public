@@ -115,6 +115,7 @@
 - https://super.ai/
   - https://super.ai/store
 - https://github.com/igorbarinov/awesome-data-engineering
+- http://ludwig.ai
 
 #### NLP / Vector / Embeddings Search
 
@@ -2434,6 +2435,8 @@ TanStack Table
 - Milvus
   - https://github.com/milvus-io/milvus 
 - FAISS
+- https://lancedb.com/
+  - https://github.com/lancedb/lancedb
 - GPTCache
   - https://gptcache.readthedocs.io/
   - https://github.com/zilliztech/GPTCache
@@ -2859,6 +2862,7 @@ TanStack Table
 - https://github.com/tesseract-ocr/tesseract
 - Amazon Textract
 - https://github.com/JaidedAI/EasyOCR
+- https://www.formx.ai/
 
 ### Transcribing / Speech recognition
 
@@ -3673,6 +3677,8 @@ TanStack Table
 - Replit Ghostwriter
   - https://replit.com/site/ghostwriter
 - Amazon CodeWhisperer
+- https://bloop.ai/
+  - https://github.com/BloopAI/bloop
 
 ### Parsing and Exploration
 
