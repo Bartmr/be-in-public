@@ -14,6 +14,8 @@
   - https://github.com/ultralytics/ultralytics
 - levit
 - convnext
+- detectron2
+  - https://github.com/facebookresearch/detectron2
 
 
 ## Embeddings

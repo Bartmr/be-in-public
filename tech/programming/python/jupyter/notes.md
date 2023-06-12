@@ -23,7 +23,7 @@
 
 ## Running terminal commands
 
-- `!command` calls out to a shell (in a new process), while `%command` affects the process associated with the notebook
+- `!command` calls out to a shell (in a new process), while `%command` affects the process associated with the notebook. Use `%` to install packages in your user workspace.
 
 ## Documentation
 

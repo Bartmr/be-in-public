@@ -5,3 +5,5 @@ types-requests
 python-dotenv
 matplotlib
 numpy
+chromadb
+pypdf

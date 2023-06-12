@@ -1,3 +1,5 @@
 - Wardley Maps
+  - https://miro.com/blog/wardley-maps-whiteboard-canvas/
 - ILC Model (Innovation – Leverage – Commoditise)
   - https://blog.gardeviance.org/2013/01/ecosystems.html?m=1
+- SWOT Analysis

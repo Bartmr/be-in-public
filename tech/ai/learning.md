@@ -100,6 +100,7 @@
 - https://d2l.ai/
   - Dive into Deep Learning
 - https://uvadlc.github.io/
+- https://towardsdatascience.com/
 
 ## Recommended by FastAI
 

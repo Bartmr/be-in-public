@@ -2430,6 +2430,7 @@ TanStack Table
   - pgvector
 - https://www.trychroma.com/
   - https://github.com/chroma-core/chroma
+  - runs locally without much hassle
 - Milvus
   - https://github.com/milvus-io/milvus 
 - FAISS
@@ -2827,6 +2828,9 @@ TanStack Table
 
 - https://pdf.co/
 - https://github.com/axa-group/Parsr
+- pdfminer
+  - https://pypi.org/project/pdfminer.six/
+- https://github.com/ocrmypdf/OCRmyPDF
 
 ### Spreadsheets
 
@@ -2852,6 +2856,9 @@ TanStack Table
   - Convert images and PDFs to LaTeX, DOCX, Overleaf, Markdown, Excel, ChemDraw and more, with our AI powered document conversion technology.
 - https://docparser.com/
 - https://base64.ai/
+- https://github.com/tesseract-ocr/tesseract
+- Amazon Textract
+- https://github.com/JaidedAI/EasyOCR
 
 ### Transcribing / Speech recognition
 
