@@ -3611,6 +3611,10 @@ TanStack Table
 - WebLLM
   - https://mlc.ai/web-llm/
   - https://github.com/mlc-ai/web-llm
+- Microsoft Guidance
+  - https://github.com/microsoft/guidance
+  - A guidance language for controlling large language models.
+  - forces the LLMs to give you a parsable data format like JSON
 
 ### Derivates
 

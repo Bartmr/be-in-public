@@ -12,3 +12,4 @@
   - https://github.com/Paulescu/hands-on-rl
 - https://magazine.sebastianraschka.com/
 - https://www.cloudskillsboost.google/paths/118
+- https://huggingface.co/docs/transformers/model_summary

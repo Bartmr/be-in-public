@@ -55,3 +55,7 @@
 - Pydantic
   - Data validation and settings management using python type annotations.
   - https://pydantic-docs.helpmanual.io/
+
+## Images
+
+- https://pillow.readthedocs.io (PIL)

@@ -1,6 +1,8 @@
+- `tech/ai/fastai/notes.md`
+
 (page 24)
 
-weights means the same as parameters
+**weights** means the same as **parameters**
 
 Using a pretrained model for a task different from what it was originally trained for is
 known as transfer learning.

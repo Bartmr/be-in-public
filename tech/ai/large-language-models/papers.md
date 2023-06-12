@@ -10,6 +10,12 @@
 
 ## Attention is all you need
 
+- https://arxiv.org/abs/1706.03762
+
 ## Generative Agents: Interactive Simulacra of Human Behavior
 
 https://arxiv.org/abs/2304.03442
+
+## The transformer
+
+- https://ai.googleblog.com/2017/08/transformer-novel-neural-network.html

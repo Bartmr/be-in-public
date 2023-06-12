@@ -44,6 +44,11 @@
 
 ## Falcon-40b
 
+## llama.cpp
+
+- https://github.com/oobabooga/text-generation-webui
+- https://github.com/nat/openplayground
+
 ## PaLM (Pathways Language Model)
 
 ## Microsoft Semantic Kernel
