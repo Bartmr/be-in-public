@@ -100,6 +100,10 @@
 - https://d2l.ai/
   - Dive into Deep Learning
 - https://uvadlc.github.io/
+- http://ludwig.ai
+  - https://youtu.be/K7yLtB2yaPg
+- https://www.deeplearning.ai/courses/mathematics-for-machine-learning-and-data-science-specialization/
+- https://www.deeplearning.ai/
 
 ## Recommended by FastAI
 

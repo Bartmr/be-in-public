@@ -12,3 +12,5 @@
   - https://github.com/Paulescu/hands-on-rl
 - https://magazine.sebastianraschka.com/
 - https://www.cloudskillsboost.google/paths/118
+- CS25 I Stanford Seminar - Transformers United 2023: Introduction to Transformers w/ Andrej Karpathy
+  - https://youtu.be/XfpMkf4rD6E

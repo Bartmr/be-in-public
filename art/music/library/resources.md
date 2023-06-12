@@ -40,6 +40,7 @@
 - https://www.youtube.com/@discoclassic9143/videos
 - ZYX Italo Disco
   - https://www.youtube.com/@ZYXItalo
+- https://www.reddit.com/r/italodisco
 
 ## Relaxing
 

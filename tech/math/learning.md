@@ -57,3 +57,6 @@ Online Resources:
     - https://www.kdnuggets.com/2020/11/data-science-without-degree.html#
 - https://brilliant.org/
 - https://www.youtube.com/playlist?list=PLWKjhJtqVAbl5SlE6aBHzUVZ1e6q1Wz0v
+- https://www.deeplearning.ai/courses/mathematics-for-machine-learning-and-data-science-specialization/
+- https://mml-book.github.io/
+  - https://github.com/mml-book/mml-book.github.io

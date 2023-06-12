@@ -35,6 +35,10 @@
 
 ## NanoGPT
 
+## Lit-llama
+
+https://github.com/Lightning-AI/lit-llama 
+
 ## GPT4ALL
 
 - https://gpt4all.io/index.html 
@@ -44,7 +48,7 @@
 
 ## Falcon-40b
 
-## PaLM (Pathways Language Model)
+## Google PaLM (Pathways Language Model)
 
 ## Microsoft Semantic Kernel
 

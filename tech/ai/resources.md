@@ -1,6 +1,8 @@
 ## News and Feeds
 
 - https://huggingface.co/papers
+- https://www.reddit.com/r/machinelearningnews/
+- https://marktechpost-newsletter.beehiiv.com/subscribe
 
 ## Keywords
 
