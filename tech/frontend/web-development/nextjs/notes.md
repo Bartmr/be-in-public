@@ -7,17 +7,15 @@ find .next/static -name "*.map" -type f -delete
 ## Validation && Authentication
 
 ```typescript
-export default  function handler(
+export default function handler(
   req: NextApiRequest,
   res: NextApiResponse<Data>
 ) {
   withAuthentication(
-    req,
-    res,
+    { req, res, options: {} }
     (authContext) => {
       withValidation(
-        req,
-        res
+        { req, res, options: {} }
         {
           params: z.object({}),
           query: z.object({}),

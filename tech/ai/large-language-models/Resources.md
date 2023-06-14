@@ -64,6 +64,8 @@ https://github.com/Lightning-AI/lit-llama
 
 ## Lhama index
 
+## GPT-neo-X
+
 ## Tools
 
 - https://github.com/dair-ai/Prompt-Engineering-Guide/blob/main/pages/tools.en.mdx

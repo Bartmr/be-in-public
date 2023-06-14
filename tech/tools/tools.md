@@ -706,6 +706,7 @@ TanStack Table
 - react-draggable 
 - https://usehooks.com/
   - https://github.com/uidotdev/usehooks
+- https://github.com/bhouston/behave-graph
 
 #### UI Forms
 
@@ -2441,6 +2442,8 @@ TanStack Table
   - https://gptcache.readthedocs.io/
   - https://github.com/zilliztech/GPTCache
   - Semantic cache for LLMs. Fully integrated with LangChain and llama_index. 
+- https://qdrant.tech/
+  - https://github.com/qdrant/qdrant
 
 ### Synthetic Data / Seeding
 
@@ -2834,6 +2837,8 @@ TanStack Table
 - pdfminer
   - https://pypi.org/project/pdfminer.six/
 - https://github.com/ocrmypdf/OCRmyPDF
+- Adobe Acrobat Services
+  - https://developer.adobe.com/document-services/docs/overview/pdf-services-api/#sdk
 
 ### Spreadsheets
 
@@ -3122,6 +3127,7 @@ TanStack Table
 
 > Concerns to have in mind: localization / i18n
 
+- Search for Self-hosted / open-source CMS
 - Strapi
 - Apostrophe
 - [Webiny](#webiny)
@@ -3162,6 +3168,7 @@ TanStack Table
   - Headless CMS that commits
   - Give your editors the power of Git.
   - Create, edit, and instant preview Markdown-based sites.
+  - https://github.com/tinacms/tinacms
 - https://cloudcannon.com/
 - https://craftercms.com/
 - Wordpress
@@ -3911,6 +3918,10 @@ TanStack Table
 - https://cloudconvert.com/
 - https://www.zamzar.com/
 - https://toffeeshare.com/
+- https://www.convertapi.com/
+  - #api
+- https://gotenberg.dev/
+  - #api #selfhosted
 
 ### Summarization
 
