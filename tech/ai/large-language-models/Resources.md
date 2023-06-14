@@ -24,6 +24,7 @@
 ## Alpaca
 - https://crfm.stanford.edu/2023/03/13/alpaca.html
 - https://github.com/tatsu-lab/stanford_alpaca
+- https://github.com/antimatter15/alpaca.cpp
 
 ## LLaMa
 
