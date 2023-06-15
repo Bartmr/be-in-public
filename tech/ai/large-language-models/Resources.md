@@ -15,6 +15,8 @@
 - You can run these models with HuggingFaceHub, and its Langchain adapter
 - https://huggingface.co/spaces/HuggingFaceH4/open_llm_leaderboard
 - https://github.com/BradyFU/Awesome-Multimodal-Large-Language-Models
+- https://github.com/go-skynet/LocalAI
+  - https://localai.io/
 
 ## BERT
 - https://arxiv.org/abs/2304.00958 
@@ -24,6 +26,7 @@
 ## Alpaca
 - https://crfm.stanford.edu/2023/03/13/alpaca.html
 - https://github.com/tatsu-lab/stanford_alpaca
+- https://github.com/antimatter15/alpaca.cpp
 
 ## LLaMa
 

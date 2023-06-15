@@ -1,1 +1,3 @@
 - When in engaging face to face, instead of jumping, walk sideways. This way your gun will always be ready to shoot and it's still hard to hit you
+- never turn your back on your enemy
+- be the first to engage. The other players are as afraid as you

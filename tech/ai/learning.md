@@ -105,6 +105,7 @@
   - https://youtu.be/K7yLtB2yaPg
 - https://www.deeplearning.ai/courses/mathematics-for-machine-learning-and-data-science-specialization/
 - https://www.deeplearning.ai/
+- https://probml.github.io/pml-book/book2.html
 
 ## Recommended by FastAI
 
