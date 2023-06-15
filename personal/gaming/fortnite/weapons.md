@@ -4,6 +4,10 @@
 
 ## Combinations for seasons
 
+- Maven Shotgun
+- Flapjack rifle
+- combat SMG
+
 - Drum Shotgun
 - Havoc supressed rifle
 - Thermal DMR
