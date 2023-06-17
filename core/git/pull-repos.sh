@@ -48,7 +48,7 @@ do
   fi
 done
 
-parallel --jobs 2 --halt soon,fail=1 ::: "${parallel_args[@]}"
+parallel --jobs 2 --halt soon,fail=1 --keep-order ::: "${parallel_args[@]}"
 
 #
 #
