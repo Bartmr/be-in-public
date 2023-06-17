@@ -17,13 +17,17 @@ echo -e "
 ${repo_colors}[Target]: $(basename $dir)${reset_colors}"
 
 cd $dir
-echo -e "${repo_colors}[pwd   ]: $(pwd)${reset_colors}"
 
 branch_it_was_in=$(git symbolic-ref --short HEAD)
 
 git checkout $branch_to_pull --quiet
 
-echo ""
-git pull --ff-only origin $branch_to_pull
+git_pull_output=$(git pull --ff-only origin $branch_to_pull 2>&1)
+
+if ! [[ "$git_pull_output" == *"Already up to date."* ]]
+then
+  echo "$git_pull_output"
+fi
+
 
 git checkout $branch_it_was_in --quiet
