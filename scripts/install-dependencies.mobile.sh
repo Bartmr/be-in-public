@@ -14,5 +14,3 @@ pkg install -y parallel jq
 echo "will cite" | parallel --citation
 
 pip install -r requirements.mobile.txt
-
-../my-notes/scripts/install-dependencies.mobile.sh

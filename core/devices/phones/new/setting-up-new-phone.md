@@ -39,6 +39,8 @@
     pkg install --no-install-recommends python python-pip
     
     bash be-in-public/scripts/install-dependencies.mobile.sh
+    bash my-notes/scripts/install-dependencies.mobile.sh
+
     bash be-in-public/core/git/clone-repos.mobile.sh
     ```
     

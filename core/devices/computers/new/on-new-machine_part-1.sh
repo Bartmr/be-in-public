@@ -5,15 +5,29 @@ set -euo pipefail
 this_dir=$(dirname "$(realpath $0)")
 cd "$this_dir"
 
-# Colors
+# Python
 
-info_colors="\0033[1;97;44m"
-warning_colors="\0033[1;30;43m"
-reset_colors="\0033[0m"
+# pip install --user pipenv
+
+# Node
+
+# https://github.com/nodesource/distributions
+
+# curl -fsSL https://deb.nodesource.com/setup_18.x | sudo -E bash - &&\
+# sudo apt-get install -y nodejs
+
+# echo "export NPM_CONFIG_PREFIX=/home/$(whoami)/.npm-global
+# export PATH=\"${PATH}:/home/$(whoami)/.npm-global/bin\"" >> "/home/$(whoami)/.bashrc"
+
+curl -o- https://raw.githubusercontent.com/nvm-sh/nvm/master/install.sh | bash
+source ~/.bashrc
+nvm install 16
+nvm use 16
 
 #
 
 ~/Documents/repositories/be-in-public/scripts/install-dependencies.sh
+~/Documents/repositories/my-notes/scripts/install-dependencies.sh
 
 #
 
@@ -59,25 +73,6 @@ set -e
 newgrp docker
 
 sudo usermod -aG docker $USER
-
-# Python
-
-pip install --user pipenv
-
-# Node
-
-# https://github.com/nodesource/distributions
-
-# curl -fsSL https://deb.nodesource.com/setup_18.x | sudo -E bash - &&\
-# sudo apt-get install -y nodejs
-
-# echo "export NPM_CONFIG_PREFIX=/home/$(whoami)/.npm-global
-# export PATH=\"${PATH}:/home/$(whoami)/.npm-global/bin\"" >> "/home/$(whoami)/.bashrc"
-
-curl -o- https://raw.githubusercontent.com/nvm-sh/nvm/v0.39.3/install.sh | bash
-source ~/.bashrc
-nvm install 16
-nvm use 16
 
 # Java
 
