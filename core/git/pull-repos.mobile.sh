@@ -39,7 +39,7 @@ do
   parallel_args+=("bash ./_pull-repos/pull-from-branch.sh ${important_repos_dir}/${repo} main")
 done
 
-printf '%s\n' "${parallel_args[@]}" | parallel --jobs 2 --halt soon,fail=1 --keep-order
+parallel --jobs 2 --halt soon,fail=1 --keep-order ::: "${parallel_args[@]}"
 
 #
 #
