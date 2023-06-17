@@ -1,3 +1,5 @@
+node_modules
+
 # IDE - VSCode
 .vscode/*
 !.vscode/settings.json
@@ -12,3 +14,5 @@
 /.obsidian/workspace.json
 /.obsidian/workspace-mobile.json
 /.obsidian/graph.json
+
+.env

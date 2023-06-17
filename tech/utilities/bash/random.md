@@ -219,3 +219,7 @@ fi
 `fname () compound-command [ redirections ]`
 
 See about [Compound commands](https://www.gnu.org/software/bash/manual/html_node/Compound-Commands.html)
+
+### Export functions to make them available to subprocesses or subshells
+
+`export -f fname`
