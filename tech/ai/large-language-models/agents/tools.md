@@ -11,3 +11,5 @@
 - https://github.com/microsoft/JARVIS
 - SuperAGI
   - https://github.com/TransformerOptimus/SuperAGI
+- https://superagent.sh/
+  - https://github.com/homanp/superagent

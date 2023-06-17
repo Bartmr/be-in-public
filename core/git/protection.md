@@ -22,3 +22,7 @@
     - **this might your last resource for recovering your data if you physically lose your computer and phone number. Since it's already in a mostly safe place (your house), it's best to NOT encrypt it.**
       - you might end up misstyping the password during setup or forgetting it because you spent so much time without writing the password on your computer
     - use Ext4 file system to support large file paths
+
+## References
+
+- 3-2-1 backup

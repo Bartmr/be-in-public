@@ -3619,6 +3619,9 @@ TanStack Table
   - https://github.com/microsoft/guidance
   - A guidance language for controlling large language models.
   - forces the LLMs to give you a parsable data format like JSON
+- Vercel AI SDK
+  - https://vercel.com/blog/introducing-the-vercel-ai-sdk
+  - https://sdk.vercel.ai/
 
 ### Derivates
 
@@ -4757,6 +4760,9 @@ TanStack Table
   - https://f-droid.org/en/packages/com.termux.nix/
   - https://nix-on-droid.unboiled.info/
   - https://github.com/t184256/nix-on-droid
+- Android Terminal Emulator
+  - https://github.com/jackpal/Android-Terminal-Emulator 
+    - Needs BusyBox?
 - QuickEdit Text Editor
   - https://play.google.com/store/apps/details?id=com.rhmsoft.edit
   - https://rhmsoft.com/qedit/help.html
@@ -5182,6 +5188,8 @@ TanStack Table
 - https://marker.io/
 - https://www.honeycomb.io/
 - https://www.reportbug.ai/
+- https://openobserve.ai/
+  - https://github.com/openobserve/openobserve
 
 ### Data Science
 
