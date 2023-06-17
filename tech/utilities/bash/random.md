@@ -120,7 +120,7 @@ The difference is that the first one is all checked by one instance of the test 
       ```
 - `( )`
   - Group commands and run them in a subshell (new process)
-  - You can declare bash functions with `()` that run in a new process
+  - You can declare bash functions that run in a subshell with `()`
     - 
       ```bash
       run() (
