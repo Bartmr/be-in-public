@@ -87,10 +87,10 @@ The difference is that the first one is all checked by one instance of the test 
   - supports comparisson signals like `>`. they do not behave like bash operators
     - Glob pattern
       ```bash
-      if [[ $string == *World* ]]; then
-        echo "The string contains the word 'World'."
+      if [[ $string == *"Hello World"* ]]; then
+        echo "The string contains 'Hello World'."
       else
-        echo "The string does not contain the word 'World'."
+        echo "The string does not contain 'Hello World'."
       fi
       ```
     - Regex
@@ -127,6 +127,7 @@ The difference is that the first one is all checked by one instance of the test 
         do_something
       )
       ```
+  - Any started subshell inherits the parent shell’s working directory, but directory changes do not carry back over to its parent. Because of that, subshells are ideal for running one-off commands in a different directory.
 - `{ }`
   - Group commands and run them in the same shell, and return result
   - can be used as something that aggregates results in a single point that can then be operated. Similar to `(something && somethingElse)` in most programming languages.
@@ -153,28 +154,6 @@ The difference is that the first one is all checked by one instance of the test 
     exit 1
   fi
   ```
-
-### Practices
-
-- since commands inside a condition return an exit code bigger than zero even if they fail before checking what they are supposed to check, it's better to write conditions that check if the correct behaviour is present or not.
-  - **WRONG** way of writing conditions
-    ```bash
-    if [ is-invalid-context ]
-    then
-      # if is-invalid-context fails before it even checks the context
-      # it will never go through here and will the script will continue to run
-      exit 1
-    fi
-    ```
-  - **CORRECT** way of writing conditions
-    ```bash
-    if ! [ is-correct-context ]
-    then
-      # If is-correct-context is false or fails before it even checks the context,
-      # both scenarios will go through here and 'exit 1' will be called
-      exit 1
-    fi
-    ```
 
 ### Check if executable exists
 
@@ -230,6 +209,13 @@ fi
 ### Run command in background
 
 - `<command> &`
+
 #### Wait for all commands running in background
 
 - `wait`
+
+## Functions
+
+`fname () compound-command [ redirections ]`
+
+See about [Compound commands](https://www.gnu.org/software/bash/manual/html_node/Compound-Commands.html)
