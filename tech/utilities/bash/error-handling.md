@@ -21,7 +21,7 @@
 ## `set -e`
 
 - `set -e`
-  - part of the test in an if statement, part of any command executed in a && or || list except the command following the final && or ||, any command in a pipeline but the last, or if the command’s return status is being inverted with !
+  - Exceptions: part of the test in an if statement, part of any command executed in a && or || list except the command following the final && or ||, any command in a pipeline but the last, or if the command’s return status is being inverted with !
 
 ## `set -u`
 
@@ -60,3 +60,7 @@ SIGNAL can be:
 - `exit`
   - `exit` calls do not trigger `trap ERR`
   - use `exit` inside a trap to modify the exit code
+
+## Log to stderr
+
+`command >&2`

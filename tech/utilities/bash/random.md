@@ -85,6 +85,24 @@ The difference is that the first one is all checked by one instance of the test 
   - new Bash standard
   - used to match string patterns and Regexes
   - supports comparisson signals like `>`. they do not behave like bash operators
+    - Glob pattern
+      ```bash
+      if [[ $string == *World* ]]; then
+        echo "The string contains the word 'World'."
+      else
+        echo "The string does not contain the word 'World'."
+      fi
+      ```
+    - Regex
+      ```bash
+      string="Hello, World!"
+
+      if [[ $string =~ [0-9]+ ]]; then
+        echo "The string contains a number."
+      else
+        echo "The string does not contain a number."
+      fi
+      ```
 - `(( ))`
   - **bash operators do different things in here**
   - since bash operators are for string handling (`2 + 3` will be `"23"` and `>` will forward the string output of a command), you can do arithmetic operations using `(())`, which will change the meaning of some bash operators to math operators.

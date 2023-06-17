@@ -28,6 +28,9 @@
 
 ## 70s / 80s
 
+- Top of the Pops
+- peter's pop show
+- eurovision
 - Casablanca records
   - Neil Bogart
 

@@ -9,6 +9,9 @@
 - https://paperswithcode.com/paper/logodet-3k-a-large-scale-image-dataset-for
 - https://aimultiple.com/
 - https://roboflow.com/universe
+- Active Learning from the Web - Ryoma Sato
+  - https://arxiv.org/abs/2210.08205
+  - https://github.com/joisino/seafaring
 
 ## Search
 
