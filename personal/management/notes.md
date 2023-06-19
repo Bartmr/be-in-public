@@ -1,3 +1,5 @@
 - Research `antifragile` ways of organizing your life, tasks and compromises
 - Research `antifragile` ways of learning
 - Research `meta learning`
+- https://www.raptitude.com/
+  - https://www.raptitude.com/2018/06/getting-what-you-want/

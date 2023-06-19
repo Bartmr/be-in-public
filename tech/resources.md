@@ -4,3 +4,10 @@
 - https://www.freecodecamp.org/news/free-certificates/
 - https://www.freecodecamp.org/news/ivy-league-free-online-courses-a0d7ae675869/
 - https://www.freecodecamp.org/news/free-online-programming-cs-courses/
+
+## Awesome Lists
+
+### Getting awesome lists
+
+- https://github.com/sindresorhus/awesome
+- https://github.com/topics/awesome

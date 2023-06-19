@@ -707,6 +707,9 @@ TanStack Table
 - https://usehooks.com/
   - https://github.com/uidotdev/usehooks
 - https://github.com/bhouston/behave-graph
+- https://tiptap.dev/
+  - Text editor with real time collaboration
+  - https://github.com/ueberdosis/tiptap
 
 #### UI Forms
 
@@ -2444,6 +2447,9 @@ TanStack Table
   - Semantic cache for LLMs. Fully integrated with LangChain and llama_index. 
 - https://qdrant.tech/
   - https://github.com/qdrant/qdrant
+- https://www.activeloop.ai/
+  - DeepLake
+    - https://github.com/activeloopai/deeplake/
 
 ### Synthetic Data / Seeding
 
@@ -3635,6 +3641,9 @@ TanStack Table
   - https://sdk.vercel.ai/
 - https://bentoml.com/
   - https://github.com/bentoml/OpenLLM
+- https://www.activeloop.ai/
+  - DeepLake
+    - https://github.com/activeloopai/deeplake/
 
 ### Derivates
 
@@ -5742,6 +5751,9 @@ TanStack Table
   - [TalkJS](https://talkjs.com/)
   - [SendBird](https://sendbird.com/)
   - [Supabase](https://supabase.com/realtime)
+- https://tiptap.dev/
+  - Text editor with real time collaboration
+  - https://github.com/ueberdosis/tiptap
 
 ## Observability
 

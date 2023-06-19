@@ -92,3 +92,5 @@
 - Everyday is a completely new day from scratch
 
 - Growth is shattering what you considerer or felt as obvious
+
+- Try to always face the world or a situation with a question. 
