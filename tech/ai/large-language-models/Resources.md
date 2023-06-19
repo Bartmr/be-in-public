@@ -12,6 +12,9 @@
     - https://github.com/ggerganov/llama.cpp
   - GPT4All
   - GPT4All-J
+  - https://github.com/jncraton/languagemodels
+    - Explore large language models on any computer with 512MB of RAM 
+    - https://www.reddit.com/r/LocalLLaMA/comments/14btk3a/explore_large_language_models_on_any_computer/
 - You can run these models with HuggingFaceHub, and its Langchain adapter
 - https://huggingface.co/spaces/HuggingFaceH4/open_llm_leaderboard
 - https://github.com/BradyFU/Awesome-Multimodal-Large-Language-Models
@@ -110,6 +113,8 @@ https://github.com/Lightning-AI/lit-llama
 
 ## Projects
 - https://github.com/0hq/WebGPT 
+- https://github.com/OpenNMT/CTranslate2
+  - Fast inference engine for Transformer models
 
 ## Introductions 
 
