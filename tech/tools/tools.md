@@ -2839,6 +2839,10 @@ TanStack Table
 - https://github.com/ocrmypdf/OCRmyPDF
 - Adobe Acrobat Services
   - https://developer.adobe.com/document-services/docs/overview/pdf-services-api/#sdk
+- https://www.npmjs.com/package/pdf2json
+  - https://github.com/modesty/pdf2json
+- https://github.com/mozilla/pdf.js/
+- https://www.npmjs.com/package/pdf-parse
 
 ### Spreadsheets
 
@@ -3629,6 +3633,8 @@ TanStack Table
 - Vercel AI SDK
   - https://vercel.com/blog/introducing-the-vercel-ai-sdk
   - https://sdk.vercel.ai/
+- https://bentoml.com/
+  - https://github.com/bentoml/OpenLLM
 
 ### Derivates
 

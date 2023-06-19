@@ -154,6 +154,25 @@ The difference is that the first one is all checked by one instance of the test 
     exit 1
   fi
   ```
+- since commands inside a condition are an evaluation of `test` and return an exit code bigger than zero even if they fail before checking what they are supposed to check (in case of syntax error), it's better to write conditions that check if the correct behaviour is present or not.
+  - **WRONG** way of writing conditions
+    ```bash
+    if [ is-invalid-context ]
+    then
+      # if is-invalid-context fails before it even checks the context
+      # it will never go through here and will the script will continue to run
+      exit 1
+    fi
+    ```
+  - **CORRECT** way of writing conditions
+    ```bash
+    if ! [ is-correct-context ]
+    then
+      # If is-correct-context is false or fails before it even checks the context,
+      # both scenarios will go through here and 'exit 1' will be called
+      exit 1
+    fi
+    ```
 
 ### Check if executable exists
 

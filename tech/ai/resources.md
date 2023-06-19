@@ -4,6 +4,7 @@
 - https://towardsdatascience.com/
 - https://www.reddit.com/r/machinelearningnews/
 - https://marktechpost-newsletter.beehiiv.com/subscribe
+- https://twitter.com/dair_ai
 
 ## Keywords
 

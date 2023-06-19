@@ -106,6 +106,9 @@
 - https://www.deeplearning.ai/courses/mathematics-for-machine-learning-and-data-science-specialization/
 - https://www.deeplearning.ai/
 - https://probml.github.io/pml-book/book2.html
+- CAP6412 Advanced Computer Vision - Spring 202
+  - Includes introduction to transformers
+  - https://www.youtube.com/playlist?list=PLd3hlSJsX_In7qup928HaHmilugBGctuF
 
 ## Recommended by FastAI
 
