@@ -2106,6 +2106,7 @@ TanStack Table
 - [novu](#novu)
 - https://react.email/
   - https://github.com/zenorocha/react-email
+- https://resend.com/
 
 ### Telephone / Cell-phone services
 
@@ -3940,6 +3941,7 @@ TanStack Table
   - #api
 - https://gotenberg.dev/
   - #api #selfhosted
+  - https://github.com/gotenberg/gotenberg
 
 ### Summarization
 
@@ -4193,13 +4195,11 @@ TanStack Table
 
 ### Stock
 
-- https://icons8.com/
 - Unsplash
 - Pexels
 - https://pixabay.com/
 - https://thenounproject.com/
 - https://www.iconfinder.com/
-- https://icons8.com/
 
 ### Icons
 
@@ -4212,6 +4212,8 @@ TanStack Table
 - https://thenounproject.com/
 - https://www.iconfinder.com/
 - https://icons8.com/
+- https://icomoon.io/
+- Ant Design Icons
 
 ## Security & Updates
 
