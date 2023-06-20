@@ -2712,6 +2712,7 @@ TanStack Table
 
 - See [RPA](#rpa-robotic-process-automation)
 - See [Testing & QA](#testing--qa)
+- See [Cloud Solutions](#cloud-solutions)
 - Google Alerts
   - https://www.google.com/alerts
 - https://phantombuster.com/
@@ -2860,7 +2861,9 @@ TanStack Table
   - https://sheety.co/
 
 ### All sorts of documents
-    
+
+- See [Cloud Solutions](#cloud-solutions)
+  - cloud providers usually offer services like document parsing and OCR, and image recognition
 - https://hyperscience.com/
 - https://nanonets.com/
 - https://mindee.com/
