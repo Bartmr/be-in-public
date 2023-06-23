@@ -4,6 +4,10 @@
 
 ## Combinations for seasons
 
+- Drum shotgun
+- Combat SMG
+- MK-Alpha assault rifle 
+
 - Maven Shotgun
 - Flapjack rifle
 - combat SMG

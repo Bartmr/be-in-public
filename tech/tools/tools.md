@@ -2411,6 +2411,7 @@ TanStack Table
   - #serverless
 - [Beam](https://www.beam.cloud/)
   - #serverless
+- https://www.rungalileo.io/
 
 ### NLP / Vector / Embeddings Search
 
