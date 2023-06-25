@@ -1,6 +1,11 @@
 - Revoke all SSH keys used in your previous phone
   - Github
-
+- Setup phone lock
+  - prefer inputting the PIN manually everytime you need to unlock your phone
+    - after android 4.4, there's no way to unlock a phone if you forget the PIN 
+    - makes it harder for you to forget the PIN, since you input it multiple times a day
+    - do not use biometric or other lock method
+      - you always have to input the phone's PIN if your phone suddenly restarts or you need to restart it
 - Login to the Google accounts specified in `core/primary-assets.md`
 - Install and setup Firefox
   - setup browser data sync
