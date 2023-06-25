@@ -113,6 +113,7 @@
   - https://github.com/iusztinpaul/energy-forecasting#lessons
 - https://www.youtube.com/@automatalearninglab/videos
 - https://brilliant.org/
+- https://sebinsua.com/bridging-the-gap
 
 ## Recommended by FastAI
 

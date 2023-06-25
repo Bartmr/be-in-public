@@ -26,3 +26,8 @@
   - https://github.com/kamranahmedse/developer-roadmap
 - Ask GPT for a roadmap
   - `Give me a 30-day roadmap for learning y.`
+- Coursera
+- Edx
+- Pluralsight
+- Udemy
+- skillshare

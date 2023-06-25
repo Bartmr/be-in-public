@@ -61,3 +61,5 @@ Online Resources:
 - https://mml-book.github.io/
   - https://github.com/mml-book/mml-book.github.io
 - https://brilliant.org/
+- https://christopherolah.wordpress.com/2011/07/31/you-already-know-calculus-derivatives/
+- https://christopherolah.wordpress.com/textbooks/mathtex/
