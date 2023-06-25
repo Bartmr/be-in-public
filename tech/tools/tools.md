@@ -408,6 +408,8 @@
 - [Webflow](#webflow)
 - [Framer](#framer)
 - [Razzle.ai](#razzle-ai)
+- https://github.com/voila-dashboards/voila
+  - Voilà turns Jupyter notebooks into standalone web applications 
 
 ### Internal Tools and Back-offices
 
@@ -3292,6 +3294,7 @@ TanStack Table
 
 - https://www.slip.so/
   - Build a Programming Course. Earn money while you sleep.
+- https://kahoot.com/
 
 ### From Webflow
 
@@ -4461,6 +4464,9 @@ TanStack Table
   - technology-agnostic migration tool
   - https://github.com/sequelize/umzug
   - https://www.npmjs.com/package/umzug
+- https://kysely.dev/
+  - The type-safe SQL query builder for TypeScript
+  - https://github.com/kysely-org/kysely
 
 #### Java / Kotlin
 
@@ -4563,6 +4569,7 @@ TanStack Table
   - https://www.adept.ai/act
 - https://www.bardeen.ai/
   - Stop wasting your time. Make your apps work for you. Bardeen saves you time by automating repetitive tasks with a shortcut. It combines a powerful workflow builder, AI-based recommendations, and contextual automations.
+  - Offers a ChatGPT plugin
 - Search for `userscripts`
 - <div id="tampermonkey">https://www.tampermonkey.net/</div>
   - run `userscripts` in your browser

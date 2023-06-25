@@ -93,7 +93,7 @@
 - Machine Learning Engineering with Python, Andrew P. McMahon; Packt
 - Designing Machine Learning Systems, O'Reilly
 - Machine Learning Design Patterns: Solutions to Common Challenges in Data Preparation, Model Building, and MLOps; O'Reilly
-- Building Machine Learning Powered Applications: Getting from idea to product; O'Reilly
+- Building Machine Learning Powered Applications: Going from idea to product; O'Reilly; by Emmanuel Ameisen
 - Reliable Machine Learning: Applying SRE principles to ML in production; O'Reilly
 - Machine Learning Engineering in Action; Manning
 - https://www.deeplearning.ai/
@@ -109,6 +109,10 @@
 - CAP6412 Advanced Computer Vision - Spring 202
   - Includes introduction to transformers
   - https://www.youtube.com/playlist?list=PLd3hlSJsX_In7qup928HaHmilugBGctuF
+- https://github.com/iusztinpaul
+  - https://github.com/iusztinpaul/energy-forecasting#lessons
+- https://www.youtube.com/@automatalearninglab/videos
+- https://brilliant.org/
 
 ## Recommended by FastAI
 

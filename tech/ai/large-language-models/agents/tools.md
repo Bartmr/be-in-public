@@ -13,3 +13,4 @@
   - https://github.com/TransformerOptimus/SuperAGI
 - https://superagent.sh/
   - https://github.com/homanp/superagent
+- https://github.com/AntonOsika/gpt-engineer
