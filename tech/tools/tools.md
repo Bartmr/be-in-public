@@ -539,6 +539,7 @@
 - https://www.phoenixframework.org/
   - https://github.com/phoenixframework/phoenix
 - https://refine.new/
+  - https://refine.dev/
   - https://github.com/refinedev/refine
 
 #### UI / CSS Frameworks
@@ -4482,6 +4483,10 @@ TanStack Table
 
 - TypeORM
 
+#### Rust
+
+- https://github.com/diesel-rs/diesel
+
 ## Copy-writing
 
 - [See Artificial Intelligence](#artificial-intelligence)
@@ -4527,6 +4532,7 @@ TanStack Table
     - https://www.notion.so/ai
 - https://lek.ai/
 - https://cohesive.so
+- https://www.drafthorseai.com/
 
 ### Editing
 
@@ -5793,6 +5799,13 @@ TanStack Table
   - https://typer.tiangolo.com/
   - https://github.com/tiangolo/typer
 - https://github.com/SBoudrias/Inquirer.js
+- https://www.warp.dev/
+  - https://github.com/warpdotdev/
+  - https://github.com/warpdotdev/Warp
+  - https://github.com/warpdotdev/workflows
+  - https://www.commands.dev/
+    - https://github.com/warpdotdev/commands.dev
+- https://explainshell.com/
 
 ## Games
 

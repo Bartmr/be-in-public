@@ -109,6 +109,7 @@
 - CAP6412 Advanced Computer Vision - Spring 202
   - Includes introduction to transformers
   - https://www.youtube.com/playlist?list=PLd3hlSJsX_In7qup928HaHmilugBGctuF
+- https://sebinsua.com/bridging-the-gap
 
 ## Recommended by FastAI
 

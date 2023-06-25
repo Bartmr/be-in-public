@@ -60,3 +60,5 @@ Online Resources:
 - https://www.deeplearning.ai/courses/mathematics-for-machine-learning-and-data-science-specialization/
 - https://mml-book.github.io/
   - https://github.com/mml-book/mml-book.github.io
+- https://christopherolah.wordpress.com/2011/07/31/you-already-know-calculus-derivatives/
+- https://christopherolah.wordpress.com/textbooks/mathtex/
