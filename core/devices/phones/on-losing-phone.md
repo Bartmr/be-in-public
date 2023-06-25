@@ -3,3 +3,4 @@
   - keys
     - Github
 - Trigger a remote-wipe signal using Google's `Find my Device`
+- Disable SIM card that was on your phone

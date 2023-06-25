@@ -114,6 +114,8 @@
 - https://www.youtube.com/@automatalearninglab/videos
 - https://brilliant.org/
 - https://sebinsua.com/bridging-the-gap
+- Neural Network Projects with Python: The ultimate guide to using Python to explore the true power of neural networks through six projects 1st Edition, James Loy (Author); Packt
+
 
 ## Recommended by FastAI
 
