@@ -1,0 +1,5 @@
+- Revoke all SSH keys used in your previous phone
+  - whoever has the phone might still be able to access the phone's storage through USB, without Internet connection, meaning the remote-wipe signal might never arrive or arrive after they get your data
+  - keys
+    - Github
+- Trigger a remote-wipe signal using Google's `Find my Device`

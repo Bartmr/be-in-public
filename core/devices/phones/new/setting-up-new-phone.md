@@ -1,5 +1,4 @@
-- Revoke all SSH keys used in your previous phone
-  - Github
+- do `core/devices/phones/on-losing-phone.md`
 - Setup phone lock
   - prefer inputting the PIN manually everytime you need to unlock your phone
     - after android 4.4, there's no way to unlock a phone if you forget the PIN 

@@ -1,7 +1,6 @@
 > **WARNING** Never install multi-factor authentication apps on desktop computers. These apps store data that can be accessed and hacked by other software in your computer. Always keep multi-factor apps on your phone. Multi-factor should always have each factor in a separate device.
 
-- Revoke all SSH keys used in your previous machine / OS
-  - Github
+- do `core/devices/computers/on-losing-computer.md`
 
 - During OS installation
   - Enable disk encryption (LUKS)

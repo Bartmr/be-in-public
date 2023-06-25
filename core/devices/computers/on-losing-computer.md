@@ -1,0 +1,4 @@
+- Revoke all SSH keys used in your previous computer
+  - if lost your computer while it was suspended, you really need to do this since the hard drive encryption keys might still be in the RAM
+  - keys
+    - Github
