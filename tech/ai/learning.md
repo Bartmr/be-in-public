@@ -26,6 +26,7 @@
   - https://www.youtube.com/watch?v=i_LwzRVP7bg&list=PLWKjhJtqVAblStefaz_YOVpDWqcRScc2s
   - https://www.youtube.com/@freecodecamp
   - https://www.youtube.com/playlist?list=PLWKjhJtqVAblQe2CCWqV4Zy3LY01Z8aF1
+  - https://www.freecodecamp.org/learn/machine-learning-with-python/
 - https://www.coursera.org/instructor/andrewng
   - https://www.coursera.org/learn/machine-learning
 - https://www.datacamp.com/tracks/data-scientist-with-python
@@ -115,7 +116,18 @@
 - https://brilliant.org/
 - https://sebinsua.com/bridging-the-gap
 - Neural Network Projects with Python: The ultimate guide to using Python to explore the true power of neural networks through six projects 1st Edition, James Loy (Author); Packt
-
+- Search for `build your own neural network from scratch` to see the code behind all the mathematical logic of neural networks
+  - 
+    - https://medium.com/liquid-carrot/creating-a-neural-network-from-scratch-in-javascript-part-1-e469f436442d
+    - https://medium.com/liquid-carrot/creating-a-neural-network-from-scratch-in-javascript-part-1-2-1e65dbcb1445
+  - 
+    - https://medium.com/javascript-scene/how-to-build-a-neuron-exploring-ai-in-javascript-pt-1-c2726f1f02b2?utm_source=pocket_saves
+    - https://medium.com/javascript-scene/how-to-build-a-neuron-exploring-ai-in-javascript-pt-2-2f2acb9747ed
+- https://www.youtube.com/watch?v=aircAruvnKk
+- http://colah.github.io/posts/2014-07-NLP-RNNs-Representations/?utm_source=pocket_saves
+- https://pub.towardsai.net/deep-learning-explained-perceptron-dbecdeb27aaa
+- https://medium.com/analytics-vidhya/understanding-neural-networks-from-neuron-to-rnn-cnn-and-deep-learning-cd88e90e0a90
+- https://distill.pub/
 
 ## Recommended by FastAI
 
