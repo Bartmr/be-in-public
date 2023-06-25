@@ -4,6 +4,10 @@
 
 ## Combinations for seasons
 
+- Maven autoshotgun
+- havoc supressed rifle
+- MK-alpha assault rifle
+
 - Drum shotgun
 - Combat SMG
 - MK-Alpha assault rifle 
