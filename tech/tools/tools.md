@@ -550,6 +550,22 @@
   - HeadlessUI
     - https://headlessui.com/
       - https://github.com/tailwindlabs/headlessui
+  - Component Libraries
+    - https://flowbite.com
+      - The most popular and open-source library of Tailwind CSS components
+      - https://github.com/themesberg/flowbite 
+    - https://ui.shadcn.com/
+      - https://github.com/shadcn/ui 
+    - [Preline UI](https://blog.logrocket.com/10-best-tailwind-css-component-libraries/#preline-ui)
+    - [Ripple UI](https://blog.logrocket.com/10-best-tailwind-css-component-libraries/#ripple-ui)
+    - [Sira](https://blog.logrocket.com/10-best-tailwind-css-component-libraries/#sira)
+    - [Tailwind Elements](https://blog.logrocket.com/10-best-tailwind-css-component-libraries/#tailwind-elements)
+    - [Mamba UI](https://blog.logrocket.com/10-best-tailwind-css-component-libraries/#mamba-ui)
+    - [Kutty](https://blog.logrocket.com/10-best-tailwind-css-component-libraries/#kutty)
+    - [Sailboat UI](https://blog.logrocket.com/10-best-tailwind-css-component-libraries/#sailboat-ui)
+    - [HyperUI](https://blog.logrocket.com/10-best-tailwind-css-component-libraries/#hyperui)
+    - [Tailwind Starter Kit](https://blog.logrocket.com/10-best-tailwind-css-component-libraries/#tailwind-starter-kit)
+    - [Xtend UI](https://blog.logrocket.com/10-best-tailwind-css-component-libraries/#xtend-ui)
 - Bootstrap
 - MUI / Material UI
   - https://mui.com/core/
@@ -604,11 +620,6 @@
   - https://vuestorefront.io/storefront-ui
   - https://github.com/vuestorefront/storefront-ui
 - https://www.bumbag.style/
-- https://flowbite.com
-  - The most popular and open-source library of Tailwind CSS components
-  - https://github.com/themesberg/flowbite
-- https://ui.shadcn.com/
-  - https://github.com/shadcn/ui
 
 #### UI FX
 
@@ -2713,6 +2724,12 @@ TanStack Table
   - https://tiroms.weebly.com/
   - https://play.google.com/store/apps/details?id=com.classcalc.classcalc
   - https://education.ti.com/en/software/details/en/6633925F6176419197BF6CA051F5F7B4/89ti89tioperatingsystem
+- Photomath
+  - https://play.google.com/store/apps/details?id=com.microblink.photomath
+- Microsoft Maths Solver
+  - https://play.google.com/store/apps/details?id=com.microsoft.math
+- Maole Calculator: Math Solver
+  - https://play.google.com/store/apps/details?id=com.maplesoft.companion
 
 ## Data import / Moving Data / Scrapers / Crawlers
 
