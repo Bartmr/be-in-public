@@ -110,6 +110,7 @@ code --install-extension ms-python.python
 code --install-extension esbenp.prettier-vscode
 code --install-extension dbaeumer.vscode-eslint
 code --install-extension eamodio.gitlens
+code --install-extension gitlab.gitlab-workflow
 # code --install-extension donjayamanne.githistory
 
 mkdir -p ~/.config/Code/User/settings.json

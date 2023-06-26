@@ -17,3 +17,4 @@
   - https://youtu.be/XfpMkf4rD6E
 - https://github.com/SamurAIGPT/LlamaIndex-course/blob/main/fundamentals/Fundamentals.ipynb
 - https://www.cloudskillsboost.google/journeys
+- https://www.youtube.com/@automatalearninglab

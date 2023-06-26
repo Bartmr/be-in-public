@@ -5,7 +5,8 @@ https://blog.langchain.dev/
   - https://github.com/gkamradt/langchain-tutorials/blob/main/LangChain%20Cookbook.ipynb 
 - https://github.com/SamurAIGPT/langchain-course
 - https://venelinvalkov.medium.com/langchain-quickstart-build-powerful-chatgpt-applications-4d3bdbc742b2
-- https://www.youtube.com/watch?&v=E-CNrXhSvLg
+- Query Your Own Notes With LangChain
+  - https://www.youtube.com/watch?&v=E-CNrXhSvLg
 - https://towardsdatascience.com/getting-started-with-langchain-a-beginners-guide-to-building-llm-powered-applications-95fc8898732c
 - 
   - https://thenewstack.io/building-gpt-applications-on-open-source-stack-langchain/

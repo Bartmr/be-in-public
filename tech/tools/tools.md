@@ -1441,6 +1441,7 @@ TanStack Table
   - DEVELOP YOUR CI/CD PIPELINES AS CODE AND RUN THEM ANYWHERE
   - https://github.com/dagger/dagger
   - Can use Go or Python
+- https://github.com/winglang/wing
 
 ### Web App infrastructure
 
@@ -3608,6 +3609,8 @@ TanStack Table
 - LlamaIndex
   - previously GPT Index
   - https://gpt-index.readthedocs.io/en/latest/index.html
+  - https://llama-hub-ui.vercel.app/l/web-simple_web
+    - https://github.com/emptycrown/llama-hub
 - Microsoft Semantic Kernel
   - https://github.com/microsoft/semantic-kernel
   - https://devblogs.microsoft.com/semantic-kernel/
@@ -4222,6 +4225,8 @@ TanStack Table
 - https://icons8.com/
 - https://icomoon.io/
 - Ant Design Icons
+- https://ionic.io/ionicons
+  - https://github.com/ionic-team/ionicons
 
 ## Security & Updates
 
