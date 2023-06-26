@@ -2723,6 +2723,12 @@ TanStack Table
   - https://tiroms.weebly.com/
   - https://play.google.com/store/apps/details?id=com.classcalc.classcalc
   - https://education.ti.com/en/software/details/en/6633925F6176419197BF6CA051F5F7B4/89ti89tioperatingsystem
+- Photomath
+  - https://play.google.com/store/apps/details?id=com.microblink.photomath
+- Microsoft Maths Solver
+  - https://play.google.com/store/apps/details?id=com.microsoft.math
+- Maole Calculator: Math Solver
+  - https://play.google.com/store/apps/details?id=com.maplesoft.companion
 
 ## Data import / Moving Data / Scrappers / Crawlers
 
