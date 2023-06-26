@@ -1,7 +1,14 @@
 - Search for `OpenCourseWare`
+  - https://ocw.mit.edu/
+  - https://www.youtube.com/channel/UCEBb1b_L6zDS3xTUrIALZOw
+  - https://www.classcentral.com/report/ocw-courses/
+  - https://www.freecodecamp.org/news/370-online-courses-with-real-college-credit-that-you-can-access-for-free-4fec5a28646/
 - See `tech/math/learning.md`
 - See `my-notes/personal/internet/backup/archive/bookmarks-27-03-2023.html`
 - Google Drive `gmkbartolomeu@gmail.com/Tech`
+- Search HackerNews
+  - simple explanations for Deep Learning and neural networks
+- ask an LLM to create a roadmap
 - see finished projects
   - Kaggle
     - https://www.kaggle.com/code/faressayah/lending-club-loan-defaulters-prediction/input
@@ -128,6 +135,19 @@
 - https://pub.towardsai.net/deep-learning-explained-perceptron-dbecdeb27aaa
 - https://medium.com/analytics-vidhya/understanding-neural-networks-from-neuron-to-rnn-cnn-and-deep-learning-cd88e90e0a90
 - https://distill.pub/
+- https://fleuret.org/francois/#lbdl
+- https://fleuret.org/dlc/
+- https://www.cloudskillsboost.google/journeys
+1. [Introduction to Generative AI](https://www.cloudskillsboost.google/course_templates/536) – designed to be an overview of what generative AI is and how it differs from machine learning methods.
+2. [Introduction to Large Language Models](https://www.cloudskillsboost.google/course_sessions/3634938/video/379143) – explores what large language models are, where they are used, and how to use prompt tuning. (If you haven't noticed, prompt writing is being touted as a skill of the future right now.)
+3. [Introduction to Responsible AI](https://www.cloudskillsboost.google/course_templates/554) – an ethical course on what responsible AI is, how it's implemented in Google products, and why it's important. This course introduces Google's 7 AI Principles. I didn't know this was a thing, but there's a [whole page](https://ai.google/responsibility/principles/) devoted to it. Covering topics from social responsibility, to safety, accountability and privacy design principles, I was happy to see that there is large effort being paid to build in solid principles.
+4. [Generative AI Fundamentals](https://www.cloudskillsboost.google/course_sessions/3652912/quizzes/381263) – A quiz covering topics from the first three courses.
+5. [Introduction to Image Generation](https://www.cloudskillsboost.google/course_templates/541) – An introduction to diffusion models which are a family of models used in image generation. Some pre-existing knowledge of machine learning, deep learning, convolutional neural nets and/or Python programming is suggested.
+6. [Encoder-Decoder Architecture](https://www.cloudskillsboost.google/course_templates/543) – overview of a machine learning architecture for tasks like machine translation, text summarization, and question answering. Python and Tensorflow knowledge is suggested as a prerequisite.
+7. [Attention Mechanism](https://www.cloudskillsboost.google/course_templates/537) – a technique that allows neural networks to focus on specific parts of an input sequence. Some pre-existing knowledge of machine learning, deep learning, natural language processing, and/or Python programming is suggested.
+8. [Transformer Models and BERT Model](https://www.cloudskillsboost.google/course_sessions/3635001/video/377866) – Bidirectional Encoder Representations from Transformers...this is what BERT stands for in case you didn't know. You'll learn the main components of the Transformer architecture and intermediate machine learning experience as well, and knowledge of Python and TensorFlow are recommended.
+9. [Create Image Captioning Models](https://www.cloudskillsboost.google/course_sessions/3652936/video/379207) – how to create an image captioning model using deep learning. Deep learning, machine learning, natural language processing, computer vision and Python are recommended prerequisites.
+10. [Introduction to Generative AI Studio](https://www.cloudskillsboost.google/course_templates/552) – you'll walk through demos of the Generative AI Studio which helps prototype and customize generative AI models. There is a hands-on lab at the end.
 
 ## Recommended by FastAI
 

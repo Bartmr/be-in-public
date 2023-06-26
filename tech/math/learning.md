@@ -1,3 +1,7 @@
+- Search for `OpenCourseWare`
+  - https://www.freecodecamp.org/news/370-online-courses-with-real-college-credit-that-you-can-access-for-free-4fec5a28646/
+- ask an LLM to create a roadmap
+
 Where can a developer learn to read notations like the one below?
 P (V, BGPT3)=P (V |BGPT3)P (BGPT3).
 

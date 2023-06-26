@@ -16,3 +16,4 @@
 - CS25 I Stanford Seminar - Transformers United 2023: Introduction to Transformers w/ Andrej Karpathy
   - https://youtu.be/XfpMkf4rD6E
 - https://github.com/SamurAIGPT/LlamaIndex-course/blob/main/fundamentals/Fundamentals.ipynb
+- https://www.cloudskillsboost.google/journeys

@@ -2713,7 +2713,7 @@ TanStack Table
   - https://play.google.com/store/apps/details?id=com.classcalc.classcalc
   - https://education.ti.com/en/software/details/en/6633925F6176419197BF6CA051F5F7B4/89ti89tioperatingsystem
 
-## Data import / Moving Data / Scrappers / Crawlers
+## Data import / Moving Data / Scrapers / Crawlers
 
 - See [RPA](#rpa-robotic-process-automation)
 - See [Testing & QA](#testing--qa)
