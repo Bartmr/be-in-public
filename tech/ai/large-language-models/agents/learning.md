@@ -1,3 +1,4 @@
 - https://www.mattprd.com/p/the-complete-beginners-guide-to-autonomous-agents
 - https://www.mattprd.com/
 - ReAct (Reason and Act)
+- https://lilianweng.github.io/posts/2023-06-23-agent/
