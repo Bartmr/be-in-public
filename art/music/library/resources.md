@@ -25,6 +25,7 @@
 ## Hardcode & Hardstyle
 
 - QDance
+- Defqon music festival
 
 ## 70s / 80s
 
@@ -55,3 +56,5 @@
 ## Electro / Club Sounds 
 
 - Monstercat
+
+## Dance / Club Drum & Bass

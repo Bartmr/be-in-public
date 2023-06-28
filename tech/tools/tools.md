@@ -2467,6 +2467,9 @@ TanStack Table
 - https://www.activeloop.ai/
   - DeepLake
     - https://github.com/activeloopai/deeplake/
+- https://github.com/spencermountain/compromise
+- https://spacy.io/
+  - https://github.com/explosion/spaCy
 
 ### Synthetic Data / Seeding
 
