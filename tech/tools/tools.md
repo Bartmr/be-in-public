@@ -3677,6 +3677,8 @@ TanStack Table
 - https://www.activeloop.ai/
   - DeepLake
     - https://github.com/activeloopai/deeplake/
+- https://dify.ai/
+  - https://github.com/langgenius/dify
 
 ### Derivates
 
@@ -4332,6 +4334,8 @@ TanStack Table
 - Neo4J
   - graph database
 - Postgres
+  - https://database.dev/
+    - The Database Package Manager For PostgreSQL trusted language extensions (TLEs)
 - Apache Gremlin
   - graph database
 - Azure Cosmos DB
