@@ -11,3 +11,7 @@
 - https://www.smartlead.ai/
 - https://www.scrubby.io/
 - https://www.millionverifier.com/
+
+## DMARC, SPF and DKIM
+
+- https://powerdmarc.com/power-dmarc-toolbox/
