@@ -1754,7 +1754,8 @@ TanStack Table
 
   - In-app purchases
   - paywalls
-- https://whenthen.com/
+- ~~https://whenthen.com/~~
+  - now https://mangopay.com/
   - Payments orchestration
 - https://flurly.com/
 - https://www.lemonsqueezy.com/
@@ -5798,6 +5799,7 @@ TanStack Table
 - https://tiptap.dev/
   - Text editor with real time collaboration
   - https://github.com/ueberdosis/tiptap
+- https://github.com/toeverything/blocksuite
 
 ## Observability
 
