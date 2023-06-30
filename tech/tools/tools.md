@@ -794,6 +794,8 @@ TanStack Table
 - Flutter
 - Android Jetpack Compose
 - Xamarin
+- https://capacitorjs.com/
+  - https://github.com/ionic-team/capacitor
 
 #### React Native UI Frameworks
 
@@ -2734,6 +2736,10 @@ TanStack Table
   - https://play.google.com/store/apps/details?id=com.microsoft.math
 - Maole Calculator: Math Solver
   - https://play.google.com/store/apps/details?id=com.maplesoft.companion
+- https://www.sympy.org/pt/index.html
+- https://mathics.org/
+  - https://github.com/Mathics3
+  - (Legacy) https://github.com/mathics/Mathics
 
 ## Data import / Moving Data / Scrapers / Crawlers
 
@@ -3009,7 +3015,6 @@ TanStack Table
 ### Social Media
 
 - See OSINT tools in the `cybersec` repository
-- https://github.com/JustAnotherArchivist/snscrape
 - https://github.com/JustAnotherArchivist/snscrape
 
 #### LinkedIn
@@ -3763,9 +3768,15 @@ TanStack Table
 - https://github.com/jneen/parsimmon
 - https://github.com/benjamn/recast
 - https://codeql.github.com/
+- https://www.antlr.org/
+  - ANTLR (ANother Tool for Language Recognition) is a powerful parser generator for reading, processing, executing, or translating structured text or binary files. It's widely used to build languages, tools, and frameworks. From a grammar, ANTLR generates a parser that can build and walk parse trees.
+  - https://github.com/antlr
+  - https://github.com/antlr/antlr4
+  - https://www.antlr.org/tools.html
 
 ### Refactoring
 
+- See [Artificial intelligence](#artificial-intelligence-1)
 - https://github.com/facebook/jscodeshift
 - https://putout.cloudcmd.io/
   - https://github.com/coderaiser/putout

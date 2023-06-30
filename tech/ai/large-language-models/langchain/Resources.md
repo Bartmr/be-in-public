@@ -1,4 +1,5 @@
-https://blog.langchain.dev/
+- https://blog.langchain.dev/
+- https://docs.langchain.com/docs/
 - https://python.langchain.com
 - https://jonathansoma.com/words/multi-language-qa-gpt.html?utm_source=pocket_mylist
 - https://youtube.com/playlist?list=PLqZXAkvF1bPNQER9mLmDbntNfSpzdDIU5
