@@ -2070,6 +2070,7 @@ TanStack Table
   - https://github.com/novuhq/novu
 - https://www.pushwoosh.com/
 - https://www.odoo.com/
+- https://messagebird.com/
 
 ### Email
 
@@ -5364,6 +5365,9 @@ TanStack Table
 - https://www.supercreator.ai/
 - https://clideo.com/
 - https://recast.studio/
+- https://www.remotion.dev/
+  - Make videos programmatically 
+  - create real mp4 videos using React
 
 ### Video Hosting
 
