@@ -2473,6 +2473,8 @@ TanStack Table
 - https://github.com/spencermountain/compromise
 - https://spacy.io/
   - https://github.com/explosion/spaCy
+- https://www.nltk.org/
+  - https://github.com/nltk/nltk
 
 ### Synthetic Data / Seeding
 
@@ -5688,6 +5690,9 @@ TanStack Table
   - #mobile
   - https://wix.github.io/Detox/
   - https://github.com/wix/Detox
+- Espresso
+- Robotium
+- UI Automator 2.0
 
 
 ### Backend

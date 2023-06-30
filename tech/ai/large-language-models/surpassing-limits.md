@@ -3,3 +3,4 @@
   - Self Query
   - Time weighting
 - Embeddings
+  - https://www.pinecone.io/learn/chunking-strategies/

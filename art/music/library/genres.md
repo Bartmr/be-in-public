@@ -1,4 +1,6 @@
-- Italo-disco
+- Euro-dance / euro-disco
+  - Italo-disco
+  - Hi-NRG
 - Synthwave
 - Vaporwave
 - Musak
