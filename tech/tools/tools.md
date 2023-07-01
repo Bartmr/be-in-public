@@ -116,6 +116,7 @@
   - https://super.ai/store
 - https://github.com/igorbarinov/awesome-data-engineering
 - http://ludwig.ai
+- https://github.com/huggingface/awesome-huggingface
 
 #### NLP / Vector / Embeddings Search
 
@@ -2431,6 +2432,10 @@ TanStack Table
 - [Beam](https://www.beam.cloud/)
   - #serverless
 - https://www.rungalileo.io/
+- https://feast.dev/
+  - Feature Store for Machine Learning 
+  - https://github.com/feast-dev/feast
+- https://www.tecton.ai/
 
 ### NLP / Vector / Embeddings Search
 
@@ -2460,6 +2465,9 @@ TanStack Table
 - Milvus
   - https://github.com/milvus-io/milvus 
 - FAISS
+  - Facebook AI Similarity Search
+  - https://github.com/facebookresearch/faiss
+  - https://faiss.ai/
 - https://lancedb.com/
   - https://github.com/lancedb/lancedb
 - GPTCache
@@ -2476,6 +2484,11 @@ TanStack Table
   - https://github.com/explosion/spaCy
 - https://www.nltk.org/
   - https://github.com/nltk/nltk
+- https://2markdown.com/
+  - Convert websites to markdown
+- https://www.unstructured.io/
+  - https://github.com/Unstructured-IO/unstructured
+  - https://huggingface.co/unstructuredio
 
 ### Synthetic Data / Seeding
 
@@ -3249,6 +3262,7 @@ TanStack Table
 - https://solr.apache.org/
 - Google Programmable Search Engine
   - https://programmablesearchengine.google.com/about/
+- https://www.mendable.ai/
 
 ## A/B Testing
 
@@ -3692,6 +3706,7 @@ TanStack Table
 
 - https://mottle.com/ 
   - Write down your bot's personality and some documents for it's knowledge and query it
+- https://www.mendable.ai/
 
 ## Regex and text patterns
 

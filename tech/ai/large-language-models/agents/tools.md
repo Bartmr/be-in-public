@@ -15,3 +15,5 @@
   - https://github.com/homanp/superagent
 - https://github.com/AntonOsika/gpt-engineer
 - https://github.com/e2b-dev/awesome-ai-agents
+- https://www.plugnplai.com/
+  - https://github.com/edreisMD/plugnplai

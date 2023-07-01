@@ -25,7 +25,9 @@
     echo "
     export EDITOR=\"nano\"
 
-    cd ~/storage/shared/Documents/repositories" >> ~/.bashrc
+    export BARTMR_REPOSITORIES=~/storage/shared/Documents/repositories
+
+    cd \"\$BARTMR_REPOSITORIES\"" >> ~/.bashrc
 
     ssh-keygen -t ed25519 -C "pbartmr@gmail.com"
     cat /data/data/com.termux/files/home/.ssh/id_ed25519.pub

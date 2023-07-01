@@ -3,6 +3,7 @@
   - https://www.youtube.com/channel/UCEBb1b_L6zDS3xTUrIALZOw
   - https://www.classcentral.com/report/ocw-courses/
   - https://www.freecodecamp.org/news/370-online-courses-with-real-college-credit-that-you-can-access-for-free-4fec5a28646/
+  - https://pll.harvard.edu/
 - See `tech/math/learning.md`
 - See `my-notes/personal/internet/backup/archive/bookmarks-27-03-2023.html`
 - Google Drive `gmkbartolomeu@gmail.com/Tech`
@@ -148,6 +149,8 @@
 8. [Transformer Models and BERT Model](https://www.cloudskillsboost.google/course_sessions/3635001/video/377866) – Bidirectional Encoder Representations from Transformers...this is what BERT stands for in case you didn't know. You'll learn the main components of the Transformer architecture and intermediate machine learning experience as well, and knowledge of Python and TensorFlow are recommended.
 9. [Create Image Captioning Models](https://www.cloudskillsboost.google/course_sessions/3652936/video/379207) – how to create an image captioning model using deep learning. Deep learning, machine learning, natural language processing, computer vision and Python are recommended prerequisites.
 10. [Introduction to Generative AI Studio](https://www.cloudskillsboost.google/course_templates/552) – you'll walk through demos of the Generative AI Studio which helps prototype and customize generative AI models. There is a hands-on lab at the end.
+- https://pll.harvard.edu/course/cs50s-introduction-artificial-intelligence-python?delta=0
+- https://pll.harvard.edu/course/introduction-data-science-python?delta=0
 
 ## Recommended by FastAI
 

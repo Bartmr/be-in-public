@@ -5,6 +5,26 @@ set -euo pipefail
 this_dir=$(dirname "$(realpath $0)")
 cd "$this_dir"
 
+#
+
+mkdir -p ~/Documents/repositories
+touch ~/Documents/repositories/.nomedia
+
+touch ~/Documents/.nomedia
+
+touch ~/Downloads/.nomedia
+
+mkdir -p ~/automation-stuff
+touch ~/automation-stuff/.nomedia
+
+mkdir -p ~/my-apps
+mkdir -p ~/my-apps/bin
+touch ~/my-apps/.nomedia
+
+echo "
+export PATH=\$PATH:/home/$(whoami)/my-apps/bin
+export BARTMR_REPOSITORIES=/home/$(whoami)/Documents/repositories" >> .bashrc
+
 # Python
 
 # pip install --user pipenv
@@ -128,25 +148,6 @@ cat vscode-settings.json > "$HOME/.config/Code/User/settings.json"
 # sudo add-apt-repository ppa:serge-rider/dbeaver-ce
 # sudo apt-get update
 # sudo apt-get install dbeaver-ce
-
-#
-
-mkdir -p ~/Documents/repositories
-touch ~/Documents/repositories/.nomedia
-
-touch ~/Documents/.nomedia
-
-touch ~/Downloads/.nomedia
-
-mkdir -p ~/automation-stuff
-touch ~/automation-stuff/.nomedia
-
-mkdir -p ~/my-apps
-mkdir -p ~/my-apps/bin
-touch ~/my-apps/.nomedia
-
-echo "
-export PATH=\$PATH:/home/$(whoami)/my-apps/bin" >> .bashrc
 
 # Open terminal as child process in sudoed nautilus
 

@@ -4,3 +4,4 @@
   - Time weighting
 - Embeddings
   - https://www.pinecone.io/learn/chunking-strategies/
+  - https://python.langchain.com/docs/modules/data_connection/document_transformers/

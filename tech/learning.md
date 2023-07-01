@@ -2,5 +2,6 @@
   - Freecodecamp
     - Freecodecamp usually highlights lists of courses in their news from time to time
     - https://www.freecodecamp.org/news/370-online-courses-with-real-college-credit-that-you-can-access-for-free-4fec5a28646/
+  - https://pll.harvard.edu/
 - https://www.cloudskillsboost.google/journeys
 - ask an LLM to create a roadmap
