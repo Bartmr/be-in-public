@@ -5,6 +5,10 @@
 ## Combinations for seasons
 
 - Maven autoshotgun
+- sharp tooth shotgun
+- explosive repeater rifle
+
+- Maven autoshotgun
 - havoc supressed rifle
 - MK-alpha assault rifle
 
