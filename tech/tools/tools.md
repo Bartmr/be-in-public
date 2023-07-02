@@ -106,6 +106,7 @@
   - https://github.com/paperswithcode
 - https://replicate.com/explore
 - Huggingface
+- Kaggle
 - Search for Vector Databases / Vector Search
 - Cloud providers like
   - AWS
@@ -2436,6 +2437,7 @@ TanStack Table
   - Feature Store for Machine Learning 
   - https://github.com/feast-dev/feast
 - https://www.tecton.ai/
+- HuggingFace
 
 ### NLP / Vector / Embeddings Search
 
@@ -2489,6 +2491,7 @@ TanStack Table
 - https://www.unstructured.io/
   - https://github.com/Unstructured-IO/unstructured
   - https://huggingface.co/unstructuredio
+- https://huggingface.co/docs/transformers.js/index
 
 ### Synthetic Data / Seeding
 

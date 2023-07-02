@@ -151,6 +151,7 @@
 10. [Introduction to Generative AI Studio](https://www.cloudskillsboost.google/course_templates/552) – you'll walk through demos of the Generative AI Studio which helps prototype and customize generative AI models. There is a hands-on lab at the end.
 - https://pll.harvard.edu/course/cs50s-introduction-artificial-intelligence-python?delta=0
 - https://pll.harvard.edu/course/introduction-data-science-python?delta=0
+- https://www.kaggle.com/learn
 
 ## Recommended by FastAI
 
