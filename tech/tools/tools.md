@@ -2438,6 +2438,7 @@ TanStack Table
   - https://github.com/feast-dev/feast
 - https://www.tecton.ai/
 - HuggingFace
+- https://www.cerebrium.ai/
 
 ### NLP / Vector / Embeddings Search
 
