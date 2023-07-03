@@ -68,3 +68,4 @@ Online Resources:
 - https://christopherolah.wordpress.com/2011/07/31/you-already-know-calculus-derivatives/
 - https://christopherolah.wordpress.com/textbooks/mathtex/
 - https://www.freecodecamp.org/learn/college-algebra-with-python/
+- https://github.com/ossu/computer-science
