@@ -412,6 +412,7 @@
 - [Razzle.ai](#razzle-ai)
 - https://github.com/voila-dashboards/voila
   - Voilà turns Jupyter notebooks into standalone web applications 
+- https://www.marsx.dev
 
 ### Internal Tools and Back-offices
 
@@ -3165,6 +3166,8 @@ TanStack Table
 - https://www.dora.run/
 - https://komi.io/
 - https://playful.software/
+- Google Sites
+  - https://sites.google.com
 
 ### From Airtable
 
@@ -4008,6 +4011,7 @@ TanStack Table
 - https://gotenberg.dev/
   - #api #selfhosted
   - https://github.com/gotenberg/gotenberg
+- https://ui.autotrain.huggingface.co/
 
 ### Summarization
 
@@ -5048,6 +5052,7 @@ TanStack Table
 - https://inbucket.org/
   - Inbucket is an email testing application; it will accept messages for any email address and make them available to view via a web interface.
   - https://github.com/inbucket/inbucket
+- https://mailtrap.io/
 
 ## Conferences and Public Gatherings
 

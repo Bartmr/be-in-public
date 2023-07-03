@@ -152,6 +152,7 @@
 - https://pll.harvard.edu/course/cs50s-introduction-artificial-intelligence-python?delta=0
 - https://pll.harvard.edu/course/introduction-data-science-python?delta=0
 - https://www.kaggle.com/learn
+- https://investigate.ai/
 
 ## Recommended by FastAI
 
