@@ -4972,6 +4972,9 @@ TanStack Table
   - https://github.com/localstack/localstack
   - https://github.com/localstack/serverless-localstack
     - Serverless Framework plugin
+- Google Cloud Platform Cloud Shell Editor
+  - REPL that allows you to quickly test code using the services in Google Cloud Platform
+  - https://shell.cloud.google.com/
 
 ### Mocking
 
