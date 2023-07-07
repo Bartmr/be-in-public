@@ -95,6 +95,7 @@ https://github.com/Lightning-AI/lit-llama
   - https://www.promptingguide.ai/
   - https://youtu.be/dOxUroR57xs
 - Chain-of-though prompting
+- https://promptperfect.jina.ai/
 
 ## Approaches
 

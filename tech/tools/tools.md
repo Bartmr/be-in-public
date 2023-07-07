@@ -211,6 +211,8 @@
 
 - https://github.com/dair-ai/Prompt-Engineering-Guide/blob/main/pages/tools.en.mdx
 - https://python.langchain.com/en/latest/ecosystem.html
+- https://jina.ai/
+  - https://github.com/jina-ai
 
 #### Github Profiles
 
@@ -3708,6 +3710,9 @@ TanStack Table
     - https://github.com/activeloopai/deeplake/
 - https://dify.ai/
   - https://github.com/langgenius/dify
+- https://jina.ai/
+  - https://github.com/jina-ai/
+- https://promptperfect.jina.ai/
 
 ### Derivates
 

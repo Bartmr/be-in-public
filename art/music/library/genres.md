@@ -19,4 +19,4 @@
   - Miami bass
   - Acid house
 - Hardcode and Hardstyle
-- Dance / Club Drum & Bass
+- Dancefloor / Club Drum & Bass
