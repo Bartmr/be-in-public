@@ -3,51 +3,35 @@
   - 
     ```typescript
     /*
-      Controller can be in it's own .controller.ts file,
-      but more type declaration and schema code needs to be written down
+      since we don't share controller code and it's an abstraction that is not reused,
+      this example uses inline functions.
+      No need to write function types
     */
 
-    const GetNotesBodySchema = z.object({
-      id: z.string(),
-    });
-
-    const GetNotesQuerySchema = z.object({});
-
-    const GetNotesParamsSchema = z.object({});
-
-    const NotesController = {
-      addNote(
-        context: ControllerContext<
-          z.Typeof<typeof GetNotesParamsSchema>,
-          z.Typeof<typeof GetNotesQuerySchema>,
-          z.Typeof<typeof GetNotesBodySchema>
-        >
-      ) {
-        const auth = context.getAuthContext(); // throws if withAuthentication({ optional: false | undefined })
-        const optionalAuth = context.getOptionalAuthContext(); // returns undefined if authentication middleware has optional = true
-        const body = context.body;
-        const query = context.query;
-        const params = context.params;
-
-        throw new HttpError(404, {})
-      },
-    };
-
-    router.post(
-      "/notes",
+    router.get('/notes', 
       withAuthentication({ optional: true }),
       withPermissions({
-        roles: [Role.Admin],
+        roles: [Role.Admin]
       }),
       withController(
         {
-          body: z.object({}),
+          body: z.object({
+            id: z.string()
+          }),
           query: z.object({}),
           params: z.object({}),
         },
-        NotesController.addNote
+        async (context) => {
+          const auth = context.getAuthContext() // throws if withAuthentication({ optional: false | undefined })
+          const optionalAuth = context.getOptionalAuthContext()
+          const body = context.body
+          const query = context.query
+          const params = context.params
+
+          res.json({})
+        }
       )
-    );
+    )
     ```
   - 
     ```typescript
@@ -66,7 +50,10 @@
 
     const NotesController = {
       addNote(
-        context: ControllerContext<
+        req: AppRequest,
+        res: AppResponse,
+        next: NextFunction,
+        controllerContext: ControllerContext<
           z.Typeof<typeof GetNotesParamsSchema>,
           z.Typeof<typeof GetNotesQuerySchema>,
           z.Typeof<typeof GetNotesBodySchema>
@@ -77,6 +64,8 @@
         const body = context.body;
         const query = context.query;
         const params = context.params;
+
+        res.json({})
       },
     };
 
