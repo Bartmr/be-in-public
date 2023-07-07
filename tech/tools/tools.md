@@ -2906,6 +2906,8 @@ TanStack Table
   - https://github.com/modesty/pdf2json
 - https://github.com/mozilla/pdf.js/
 - https://www.npmjs.com/package/pdf-parse
+- https://camelot-py.readthedocs.io/en/master/
+  - https://github.com/camelot-dev/camelot
 
 ### Spreadsheets
 
