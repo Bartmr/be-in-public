@@ -21,7 +21,7 @@
           query: z.object({}),
           params: z.object({}),
         },
-        async (context) => {
+        async (req, res, next, context) => {
           const auth = context.getAuthContext() // throws if withAuthentication({ optional: false | undefined })
           const optionalAuth = context.getOptionalAuthContext()
           const body = context.body
