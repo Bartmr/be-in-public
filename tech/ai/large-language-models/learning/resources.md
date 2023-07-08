@@ -18,3 +18,4 @@
 - https://github.com/SamurAIGPT/LlamaIndex-course/blob/main/fundamentals/Fundamentals.ipynb
 - https://www.cloudskillsboost.google/journeys
 - https://www.youtube.com/@automatalearninglab
+- https://txt.cohere.com/what-are-transformer-models/

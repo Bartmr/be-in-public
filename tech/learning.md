@@ -5,3 +5,5 @@
   - https://pll.harvard.edu/
 - https://www.cloudskillsboost.google/journeys
 - ask an LLM to create a roadmap
+- https://www.classcentral.com/
+- openlibrary.org
