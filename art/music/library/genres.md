@@ -1,8 +1,10 @@
+- http://music.ishkur.com/
 - Euro-dance / euro-disco
   - Italo-disco
   - Hi-NRG
 - Synthwave
 - Vaporwave
+- Chillwave
 - Musak
   - 60s / 70s supermarket / mall / elevator music
 - 80s movie soundtracks
@@ -20,3 +22,4 @@
   - Acid house
 - Hardcode and Hardstyle
 - Dancefloor / Club Drum & Bass
+- balearic house
