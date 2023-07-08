@@ -1,6 +1,6 @@
 ## Email Hosting
 
-- Zoho Email
+- Zoho Mail
   - Free
 - Google Workspaces
 
