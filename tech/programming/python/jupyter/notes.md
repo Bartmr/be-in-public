@@ -38,3 +38,7 @@ load_dotenv()
   (content)
   $$
   ```
+
+## Git
+
+- https://www.reviewnb.com/git-jupyter-notebook-ultimate-guide

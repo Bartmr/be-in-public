@@ -2440,6 +2440,8 @@ TanStack Table
 - https://www.tecton.ai/
 - HuggingFace
 - https://www.cerebrium.ai/
+- https://www.reviewnb.com/
+- https://monsterapi.ai/
 
 ### NLP / Vector / Embeddings Search
 
@@ -3284,6 +3286,7 @@ TanStack Table
 - https://www.statsig.com/
 - https://www.optimizely.com/
 - [Posthog](#posthog)
+- https://configcat.com/
 
 ## Ecommerce / Shopping / Marketplaces / Stores
 
