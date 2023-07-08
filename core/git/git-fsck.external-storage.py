@@ -20,7 +20,7 @@ def git_fsck(important_repo: ImportantRepo):
 
   result: subprocess.CompletedProcess[bytes]  = subprocess.run(
     executable="/bin/bash",
-    cwd='/media/{username}/backups/{important_repo_name}'.format(
+    cwd='/media/{username}/BACKUPS/{important_repo_name}'.format(
       username=username,
       important_repo_name=important_repo_name
     ), 
