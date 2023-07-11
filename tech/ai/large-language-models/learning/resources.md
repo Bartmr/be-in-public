@@ -19,3 +19,4 @@
 - https://www.cloudskillsboost.google/journeys
 - https://www.youtube.com/@automatalearninglab
 - https://txt.cohere.com/what-are-transformer-models/
+- https://jalammar.github.io/?ref=txt.cohere.com

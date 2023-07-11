@@ -3,6 +3,7 @@
 - https://promptomania.com/
 - https://enchanting-trader-463.notion.site/Midjourney-AI-Guide-41eca43809dd4d8fa676e648436fc29c
 - https://stablediffusionweb.com/prompts
+- https://github.com/AUTOMATIC1111/stable-diffusion-webui/wiki/Features#prompt-editing
 
 ## Tools
 

@@ -4,6 +4,12 @@
 
 ## Combinations for seasons
 
+- Drum shotgun
+- Combat SMG
+- MK-Alpha assault rifle
+
+
+
 - Maven autoshotgun
 - sharp tooth shotgun
 - explosive repeater rifle

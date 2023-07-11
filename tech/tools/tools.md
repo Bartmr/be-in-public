@@ -2444,6 +2444,9 @@ TanStack Table
 - https://www.cerebrium.ai/
 - https://www.reviewnb.com/
 - https://monsterapi.ai/
+- https://wandb.ai/
+  - https://github.com/wandb/wandb
+  - A tool for visualizing and tracking your machine learning experiments.
 
 ### NLP / Vector / Embeddings Search
 
@@ -3718,6 +3721,9 @@ TanStack Table
 - https://jina.ai/
   - https://github.com/jina-ai/
 - https://promptperfect.jina.ai/
+- https://github.com/deepset-ai/haystack
+  - Haystack is an open source NLP framework to interact with your data using Transformer models and LLMs (GPT-4, ChatGPT and alike). Haystack offers production-ready tools to quickly build complex question answering, semantic search, text generation applications, and more. 
+  - https://haystack.deepset.ai/
 
 ### Derivates
 
