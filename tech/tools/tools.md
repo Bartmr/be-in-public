@@ -1247,6 +1247,10 @@ TanStack Table
     - Can call a API with `curl` in order to start a cron hob
 - https://www.svix.com/
   - #webhooks
+- `async`
+  - npm module
+  - https://github.com/caolan/async
+  - https://caolan.github.io/async/
 
 ## Chatbots and Voice Assistants
  
